@@ -1,0 +1,40 @@
+{
+    "id": "2001-silverstein-002",
+    "anchor": "y2001-aftermath",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "wtc",
+        "insurance",
+        "real-estate"
+    ],
+    "claim": "Silverstein's WTC lease included approximately $3.55 billion of property insurance coverage. After protracted post-9/11 litigation over whether the attacks constituted one or two insurable 'occurrences,' a December 6, 2004 jury verdict ruled that nine of the involved insurers were liable under the two-occurrence interpretation (maximum ~$2.2 billion); three other insurers had previously won a single-occurrence ruling. Total insurance settlements reached approximately $4.55 billion by 2007.",
+    "sources": [
+        {
+            "label": "AM Best News \u2014 \u201cThree Insurers Win Ruling That WTC Disaster Was One Event\u201d",
+            "type": "secondary",
+            "url": "https://news.ambest.com/newscontent.aspx?refnum=52954&altsrc=174"
+        },
+        {
+            "label": "Spokesman-Review \u2014 \u201cWTC destruction ruled two events\u201d (Dec 7, 2004)",
+            "type": "secondary",
+            "url": "https://www.spokesman.com/stories/2004/dec/07/wtc-destruction-ruled-two-events/",
+            "quote": "A federal jury ruled Monday that the Sept. 11 attack on the World Trade Center was two occurrences for insurance purposes",
+            "clip": "clips/2001-silverstein-002-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Cozen O'Connor Insurance Coverage Observer (Summer 2004) \u2014 overview of WTC two-occurrence litigation",
+            "type": "secondary",
+            "url": "https://www.cozen.com/admin/files/publications/inscovobssummer04.pdf"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Insurance face value ($3.55B), the two-occurrence ruling date (Dec 6 2004), and total settlement figure ($4.55B by 2007) are consistently reported across business-press sources. Primary court records (S.D.N.Y.) would be the definitive citation and are pending. The reel's framing characterizes the policy as 'first of its kind for the maximum payout' \u2014 Silverstein's policies were standard commercial property policies; the 'two-occurrence' interpretation came from litigation after the fact, not from the policy design."
+}

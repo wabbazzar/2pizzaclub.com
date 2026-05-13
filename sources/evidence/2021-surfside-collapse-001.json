@@ -1,0 +1,45 @@
+{
+    "id": "2021-surfside-collapse-001",
+    "anchor": "y2021-surfside",
+    "year": 2021,
+    "era": "iv",
+    "themes": [
+        "surfside",
+        "structural-failure",
+        "florida",
+        "nist"
+    ],
+    "claim": "On June 24, 2021, at approximately 1:22 a.m. EDT, Champlain Towers South — a 12-story beachfront condominium in Surfside, Florida — partially collapsed, killing 98 people and ranking among the deadliest structural disasters in U.S. history. NIST's preliminary investigation has identified the pool deck as the likely origin of the collapse, with long-term water penetration and corrosion of reinforced concrete in the underground parking structure as contributing factors; problems had been reported in 2018 and described as 'much worse' in April 2021.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Surfside condominium collapse”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Surfside_condominium_collapse",
+            "quote": "On June 24, 2021, at approximately 1:22 a.m. EDT, Champlain Towers South, a 12-story beachfront condominium in the Miami suburb of Surfside, Florida, United States, partially collapsed, causing the deaths of 98 people.",
+            "clip": "clips/2021-surfside-collapse-001-00.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "U.S. National Institute of Standards and Technology — “Champlain Towers South Collapse” (investigation hub)",
+            "type": "primary",
+            "url": "https://www.nist.gov/disaster-failure-studies/champlain-towers-south-collapse"
+        },
+        {
+            "label": "WLRN — “Investigators point to pool deck as origin of Champlain Towers South collapse in Surfside” (Sep 9, 2025)",
+            "type": "secondary",
+            "url": "https://www.wlrn.org/government-politics/2025-09-09/nist-surfside-collapse-cause-champlain-towers-south"
+        },
+        {
+            "label": "U.S. Government Accountability Office — “Disaster Assistance: Information on the 2021 Condominium Collapse in Surfside, Florida” (GAO-24-106558)",
+            "type": "primary",
+            "url": "https://www.gao.gov/products/gao-24-106558"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DRoJ9FFiSUv (Nov 28, 2025) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DRoJ9FFiSUv/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Anchor y2021-surfside is new. NIST's ongoing technical investigation has identified pool-deck origin and reinforced-concrete degradation as the leading cause hypothesis; this is the documented structural-engineering record and the counterweight to any framing that the collapse was caused by intentional action."
+}

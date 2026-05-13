@@ -1,0 +1,52 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+
+— FULL TEXT —
+
+of the towers collapsed onto the lower one.
+The upper and lower sections should have mutually destroyed each other until all the
+energy is dissipated and the system comes to arrest.
+What could not have happened is this.
+A little tiny chunk of the building can't possibly fall and crush the entire structure
+below it.
+This is such a simple fundamental concept that architects and engineers were astonished
+in seeing it totally ignored by NIST.
+This is high school physics and our whole society is being led to believe that these
+fundamental laws of physics, hard science, don't apply anymore.
+But even if we assumed that the top section of the tower had enough potential energy
+to destroy the rest of the structure below, it could not have done so at the speed it
+did, which was near free fall speed.
+That would have violated an even more important principle in physics, known as the law of
+momentum conservation.
+This law states that the total energy within an isolated system must always remain the
+same.
+As we have seen, the energy can be transformed within the system, from motion to physical
+deformation.
+But for the deformation to begin, the velocity must decrease in order for one kind of energy
+to be transformed into the other.
+No new energy can be added to the system.
+One particular example of momentum conservation is free fall.
+Free fall happens when the only force applied on an object is gravity.
+This means that all the potential energy contained by the object is converted into vertical
+motion.
+As soon as the falling object hits an obstacle and breakage occurs, the speed must decrease
+because some of its energy needs now to be converted into physical breakage.
+It takes energy to break things apart and that energy must come from within the system.
+Thus, the falling rock cannot keep falling at free fall speed and break apart at the
+same time because it doesn't have enough energy to do both.
+Let's go now to the twin towers and ask a simple question.
+Assuming that the top section on the left contains enough potential energy to destroy
+the rest of the tower and assuming we dropped both upper sections at the same time, which
+one would hit the ground first.
+It would be the second, of course.
+As it finds no obstacles in its path, the section on the right would quickly accelerate
+the free fall speed and maintain it all the way to the ground.
+The section on the left instead needs to use some of its energy to destroy the structure
+below so it could never achieve free fall speed.
+In the case of the twin towers, however, both upper sections fell with an acceleration
+close to free fall speed as if their path had been practically free from obstacles.
+It took each tower between 10 and 12 seconds to collapse to the ground while an absolute
+free fall time would have been 9.2 seconds.
+
+— END —

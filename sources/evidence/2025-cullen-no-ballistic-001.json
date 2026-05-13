@@ -1,0 +1,32 @@
+{
+    "id": "2025-cullen-no-ballistic-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": ["kirk", "ballistic-forensics", "alt-theory", "contested"],
+    "claim": "John Cullen, a former commercial pilot and independent investigator, has publicly argued that the round which killed Charlie Kirk was never recovered and therefore has no ballistic match to the bolt-action .30-06 rifle found in the wooded area near Utah Valley University. Cullen further argues, in his ongoing YouTube and X publications on the case, that the publicly available audio and video evidence are inconsistent with a single rooftop shooter at 142 yards.",
+    "sources": [
+        {
+            "label": "John Cullen on X — “The round that shot Charlie Kirk was not recovered” (@I_Am_JohnCullen)",
+            "type": "primary",
+            "url": "https://x.com/I_Am_JohnCullen/status/1966671807617941891"
+        },
+        {
+            "label": "John Cullen — “Hypothetically Speaking: Who Shot Charlie Kirk, and, From Where?” (YouTube)",
+            "type": "primary",
+            "url": "https://www.youtube.com/watch?v=0kH3Tr3xx8c"
+        },
+        {
+            "label": "LewRockwell.com — “More on Cullen Analysis” (commentary)",
+            "type": "secondary",
+            "url": "https://www.lewrockwell.com/lrc-blog/more-on-cullen-analysis/"
+        },
+        {
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
+        }
+    ],
+    "status": "contested-public-claim",
+    "notes": "Cullen's central factual claim — that no recovered round has been ballistically matched to the recovered rifle — is testable against the Utah County Attorney's charging document and the FBI's public statements. As of the charging-document filing in September 2025, the prosecution's case rests on DNA evidence on the rifle, the towel, and the trigger (see 2025-kirk-002); the charging document does not reference a recovered projectile. Whether that absence is forensically significant is the contested question. This record documents the public claim and the cited primary sources; readers can compare against 2025-kirk-002 directly."
+}

@@ -1,0 +1,41 @@
+{
+    "id": "2025-datacenter-bonds-yield-001",
+    "anchor": "y2026-ai-bubble",
+    "year": 2025,
+    "era": "v",
+    "themes": [
+        "ai-bubble",
+        "data-centers",
+        "private-credit",
+        "bond-ratings",
+        "yield-mismatch"
+    ],
+    "claim": "Bond-market reporting in late 2025 and early 2026 has highlighted a recurring pattern in private-equity-backed data-center financings: investment-grade ratings paired with yields that historically sit in the speculative-grade (high-yield, or 'junk') range. Specifically, the Corporate Gossip podcast cites a Morningstar/S&P-rated bond issued to fund a private-equity data-center investment, assigned an A+ rating but trading at a 6.58 percent yield — a yield range typically associated with non-investment-grade paper. The historical parallel cited by the podcast is the structuring of mortgage-backed securities in the run-up to 2008, where investment-grade tranches contained underlying loans of varying credit quality.",
+    "sources": [
+        {
+            "label": "S&P Global Market Intelligence — “Private equity investment surge sends US data center deals to 5-year high”",
+            "type": "primary",
+            "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/5/private-equity-investment-surge-sends-us-data-center-deals-to-5-year-high-100947405"
+        },
+        {
+            "label": "Bank for International Settlements — “Financing the AI boom: from cash flows to debt”",
+            "type": "primary",
+            "url": "https://www.bis.org/publ/bisbull120.pdf"
+        },
+        {
+            "label": "Wikipedia — Bond credit rating (reference for the A+ rating tier and the conventional yield/rating relationship)",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Bond_credit_rating",
+            "quote": "investment grade",
+            "clip": "clips/2025-datacenter-bonds-yield-001-02.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Corporate Gossip podcast, Instagram reel DSfVRVcgHLl (Dec 20, 2025) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DSfVRVcgHLl/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "The specific bond cited (A+ rating, 6.58 percent yield) is referenced by the podcast hosts as appearing in Morningstar/S&P-published bond data; the exact issuer/issuance has not been named in this record and is left as a pending primary citation. The macro pattern (rapid private-equity expansion into data-center deals, growing reliance on private credit) is well-documented in the linked S&P Global and BIS sources."
+}

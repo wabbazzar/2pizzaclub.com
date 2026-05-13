@@ -1,0 +1,51 @@
+{
+    "id": "2025-bray-mic-theory-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "kirk",
+        "exploding-mic",
+        "alt-theory",
+        "stew-peters",
+        "contested"
+    ],
+    "claim": "Jon Aaron Bray, a researcher with a background in body-armor development, has publicly argued that Charlie Kirk was killed not by a rifle bullet but by a microshaped charge concealed inside the battery compartment of his Shure wireless lavalier microphone — a device he says was modeled on the Israeli pager and walkie-talkie operation against Hezbollah in September 2024. Bray's analysis, presented in an interview with Stew Peters and elaborated in follow-on streams, applies a modified version of an MIT Media Lab optical-flow algorithm to multiple camera angles of the shooting in order to identify what he describes as an epicenter of energy on Kirk's upper sternum.",
+    "sources": [
+        {
+            "label": "Charlie Kirk memorial archive — “John Bray Explains the Exploding Microphone Theory Behind Charlie Kirk's Death with Data and Analysis”",
+            "type": "primary",
+            "url": "https://www.charliekirk.co.za/video/john-bray-explains-the-exploding-microphone-theory-behind-charlie-kirks-death-with-data-and-analysis/5109",
+            "quote": "A microshaped charge hidden inside Kirk's Shure wireless microphone battery, similar to the devices used in the 2023 Hezbollah pager attacks.",
+            "clip": "clips/2025-bray-mic-theory-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Stew Peters Show — “Stew Peters Interviews Jon Bray: Charlie Kirk Assassinated By Exploding Mic” (Rumble)",
+            "type": "primary",
+            "url": "https://rumble.com/v75n7dc-stew-peters-interviews-jon-bray-charlie-kirk-assassinated-by-exploding-mic.html"
+        },
+        {
+            "label": "Jon Bray on X — @jonaaronbray",
+            "type": "primary",
+            "url": "https://x.com/jonaaronbray/status/1968489707563549064"
+        },
+        {
+            "label": "12bytes.org — “Charlie Kirk assassination: The 'exploding mic' theory gets a scientific boost” (updated Feb 12, 2026)",
+            "type": "secondary",
+            "url": "https://12bytes.org/charlie-kirk-assassination-the-exploding-mic-theory-gets-a-scientific-boost/"
+        },
+        {
+            "label": "AAP FactCheck — “Viral conspiracy theory about Charlie Kirk's death is false”",
+            "type": "secondary",
+            "url": "https://www.aap.com.au/factcheck/viral-conspiracy-theory-about-charlie-kirks-death-is-false/"
+        },
+        {
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
+        }
+    ],
+    "status": "contested-public-claim",
+    "notes": "Bray's methodology and conclusions are publicly available and trace to identifiable presentations. The exploding-microphone hypothesis does not appear in the prosecution's charging document for Tyler Robinson or in any U.S. government forensic statement on the case. AAP FactCheck rated the underlying viral claim false. This record documents the existence of the public theory and links both the originating analysis and the published rebuttal; it does not endorse either side."
+}

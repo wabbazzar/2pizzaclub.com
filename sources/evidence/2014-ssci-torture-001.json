@@ -1,0 +1,30 @@
+{
+    "id": "2014-ssci-torture-001",
+    "anchor": "y2001-aftermath",
+    "year": 2014,
+    "era": "iii",
+    "themes": [
+        "cia",
+        "torture",
+        "9-11",
+        "congressional-oversight"
+    ],
+    "claim": "On December 9, 2014, the U.S. Senate Select Committee on Intelligence released the declassified Findings and Conclusions and Executive Summary of its Study of the CIA's Detention and Interrogation Program, documenting the agency's use of waterboarding and other 'enhanced interrogation techniques' on post-9/11 detainees.",
+    "sources": [
+        {
+            "label": "U.S. Senate Select Committee on Intelligence: \u201cCommittee Releases Study of the CIA's Detention and Interrogation Program\u201d (press release, Dec 9, 2014)",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/2014/12/09/press-committee-releases-study-cias-detention-and-interrogation-program/",
+            "quote": "Committee Releases Study of the CIA's Detention and Interrogation Program",
+            "clip_status": "ok-exact",
+            "clip": "clips/2014-ssci-torture-001-00.png"
+        },
+        {
+            "label": "S. Rept. 113-288, 113th Congress (Dec 9, 2014)",
+            "type": "primary",
+            "url": "https://www.congress.gov/committee-report/113th-congress/senate-report/288"
+        }
+    ],
+    "status": "verified",
+    "notes": "SSCI press-release URL fetched (2026-05-11) and content confirmed: Feinstein foreword, Findings & Conclusions, and Executive Summary all linked. Provides the institutional corroboration that the CIA conducted the program Kiriakou described in 2007. Congress.gov URL not directly fetched in this pass \u2014 it is the official Congressional record location for S. Rept. 113-288 and should be re-confirmed if link rot is suspected."
+}

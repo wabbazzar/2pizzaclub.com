@@ -1,0 +1,35 @@
+{
+    "id": "DWxV_gPD_DH",
+    "url": "https://www.instagram.com/reel/DWxV_gPD_DH/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@future.is.ai",
+    "author_display_name": "Future AI",
+    "posted_at": "2026-04-05",
+    "engagement": {
+        "likes": 15000,
+        "comments": 547
+    },
+    "caption": "Entrepreneur and business strategist Daniel Priestley recently issued a stark warning on The Diary of a CEO about a looming AI financial crash in 2029. He argues that the global economy is pouring roughly 650 billion dollars annually into massive data centers that currently lack a sustainable profit model. Unlike the railroads of the 19th century that lasted for a hundred years, modern data center hardware becomes obsolete every three to four years, creating a relentless and expensive cycle of debt and replacement.\n\nPriestley compares this infrastructure bubble to the market distortions that occurred exactly a century ago, leading to the Great Depression. He notes that while billions are spent on the \"supply\" side of intelligence, only about 5% of users are currently willing to pay for premium AI services. This imbalance suggests a massive correction is coming where the \"old world\" financial systems will struggle to support the hyper-efficiency of AI, potentially wiping out retirement savings and traditional corporate structures that fail to adapt.\n\nIs the 2029 crash an inevitable result of our AI infrastructure obsession?\n\nFollow @future.is.ai\n\n#fyp #life #ai",
+    "hashtags": [
+        "fyp",
+        "life",
+        "ai"
+    ],
+    "audio_track_actual": "Audio excerpt of Daniel Priestley speaking on Steven Bartlett's The Diary of a CEO podcast (March 2026 episode), packaged here over title-card graphics by @future.is.ai.",
+    "video_overlay_text_observed": "Title-card overlays naming Daniel Priestley, the Diary of a CEO source, and the years referenced in his analysis (the 19th-century railway booms, 1929, 2029); split-screen graphics comparing infrastructure-lifecycle figures for railroads, highways, fiber, and data centers.",
+    "audio_content_summary": "Priestley argues that whenever a society spends more than 3 percent of GDP on an infrastructure buildout, a roughly decade-long economic bust has historically followed. He cites the UK and U.S. railway booms, electrification, and highway buildouts as precedents. He notes a structural difference with the current AI capex wave: data-center hardware obsolesces in 3–4 years, versus a century for rail, fifty years for highways, and thirty for fiber. He predicts a major financial meltdown in 2029, the centennial of the Great Depression. The underlying capex numbers — roughly $650 billion globally per year, ~5 percent of U.S. GDP — are corroborated by Goldman Sachs, Citi, the BIS, and Dell'Oro Group; the 2029 prediction is Priestley's analytical inference.",
+    "implied_frame": "The reel pairs Priestley's prediction with the implication that the current AI buildout follows the structure of every previous infrastructure bubble — but with a far shorter hardware lifecycle. The Goldman, BIS, and Citi numbers cited below confirm the scale; the bust prediction is the speaker's interpretive call.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~11 MB, vp9 720x1280, 89s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2026-priestley-2029-prediction-001",
+        "2025-ai-datacenter-capex-001"
+    ],
+    "supporting_research_links": [
+        "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out",
+        "https://www.bis.org/publ/bisbull120.pdf",
+        "https://singjupost.com/diary-of-a-ceo-w-daniel-priestley-on-ais-seismic-shifts-transcript/"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2001-silverstein-003",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "wtc"
+    ],
+    "claim": "Silverstein has publicly stated in multiple interviews that on the morning of September 11, 2001 he was at a dermatologist appointment at his wife's insistence, missing his customary breakfast meeting at Windows on the World atop WTC 1.",
+    "sources": [
+        {
+            "label": "Times of Israel \u2014 \u201cLarry Silverstein: I decided to rebuild World Trade Center just 2 days post-9/11\u201d",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/larry-silverstein-i-decided-to-rebuild-world-trade-center-just-2-days-post-9-11/"
+        },
+        {
+            "label": "Wikipedia \u2014 Larry Silverstein",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Larry_Silverstein",
+            "quote": "his wife insisted he attend a medical appointment",
+            "clip": "clips/2001-silverstein-003-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Silverstein's dermatologist-appointment account has been told by him in multiple interviews over the years; not a contested fact but an autobiographical claim by him. Cited here as a public statement by Silverstein, not as independent corroboration of his location. Primary would be a video interview where he says it; pending."
+}

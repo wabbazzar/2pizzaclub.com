@@ -1,0 +1,41 @@
+{
+    "id": "2021-anthropic-split-001",
+    "anchor": "y2021-anthropic",
+    "year": 2021,
+    "era": "v",
+    "themes": [
+        "anthropic",
+        "amodei",
+        "openai",
+        "ai-safety",
+        "ai-race"
+    ],
+    "claim": "Anthropic was incorporated in 2021 as a public-benefit corporation by a group of senior OpenAI researchers who departed in December 2020 — including Dario Amodei (then VP of Research at OpenAI) and his sister Daniela Amodei (then VP of Safety & Policy), along with Chris Olah, Jared Kaplan, and several others. The publicly stated reason was a difference in approach to scaling — what Dario Amodei has described as a responsible-scaling approach prioritizing trust both in the system and in the people building it.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Anthropic”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Anthropic",
+            "quote": "Anthropic was founded in 2021 by former members of OpenAI",
+            "clip": "clips/2021-anthropic-split-001-00.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "Wikipedia — “Dario Amodei”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Dario_Amodei"
+        },
+        {
+            "label": "Inc. — “Anthropic CEO Dario Amodei Says He Left OpenAI Over a Difference in 'Vision'”",
+            "type": "secondary",
+            "url": "https://www.inc.com/ben-sherry/anthropic-ceo-dario-amodei-says-he-left-openai-over-a-difference-in-vision/91018229"
+        },
+        {
+            "label": "Ronan Farrow / Andrew Marantz, Instagram reel DYFn1LbvhP_ (May 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFn1LbvhP_/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Amodei siblings' departure and the formation of Anthropic are documented across the press and the company's own founding statements. The 2026 Farrow investigation alleges that, in 2023, Sam Altman accused the same two safety executives of plotting a coup at OpenAI — see 2026-farrow-altman-001 for that thread."
+}

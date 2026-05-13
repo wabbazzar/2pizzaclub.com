@@ -1,0 +1,15 @@
+Source: reel.webm (58s)
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+Visual: podcast-style two-person interview between Jake Shields and a guest credited as @old_world_florida.
+
+— FULL TEXT —
+
+Just mysteriously building seven into rubble in North, in North Miami — that was in Bal Harbour — that happened on the same night that John McAfee died, and it's believed that he had an apartment or information stored in this one little apartment in Bal Harbour. When that apartment building collapsed, they didn't let American response teams or like emergency teams do all the digging — Jake, I'm not even kidding, go look this up — they literally brought in the IDF to dig through the rubble, and there's big — dude, it's Ron DeSantis had a whole ceremony where he was like patting the IDF on the back, like, "thanks, like, how can we know if you handle American matters?" It's insane.
+
+— END —
+
+Transcription notes:
+- "Val Harbor" / "Val Harbour" is whisper miss-hearing "Bal Harbour." (The actual collapse site was Surfside, Florida — directly adjacent to Bal Harbour; the guest conflates the two neighboring municipalities.)
+- "the idea" is whisper miss-hearing "the IDF."
+- John McAfee died on June 23, 2021; the Champlain Towers South collapsed on June 24, 2021 — adjacent dates, not the same night as the guest narrates.

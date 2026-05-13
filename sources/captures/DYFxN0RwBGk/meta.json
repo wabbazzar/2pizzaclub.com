@@ -1,0 +1,38 @@
+{
+    "id": "DYFxN0RwBGk",
+    "url": "https://www.instagram.com/reel/DYFxN0RwBGk/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@jakeshieldspod",
+    "author_display_name": "Fight Back Podcast",
+    "posted_at": "2026-05-08",
+    "engagement": {
+        "likes": 288000,
+        "comments": 6247
+    },
+    "caption": "Stew Peters talks about the connection between Pete Hegseth and Charlie Kirk",
+    "hashtags": [],
+    "audio_track_actual": "Stew Peters, in conversation with Jake Shields on the Fight Back Podcast, narrating a sequence of flight-tracking and contract-procurement claims connecting Pete Hegseth and Charlie Kirk.",
+    "video_overlay_text_observed": "Talking-head podcast footage with on-screen graphics naming tail number 99-0404, the SAM-702 call sign, Fort Huachuca, Joint Base Andrews, and Accurate Energetic Systems (AES) of Tennessee.",
+    "audio_content_summary": "Peters chains together four threads. (1) The AES explosion on October 10, 2025 — confirmed by the U.S. Chemical Safety Board and TOSHA, killing 16 workers and detonating roughly 23,000 lbs of explosives — is a documented industrial event with documented predicating safety violations. (2) AES is a documented Department of Defense munitions contractor. The USAspending.gov recipient profile (UEI JKNXCZNPF1M8, headquartered at 5891 Highway 230 W, McEwen, TN) shows $13.6 million in trailing-12-month awards across 17 transactions, with 99.84 percent from the Department of Defense (primarily Army Ammunition Manufacturing, NAICS 332993) and a smaller Explosives Manufacturing slice (NAICS 325920) totaling $178,865. AES also won a $119.6 million Army Corps of Engineers TNT supply contract announced September 23, 2025 (single bid received). The specific $440,000 'micro-explosive' purchase order Peters describes does not appear as a discrete line item in the publicly-visible recipient view or in the SAM.gov contract-data search that replaced FPDS in February 2026. (3) Tail number 99-0404 is a real U.S. Air Force aircraft — Gulfstream C-37A, mode-S hex AE04F9, registered to the 99th Airlift Squadron of the 89th Airlift Wing at Joint Base Andrews. Flightradar24's free-tier history (read May 13, 2026) shows a recent pattern of flights to MacDill AFB / CENTCOM (Tampa), Teterboro NJ, San Diego, Sacramento, and Honolulu under SAM callsigns — consistent with active senior-official SAM use, but not specific to Hegseth. Flightradar24's history older than seven days is paywalled, so direct confirmation or rebuttal of the September 8, 2025 and October 10, 2025 routing claims requires a paid subscription. The aircraft documented as carrying Secretary Hegseth on his closest publicly-reported flight (the October 15, 2025 RAF Mildenhall emergency landing) was tail 98-0002, a Boeing C-32A, a different airframe in the same wing. The reel's central framing — that Hegseth himself was aboard the 99-0404 / SAM 702 flight to Fort Huachuca on September 8 — is directly contradicted by mainstream-press documentation that Hegseth and Joint Chiefs Chairman Gen. Dan Caine were in Carolina, Puerto Rico that day, meeting with personnel at the 156th Wing Muñiz Air National Guard Base as part of the Caribbean counternarcotics escalation (see 2025-hegseth-puerto-rico-001). The originating Project Constitution X post itself acknowledges this and pivots to the argument that Hegseth's plane could have been at Fort Huachuca without Hegseth aboard. (4) The Fort Huachuca eyewitness claim traces to retired Army staff sergeant Mitch Snow, with amplification by commentator Candace Owens and the Project Constitution account. Snow specifically places Erika Kirk and Cabot Phillips in the lobby of the Candlewood Suites near the base on the afternoon of September 8, and Brian Harpool (Kirk's head of security) at a Fort Huachuca JTF-SB meeting on September 9. Cabot Phillips has publicly rebutted that identification, telling Newsweek 'The following morning, I was at work as usual.' Erika Kirk's specific public schedule for September 8 is not on the published record either way.",
+    "implied_frame": "The reel proposes that the Kirk killing, the DOD contract, the Fort Huachuca meeting, and the AES explosion are pieces of a single operation that a specific Special Air Mission flight is alleged to confirm. Verification of the underlying pieces is mixed: the AES explosion and AES's general DOD-contractor status are documented; the specific $440K micro-explosive line item is not yet visible in public procurement records; tail 99-0404 is a real aircraft but is not the one Hegseth was on in the closest publicly-documented incident; and the Fort Huachuca identification has a named witness and a named, publicly-documented rebuttal.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~28 MB, vp9 720x1280, 131s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2025-aes-explosion-001",
+        "2025-aes-dod-contracts-001",
+        "2025-hegseth-aes-flight-001",
+        "2025-hegseth-puerto-rico-001",
+        "2025-fort-huachuca-claim-001"
+    ],
+    "supporting_research_links": [
+        "https://www.csb.gov/-accurate-energetic-systems-fatal-explosion/",
+        "https://en.wikipedia.org/wiki/2025_Tennessee_manufacturing_plant_explosion",
+        "https://www.cbsnews.com/news/tennessee-munitions-factory-explosion-safety-violations/",
+        "https://www.usaspending.gov/recipient/f5b71b54-b894-7a5e-093e-870cd50dbe9e-C/latest",
+        "https://www.flightradar24.com/data/aircraft/99-0404",
+        "https://www.airandspaceforces.com/hegseths-air-force-jet-diverts-for-emergency-landing/",
+        "https://www.newsweek.com/conservative-cited-in-kirk-conspiracy-theory-pushes-back-i-was-at-work-11291468"
+    ]
+}

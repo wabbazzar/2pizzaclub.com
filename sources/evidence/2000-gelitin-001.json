@@ -1,0 +1,45 @@
+{
+    "id": "2000-gelitin-001",
+    "anchor": "y2001-attack",
+    "year": 2000,
+    "era": "iii",
+    "themes": [
+        "wtc",
+        "art",
+        "9-11",
+        "anomaly"
+    ],
+    "claim": "In March 2000, the Vienna-based art collective Gelitin (also spelled 'Gelatin') installed an unauthorized wooden balcony on the 91st floor of WTC 1 (North Tower). The collective gained access through a Lower Manhattan Cultural Council artist-residency program, removed the putty around a window pane and detached the glass, and four members in costume briefly stepped onto the balcony while a helicopter was commissioned to document the action. The project, titled 'The B-Thing,' was published as a book in 2001. The LMCC issued a memo denying that any such installation had occurred.",
+    "sources": [
+        {
+            "label": "Rolling Stone \u2014 \u201cThe Artwork That Spawned 9/11 Conspiracy Theories and Mystery\u201d",
+            "type": "secondary",
+            "url": "https://www.rollingstone.com/culture/culture-features/gelitin-b-thing-artwork-9-11-conspiracy-theories-1235423208/"
+        },
+        {
+            "label": "Spike Art Magazine \u2014 \u201cOne Work: Gelitin's 'The B-Thing'\u201d",
+            "type": "secondary",
+            "url": "https://spikeartmagazine.com/articles/one-work-gelatin-s-the-b-thing",
+            "quote": "One by one, wearing angel wings and brightly colored T-shirts, each of the four Gelitin boys made their way onto the balcony.",
+            "clip": "clips/2000-gelitin-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Gelitin (Gelatin), The B-Thing (Walther K\u00f6nig, 2001) \u2014 primary publication by the artists",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "Wikipedia \u2014 \u201cGelitin\u201d",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Gelitin"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "The reel's lines about 'we'd make you a little art project' and 'group photo on the last day' map onto the Gelitin B-Thing. The art project's existence is documented in the artists' own book and ongoing art-press coverage; the unauthorized access via LMCC residency is also documented. URLs not directly fetched in this pass. Note: 91st floor of the North Tower was the boundary above which no occupants survived."
+}

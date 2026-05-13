@@ -1,0 +1,41 @@
+{
+    "id": "1962-northwoods-001",
+    "anchor": "y1947",
+    "year": 1962,
+    "era": "ii",
+    "themes": [
+        "jcs",
+        "false-flag",
+        "cuba",
+        "declassified",
+        "national-security-state"
+    ],
+    "claim": "On March 13, 1962, the Joint Chiefs of Staff submitted to Secretary of Defense Robert McNamara a top-secret memorandum titled 'Justification for U.S. Military Intervention in Cuba (TS)' — colloquially known as Operation Northwoods. The proposal detailed pretexts for war with Cuba, including: remote-controlling civilian aircraft repainted as U.S. Air Force planes, fabricating a 'shoot-down' of a U.S. fighter, sinking boats of Cuban refugees on the high seas, exploding a U.S. ship, and 'orchestrating terrorism in U.S. cities.' The proposal was rejected by President John F. Kennedy. The document was declassified on November 18, 1997 by the JFK Assassination Records Review Board.",
+    "sources": [
+        {
+            "label": "National Security Archive (George Washington University) — Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, “Justification for US Military Intervention in Cuba,” TOP SECRET SPECIAL HANDLING NOFORN, 13 March 1962",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+            "quote": "Justification for US Military Intervention in Cuba",
+            "clip_status": "ok-exact",
+            "clip": "clips/1962-northwoods-001-00.png"
+        },
+        {
+            "label": "U.S. National Archives Catalog — Operation Northwoods (declassified holdings)",
+            "type": "primary",
+            "url": "https://catalog.archives.gov/id/305036"
+        },
+        {
+            "label": "Wikipedia — Operation Northwoods",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Operation_Northwoods"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "verified",
+    "notes": "National Security Archive (GWU) is the authoritative declassified-documents host. The Northwoods proposal is a real, declassified JCS memo. The reel invokes it to frame '9/11 planes were remote controlled'; Northwoods is documentary evidence of what was once *proposed*, not evidence that any such operation was executed on 9/11. Anchored under y1947 (CIA founded) as the closest existing chapter; consider a future y1962 or y1947 split if more Cold War records accumulate."
+}

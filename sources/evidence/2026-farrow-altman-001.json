@@ -1,0 +1,51 @@
+{
+    "id": "2026-farrow-altman-001",
+    "anchor": "y2026-altman",
+    "year": 2026,
+    "era": "v",
+    "themes": [
+        "openai",
+        "altman",
+        "farrow",
+        "new-yorker",
+        "investigative-journalism",
+        "ai-race"
+    ],
+    "claim": "In April 2026, the New Yorker published a 16,000-word investigation by Ronan Farrow and Andrew Marantz based on eighteen months of reporting, interviews with more than one hundred sources, and review of internal OpenAI documents. The article describes what one internal memo characterizes as “a consistent pattern of lying” by CEO Sam Altman, including: an accusation against Anthropic co-founders Dario and Daniela Amodei of plotting a coup that Altman later denied making; OpenAI's late-2025 deal with Amazon for stateful AI agents that Microsoft engineers say cannot be implemented without touching technology covered by their existing exclusivity agreement; and a sales pitch to U.S. intelligence officials about a Chinese “AGI Manhattan Project” for which Altman, when pressed, said only that he had 'heard things' and never followed up. A senior Microsoft executive is quoted comparing Altman to Bernie Madoff and Sam Bankman-Fried.",
+    "sources": [
+        {
+            "label": "Ronan Farrow on X — public summary thread of the New Yorker investigation",
+            "type": "primary",
+            "url": "https://x.com/RonanFarrow/status/2041213917611856067"
+        },
+        {
+            "label": "TechCrunch — “Sam Altman responds to 'incendiary' New Yorker article after attack on his home” (Apr 11, 2026)",
+            "type": "secondary",
+            "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+            "quote": "incendiary New Yorker article",
+            "clip_status": "quote-not-found"
+        },
+        {
+            "label": "CNN Business — “The New Yorker investigates Sam Altman's alleged deceptions at OpenAI” (Apr 7, 2026)",
+            "type": "secondary",
+            "url": "https://www.cnn.com/2026/04/07/business/video/the-new-yorker-investigates-sam-altmans-alleged-deceptions-at-openai-vrtc"
+        },
+        {
+            "label": "SF Standard — “Ronan Farrow on Sam Altman's 'pattern of deception'…” (Apr 15, 2026)",
+            "type": "secondary",
+            "url": "https://sfstandard.com/pacific-standard-time/2026/04/15/sam-altman-ronan-farrow-openai-pst-podcast/"
+        },
+        {
+            "label": "WBUR Here & Now — “Ronan Farrow on his revelatory Sam Altman article” (Apr 14, 2026)",
+            "type": "secondary",
+            "url": "https://www.wbur.org/hereandnow/2026/04/14/sam-altman-ronan-farrow"
+        },
+        {
+            "label": "Ronan Farrow / Andrew Marantz, Instagram reel DYFn1LbvhP_ (May 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFn1LbvhP_/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Altman has publicly disputed the article's characterization on several specific points (the Amodei accusation, the China-AGI pitch, the recollection of conversations). The reel features Farrow narrating excerpts of the published reporting; the New Yorker article itself is the primary source. The 2013 quote from Aaron Swartz — 'Sam can never be trusted. He is a sociopath. He would do anything.' — and the late-2022 board-safety-panel discrepancy involving Helen Toner and OpenAI's general counsel are documented in the same investigation."
+}

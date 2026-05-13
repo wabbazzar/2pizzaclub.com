@@ -1,0 +1,39 @@
+# gitleaks config for 2pizzaclub.com
+# Extends the default ruleset (AWS keys, GitHub tokens, GCP keys, JWTs, etc.)
+# and pins additional patterns specific to this project's tooling.
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "porkbun-api-key"
+description = "Porkbun API key (starts with pk1_)"
+regex = '''pk1_[A-Za-z0-9]{40,}'''
+tags = ["porkbun", "api-key"]
+
+[[rules]]
+id = "porkbun-secret-key"
+description = "Porkbun secret key (starts with sk1_)"
+regex = '''sk1_[A-Za-z0-9]{40,}'''
+tags = ["porkbun", "secret"]
+
+[[rules]]
+id = "anthropic-api-key"
+description = "Anthropic API key"
+regex = '''sk-ant-[A-Za-z0-9_-]{40,}'''
+tags = ["anthropic", "api-key"]
+
+[[rules]]
+id = "openai-api-key"
+description = "OpenAI API key"
+regex = '''sk-(proj-)?[A-Za-z0-9_-]{20,}'''
+tags = ["openai", "api-key"]
+
+[allowlist]
+description = "Editorial source material, evidence records, and transcripts are public by design"
+paths = [
+  '''^sources/evidence/.+\.json$''',
+  '''^sources/captures/.+/transcript\.txt$''',
+  '''^sources/captures/.+/meta\.json$''',
+  '''^chapters/.+\.json$''',
+]

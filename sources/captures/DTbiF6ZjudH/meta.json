@@ -1,0 +1,35 @@
+{
+    "id": "DTbiF6ZjudH",
+    "url": "https://www.instagram.com/reel/DTbiF6ZjudH/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@nyc_wtc",
+    "author_display_name": "@nyc_wtc",
+    "posted_at": "2026-01-12",
+    "engagement": {
+        "likes": 22000,
+        "comments": 1017
+    },
+    "caption": "Subscribe or donate to support a new 9/11 investigation!\n\n#wtc #911 #truth #neverforget #usa",
+    "hashtags": [
+        "wtc",
+        "911",
+        "truth",
+        "neverforget",
+        "usa"
+    ],
+    "audio_track_actual": "Compilation of archival news interviews and on-scene audio from September 11, 2001, intercut with a narrator framing the segment.",
+    "video_overlay_text_observed": "Archival news footage with on-screen text callouts emphasizing eyewitness phrases — 'lobby blew up,' 'secondary explosion,' 'the whole building just collapsed on us' — and a frame asking why the testimony was not in the 9/11 Commission Report.",
+    "audio_content_summary": "The reel splices together accounts from FDNY firefighters, police, and first responders interviewed in the hours and days after the September 11 attacks, in which interviewees describe what they perceived as 'explosions' inside the World Trade Center lobbies, on multiple floors, and in the underground concourse. These accounts are part of the FDNY oral-history record — 503 interviews compiled in late 2001 and publicly released by court order in August 2005 (see 2005-fdny-oral-histories-001). The reel's central editorial proposition is that the 9/11 Commission Report did not address these specific eyewitness descriptions of explosions; the omission itself is a textual property of the Commission's published report.",
+    "implied_frame": "The reel uses the unedited first-responder testimony as the evidentiary anchor for an argument that the official fire-and-impact collapse model is incomplete. Whether the 'explosion' descriptions reflect pre-placed devices, collapsing infrastructure, failing transformers, jet-fuel-driven pressure waves, or other mechanisms is the disputed interpretive question — and the question the official record reached its own conclusions on without citing this testimony.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~27 MB, vp9 720x1280, 163s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2005-fdny-oral-histories-001"
+    ],
+    "supporting_research_links": [
+        "https://archive.org/details/FDNY_9_11_Oral_Histories",
+        "https://www.ae911truth.org/evidence/technical-articles/articles-by-ae911truth/128-118-witnesses-to-explosions-in-the-fdny-oral-histories"
+    ]
+}

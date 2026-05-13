@@ -1,0 +1,58 @@
+{
+    "id": "2025-hegseth-aes-flight-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "hegseth",
+        "dod",
+        "sam-flight",
+        "aes",
+        "kirk",
+        "tail-number-99-0404",
+        "contested"
+    ],
+    "claim": "Stew Peters, on the Fight Back Podcast hosted by Jake Shields, has publicly attributed two specific flights to a U.S. Air Force aircraft bearing tail number 99-0404 — described in the reel as 'almost exclusively used by' Department of Defense Secretary Pete Hegseth: a SAM-702 Special Air Mission flight from Joint Base Andrews to Fort Huachuca, Arizona on September 8, 2025; and an October 10, 2025 flight from Joint Base Andrews to Fort Huachuca that, per the reel, detoured on its return leg to fly directly over the Accurate Energetic Systems munitions facility in Humphreys County, Tennessee the same morning that facility was destroyed. Documentary record on the aircraft itself: tail 99-0404 is a Gulfstream C-37A assigned to the 99th Airlift Squadron of the 89th Airlift Wing at Joint Base Andrews, the wing that operates Special Air Mission flights for the President, Vice President, combatant commanders, and senior leaders. The aircraft documented as carrying Secretary Hegseth on his October 15, 2025 emergency landing in the UK, by contrast, was tail 98-0002 — a Boeing C-32A, a different airframe operated by the same wing.",
+    "sources": [
+        {
+            "label": "Wikipedia — “89th Airlift Wing” (the wing that operates 99-0404 and the broader SAM fleet)",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/89th_Airlift_Wing",
+            "quote": "89th Airlift Wing",
+            "clip": "clips/2025-hegseth-aes-flight-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Flightradar24 — public ADS-B record for tail number 99-0404 (Gulfstream C-37A, USAF)",
+            "type": "primary",
+            "url": "https://www.flightradar24.com/data/aircraft/99-0404"
+        },
+        {
+            "label": "JetPhotos — registration record for 99-0404 / Gulfstream C-37A / serial 590",
+            "type": "primary",
+            "url": "https://www.jetphotos.com/info/GULF-590"
+        },
+        {
+            "label": "The War Zone — “C-32A Carrying Hegseth Makes Emergency Landing In England After Rapid Descent” (documents the actual aircraft type Hegseth was on — tail 98-0002, a C-32A)",
+            "type": "primary",
+            "url": "https://www.twz.com/air/c-32a-carrying-hegseth-makes-emergency-landing-in-england-after-rapid-decent"
+        },
+        {
+            "label": "Air & Space Forces Magazine — “Hegseth's Air Force Jet Diverts for Emergency Landing”",
+            "type": "primary",
+            "url": "https://www.airandspaceforces.com/hegseths-air-force-jet-diverts-for-emergency-landing/"
+        },
+        {
+            "label": "Project Constitution on X — surfacing-source social-media post making the dual-scene flight claim that the reel restates",
+            "type": "secondary",
+            "url": "https://x.com/ProjectConstitu/status/2040696773274988718"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DYFxN0RwBGk (May 8, 2026) — surfacing source for the specific flight-tracking-and-overflight assertions",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFxN0RwBGk/"
+        }
+    ],
+    "status": "partially-verified-contested",
+    "notes": "Verification status as of 2026-05-13: (1) Tail 99-0404 is a real Gulfstream C-37A, mode-S hex AE04F9 / AE0405, registered to the United States Air Force and operated out of Joint Base Andrews by the 89th Airlift Wing / 99th Airlift Squadron — confirmed via Flightradar24, Plane Finder, JetPhotos, and the wing's own fact sheet. (2) The aircraft documented in mainstream press as carrying Secretary Hegseth on his October 15, 2025 transatlantic emergency landing was tail 98-0002, a Boeing C-32A — a different airframe operated by the same wing. The reel's characterization of 99-0404 as 'almost exclusively used by' Hegseth therefore conflates two different SAM aircraft. (3) Flightradar24's free-tier history for 99-0404, read on May 13, 2026, shows a recent pattern (callsigns SAM060, SAM460, SAM518) of flights between Camp Springs/Andrews (ADW), MacDill AFB Tampa (MCF — CENTCOM HQ), Teterboro NJ (TEB), San Diego North Island (NZY), Sacramento (MCC), and Honolulu (HNL) — consistent with active senior-official SAM use, but not specific to Hegseth. (4) Flight history for the specific September 8, 2025 and October 10, 2025 dates referenced in the reel is behind a paid 'Silver/Gold/Business' subscription tier on Flightradar24; the seven-day free window did not extend back that far. ADS-B Exchange's historical-track view (icao=ae0405) was reachable, but no archived track for those specific dates was surfaced in the verification pass. (5) The Fort Huachuca eyewitness claim is documented separately (see 2025-fort-huachuca-claim-001), with Cabot Phillips publicly rebutting the part of the identification that named him."
+}

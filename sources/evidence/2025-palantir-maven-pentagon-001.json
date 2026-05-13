@@ -1,0 +1,52 @@
+{
+    "id": "2025-palantir-maven-pentagon-001",
+    "anchor": "y2024",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "palantir",
+        "maven",
+        "dod",
+        "ai-defense",
+        "thiel",
+        "program-of-record"
+    ],
+    "claim": "Palantir Technologies' Maven Smart System — an AI-enabled targeting platform — has been formalized as a Department of Defense Program of Record. The initial Maven contract was awarded to Palantir at a ceiling of $480 million in May 2024; in May 2025 the ceiling was raised to approximately $1.3 billion. On March 9, 2026, Deputy Secretary of Defense Steve Feinberg signed a memorandum designating Maven Smart System as a Program of Record, locking in multi-year funding and confirming the platform's role across every U.S. combatant command. Separately, in July 2025 the Army signed an enterprise framework agreement with Palantir worth up to $10 billion over a decade, consolidating 75 existing Palantir contracts.",
+    "sources": [
+        {
+            "label": "Tom's Hardware — “Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024”",
+            "type": "secondary",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pentagon-formalizes-palantirs-maven-ai-as-a-core-military-system-with-multi-year-funding-platforms-investment-grows-to-usd13-billion-from-usd480-million-in-2024",
+            "quote": "Pentagon formalizes Palantir's Maven AI as a core military system",
+            "clip": "clips/2025-palantir-maven-pentagon-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "DefenseScoop — “'Growing demand' sparks DOD to raise Palantir's Maven contract to more than $1B” (May 23, 2025)",
+            "type": "primary",
+            "url": "https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/"
+        },
+        {
+            "label": "SpaceNews — “Pentagon boosts budget for Palantir's AI software in major expansion of Project Maven”",
+            "type": "secondary",
+            "url": "https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/"
+        },
+        {
+            "label": "Military.com — “Pentagon Expands Use of Palantir AI in New Defense Contract” (Mar 22, 2026)",
+            "type": "primary",
+            "url": "https://www.military.com/feature/2026/03/22/pentagon-expands-palantirs-role-ai-contract.html"
+        },
+        {
+            "label": "GovConWire — “Pentagon to Designate Palantir Maven AI as Program of Record”",
+            "type": "secondary",
+            "url": "https://www.govconwire.com/articles/pentagon-palantir-maven-ai-program-of-record"
+        },
+        {
+            "label": "Channel 5 / @channel5, Instagram reel DWpGtickpb3 (Apr 2, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWpGtickpb3/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The reel cites a 'roughly $1.3 billion deal' that established Palantir 'as the default core AI system across all branches of the military.' The documented record matches the order of magnitude (Maven ceiling at $1.3B, plus the separate $10B Army enterprise framework). The Program of Record designation, signed by Deputy Defense Secretary Steve Feinberg on March 9, 2026, is the formal action behind the 'default core AI system' framing."
+}

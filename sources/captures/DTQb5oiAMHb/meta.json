@@ -1,0 +1,36 @@
+{
+    "id": "DTQb5oiAMHb",
+    "url": "https://www.instagram.com/reel/DTQb5oiAMHb/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@bible.app_",
+    "author_display_name": "BIBLE Companion",
+    "posted_at": "2026-01-08",
+    "engagement": { "likes": 124000, "comments": 4384 },
+    "caption": "Stew Peters to Kash Patel About The Charlie Kirk A(..)ssination: Asking For A Friend. Jan.7,2026 ... Tweet. CHRIST Is The KING Of Kings",
+    "hashtags": ["CHRISTIsKing", "CHRISTIsTheKing", "BIBLE", "HolyBIBLE", "christians", "christianity", "KINGofkings", "YESHUAHaMashiach", "YESHUA", "CHRIST", "BIBLETruth", "askingforafriend", "candace", "erikakirk", "turningpointusa", "BIBLEgram", "epstein", "christ"],
+    "audio_track_actual": "Stew Peters narration over freeze-frames of the Charlie Kirk assassination video, sourced from a January 7, 2026 Peters tweet and re-uploaded by @bible.app_.",
+    "video_overlay_text_observed": "Freeze-frames of Charlie Kirk's lavalier microphone with a circled point of alleged 'explosion'; secondary stills of an alleged 'palm gun guy in brown shirt with sunglasses' framed as the operator of a remote detonator. The reel cites 'vector analysis from John Bray,' 'John Cullen on the program,' and 'video from Destiny showing the handoff of this remote detonator.'",
+    "audio_content_summary": "Stew Peters narrates a frame-by-frame analysis of the Charlie Kirk shooting video and argues that Kirk was killed not by Tyler Robinson's rifle but by an explosive concealed inside his lavalier microphone — citing the September 2024 Mossad pager operation against Hezbollah as the precedent technology. Peters attributes the wound-mechanism analysis to Jon Bray (an 'optical-flow vector map') and the ballistic-acoustic argument to John Cullen. He identifies a man in a brown shirt and sunglasses standing in the crowd as the alleged remote-detonator operator. The Kirk shooting itself, the Mossad pager attacks, and the public claims by Bray, Cullen, and the brown-shirt-guy thread are each documented in separate evidence records below. Audio-forensics expert Robert C. Maher of Montana State University has concluded the audio is consistent with a single supersonic-rifle gunshot; AAP FactCheck has rated the underlying exploding-microphone claim false.",
+    "implied_frame": "The reel uses freeze-frame imagery from the assassination video to advance a state-sponsored micro-explosive theory of the killing, in opposition to the prosecution's forensic record (long-range rifle, identified shooter, DNA evidence). The cited precedent — Mossad's September 2024 pager operation against Hezbollah — is documented and linked below. The inference that the same technology was applied to a wireless microphone in Utah is the contested question.",
+    "capture_method": "playwright-headless MediaRecorder over video.captureStream() on the main /reel/ URL with viewport 1280x800",
+    "video_download_status": "captured: reel.webm (~22 MB, vp9 720x1280, 179s). Single play-through.",
+    "audio_transcription_status": "transcribed with openai-whisper base.en",
+    "evidence_records": [
+        "2025-kirk-001",
+        "2025-kirk-002",
+        "2024-pagers-001",
+        "2025-bray-mic-theory-001",
+        "2025-cullen-no-ballistic-001",
+        "2025-brown-shirt-guy-001",
+        "2025-maher-audio-forensics-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
+        "https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates",
+        "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf",
+        "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks",
+        "https://www.aap.com.au/factcheck/viral-conspiracy-theory-about-charlie-kirks-death-is-false/",
+        "https://www.montana.edu/rmaher/documents/2025_09_11_CNN.pdf"
+    ]
+}

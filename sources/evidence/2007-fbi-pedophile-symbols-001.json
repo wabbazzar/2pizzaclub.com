@@ -1,0 +1,46 @@
+{
+    "id": "2007-fbi-pedophile-symbols-001",
+    "anchor": "y2017-bennington",
+    "year": 2007,
+    "era": "iv",
+    "themes": [
+        "fbi",
+        "pedophile-symbols",
+        "blogo",
+        "declassified",
+        "iconography"
+    ],
+    "claim": "On January 31, 2007, the FBI's Cyber Division Innocent Images Unit issued an unclassified law-enforcement intelligence bulletin titled “Symbols and Logos Used by Pedophiles to Identify Sexual Preferences.” The bulletin documents specific recurring iconography, including the “BoyLover Logo” (BLogo) — described as a small blue spiral-shaped triangle inside a larger triangle — and the “GirlLover Logo” (GLogo) of nested hearts. The bulletin notes the symbols have been observed on jewelry, coins, and websites and instructs investigators to treat them as indicators warranting scrutiny.",
+    "sources": [
+        {
+            "label": "FBI Cyber Division, Innocent Images Unit — “Symbols and Logos Used by Pedophiles to Identify Sexual Preferences” (intelligence bulletin, Jan 31, 2007) — Internet Archive copy",
+            "type": "primary",
+            "url": "https://dn790005.ca.archive.org/0/items/fbi-pedophile-symbols/FBI-pedophile-symbols.pdf"
+        },
+        {
+            "label": "WikiLeaks — FBI pedophile symbols (mirror)",
+            "type": "primary",
+            "url": "https://wikileaks.org/wiki/FBI_pedophile_symbols",
+            "quote": "Symbols and Logos Used by Pedophiles to Identify Sexual Preferences",
+            "clip": "clips/2007-fbi-pedophile-symbols-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Wikinews — “FBI document reviews symbols used by pedophiles”",
+            "type": "secondary",
+            "url": "https://en.wikinews.org/wiki/FBI_document_reviews_symbols_used_by_pedophiles"
+        },
+        {
+            "label": "Slate — “The Pedophile's Secret Code” (2007)",
+            "type": "secondary",
+            "url": "https://slate.com/news-and-politics/2007/12/the-pedophile-s-secret-code-2.html"
+        },
+        {
+            "label": "tafsir_7, Instagram reel DWyiPW5jM0b (Apr 6, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWyiPW5jM0b/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The FBI bulletin is real and unclassified-but-law-enforcement-sensitive at issue. The reel's editorial proposition — that the bulletin's BLogo matches an early Linkin Park logo — concerns iconographic similarity rather than a direct FBI statement about the band. This record documents only the bulletin and its content."
+}

@@ -1,0 +1,53 @@
+{
+    "id": "2025-hegseth-puerto-rico-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "hegseth",
+        "caine",
+        "puerto-rico",
+        "caribbean",
+        "counternarcotics",
+        "kirk",
+        "alibi"
+    ],
+    "claim": "On Monday, September 8, 2025 — the day Project Constitution and the Fight Back Podcast subsequently alleged that 'Pete Hegseth's plane' (tail 99-0404, callsign SAM 702) landed near Fort Huachuca, Arizona — Defense Secretary Pete Hegseth and the Chairman of the Joint Chiefs of Staff, Air Force Gen. Dan Caine, were documented in mainstream press as being together in Puerto Rico. Hegseth and Caine met with officials at the 156th Wing Muñiz Air National Guard Base in Carolina, just east of San Juan; Hegseth addressed nearly 300 service members and posted a video to X from Puerto Rico the same evening. The trip was announced and covered as part of the administration's escalated Caribbean counternarcotics operations and a planned 10-F-35 deployment to Puerto Rico.",
+    "sources": [
+        {
+            "label": "PBS NewsHour — “Hegseth visits Puerto Rico as U.S. steps up military operations in the Caribbean”",
+            "type": "primary",
+            "url": "https://www.pbs.org/newshour/nation/hegseth-visits-puerto-rico-as-u-s-steps-up-military-operations-in-the-caribbean",
+            "quote": "Hegseth visits Puerto Rico as U.S. steps up military operations in the Caribbean",
+            "clip": "clips/2025-hegseth-puerto-rico-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Washington Post — “Hegseth visits Puerto Rico as Pentagon eyes island for military usage” (Sep 8, 2025)",
+            "type": "primary",
+            "url": "https://www.washingtonpost.com/national-security/2025/09/08/puerto-rico-hegseth-cartels/"
+        },
+        {
+            "label": "Bloomberg — “Hegseth, Caine Visit Puerto Rico Amid Counternarcotics Push” (Sep 8, 2025)",
+            "type": "primary",
+            "url": "https://www.bloomberg.com/news/articles/2025-09-08/hegseth-caine-visit-puerto-rico-amid-counternarcotics-push"
+        },
+        {
+            "label": "Military Times — “Hegseth visits Puerto Rico as US boosts Caribbean military operations” (Sep 8, 2025)",
+            "type": "primary",
+            "url": "https://www.militarytimes.com/news/pentagon-congress/2025/09/08/hegseth-visits-puerto-rico-as-us-boosts-caribbean-military-operations/"
+        },
+        {
+            "label": "Al Jazeera — “US deployment in Caribbean ‘not training’, says defence chief Hegseth” (Sep 9, 2025)",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2025/9/9/us-deployment-in-caribbean-not-training-says-defence-chief-hegseth"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DYFxN0RwBGk — surfacing source for the disputed claim",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFxN0RwBGk/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Direct documentary record disconfirms the reel's framing that Secretary Hegseth himself was aboard the 99-0404 / SAM 702 flight to Fort Huachuca on September 8, 2025: he was in Carolina, Puerto Rico that day with the Chairman of the Joint Chiefs of Staff. The Project Constitution X post that originated the reel's claim acknowledges this and pivots to argue that 'Hegseth's plane' was at Fort Huachuca even though Hegseth himself was in Puerto Rico — see the cross-referenced 2025-hegseth-aes-flight-001 record for the airframe analysis. A single Gulfstream C-37A cannot be in two locations at once; either tail 99-0404 was on the documented Hegseth/Caine Puerto Rico trip on September 8, or it was on a separate SAM 702 mission to Fort Huachuca that day. The reel's tail-number-and-passenger conflation is what the documentary record specifically contradicts."
+}

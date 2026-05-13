@@ -1,0 +1,36 @@
+{
+    "id": "2017-cornell-001",
+    "anchor": "y2017-bennington",
+    "year": 2017,
+    "era": "iv",
+    "themes": [
+        "cornell",
+        "soundgarden",
+        "audioslave",
+        "celebrity-death",
+        "suicide-ruling"
+    ],
+    "claim": "Chris Cornell, frontman of Soundgarden and Audioslave, was found unconscious at approximately 12:15 a.m. on May 18, 2017 in his room at the MGM Grand Detroit. He was pronounced dead at 1:30 a.m., age 52. The Wayne County Medical Examiner ruled his death a suicide by hanging. Police reviewed hotel surveillance footage showing no one entering or exiting the suite after his bodyguard left at 11:35 p.m. Cornell's toxicology report identified lorazepam, pseudoephedrine, naloxone, butalbital, and caffeine in his system.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Chris Cornell”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Chris_Cornell",
+            "quote": "the Wayne County Medical Examiner confirmed that the cause of death was hanging and determined the manner of death to be suicide",
+            "clip": "clips/2017-cornell-001-00.png",
+            "clip_status": "ok-head30"
+        },
+        {
+            "label": "CBS News Detroit — “Chris Cornell Found Dead After Show In Detroit”",
+            "type": "primary",
+            "url": "https://www.cbsnews.com/detroit/news/chris-cornell-death-detroit/"
+        },
+        {
+            "label": "tafsir_7, Instagram reel DWyiPW5jM0b (Apr 6, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWyiPW5jM0b/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Cornell and Bennington were close friends. Cornell died May 18, 2017; Bennington died July 20, 2017 — on what would have been Cornell's 53rd birthday. The reel uses these adjacencies as part of the framing; this record documents the manner-of-death ruling as it stands."
+}

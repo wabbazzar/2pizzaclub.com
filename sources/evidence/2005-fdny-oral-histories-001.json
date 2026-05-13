@@ -1,0 +1,47 @@
+{
+    "id": "2005-fdny-oral-histories-001",
+    "anchor": "y2001-attack",
+    "year": 2005,
+    "era": "iii",
+    "themes": [
+        "fdny",
+        "oral-histories",
+        "9-11",
+        "witness-testimony",
+        "explosions",
+        "foia"
+    ],
+    "claim": "In late 2001, the Fire Department of New York compiled 12,000+ pages of oral histories from 503 firefighters, paramedics, and EMTs who responded on September 11, 2001. The city initially withheld the records; following a Freedom-of-Information lawsuit by The New York Times that was upheld by New York's highest court, the FDNY released the histories on August 12, 2005, alongside 15 hours of radio dispatch transmissions. In a subsequent peer-reviewed analysis by Graeme MacQueen (McMaster University, retired), 118 of the 503 interviewed FDNY members were identified as having described witnessing what they characterized as 'explosions' in or around the Twin Towers during the morning of September 11. The 9/11 Commission Report did not address these accounts in its final analysis.",
+    "sources": [
+        {
+            "label": "Internet Archive — “FDNY 9/11 Oral Histories” (complete document collection mirror)",
+            "type": "primary",
+            "url": "https://archive.org/details/FDNY_9_11_Oral_Histories",
+            "quote": "FDNY 9/11 Oral Histories",
+            "clip": "clips/2005-fdny-oral-histories-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "NPR — “9/11 Fire Dept. Dispatch Tapes Released” (Aug 12, 2005)",
+            "type": "primary",
+            "url": "https://www.npr.org/2005/08/12/4798446/9-11-fire-dept-dispatch-tapes-released"
+        },
+        {
+            "label": "AE911Truth — “118 Witnesses to Explosions in the FDNY Oral Histories” (Graeme MacQueen analysis)",
+            "type": "secondary",
+            "url": "https://www.ae911truth.org/evidence/technical-articles/articles-by-ae911truth/128-118-witnesses-to-explosions-in-the-fdny-oral-histories"
+        },
+        {
+            "label": "Press Democrat — “Under court order, FDNY gives up hundreds of 9/11 oral histories” (Aug 13, 2005)",
+            "type": "secondary",
+            "url": "https://www.pressdemocrat.com/2005/08/13/under-court-order-fdny-gives-up-hundreds-of-911-oral-histories/"
+        },
+        {
+            "label": "Instagram reel DTbiF6ZjudH — surfacing source (a compilation of first-responder testimony excerpts)",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTbiF6ZjudH/"
+        }
+    ],
+    "status": "verified",
+    "notes": "What is documented: the existence of the 503-interview record, its court-ordered release in August 2005, and that 118 of those interviews include first-responder descriptions of 'explosions.' The 9/11 Commission Report's omission of these specific witness accounts is a factual property of that report's text and is the substance of MacQueen's critique. Whether the explosions heard and described amount to evidence of pre-placed explosives, or are explained by collapsing infrastructure / falling debris / failing electrical systems / pressure waves, is the disputed interpretive question NIST and AE911Truth approach from opposite premises."
+}

@@ -1,0 +1,47 @@
+{
+    "id": "2025-aes-explosion-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "aes",
+        "munitions",
+        "tennessee",
+        "industrial-accident",
+        "dod",
+        "csb"
+    ],
+    "claim": "On October 10, 2025, at approximately 7:47 a.m., a series of explosions destroyed Building 602 at the Accurate Energetic Systems (AES) munitions facility in Humphreys County, Tennessee (McEwen). 16 workers were killed and 7 injured. The U.S. Chemical Safety Board estimates that approximately 23,000 pounds of explosive material detonated, deflagrated, or burned; the blast was reportedly felt over 20 miles away. AES, established in 1980, manufactures cast boosters, demolition charges, and high explosives, including under contract for the U.S. Department of Defense. Tennessee Occupational Safety and Health Administration subsequently cited the company for nearly 100 safety violations, proposing more than $3 million in fines and describing willful and serious failures.",
+    "sources": [
+        {
+            "label": "U.S. Chemical Safety Board — “Accurate Energetic Systems Fatal Explosion” investigation hub",
+            "type": "primary",
+            "url": "https://www.csb.gov/-accurate-energetic-systems-fatal-explosion/"
+        },
+        {
+            "label": "U.S. Chemical Safety Board — “Investigation Update on Fatal October 2025 Explosions at Accurate Energetic Systems in McEwen, Tennessee”",
+            "type": "primary",
+            "url": "https://www.csb.gov/us-chemical-safety-board-issues-investigation-update-on-fatal-october-2025-explosions-at-accurate-energetic-systems-in-mcewen-tennessee/"
+        },
+        {
+            "label": "Wikipedia — “2025 Tennessee manufacturing plant explosion”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/2025_Tennessee_manufacturing_plant_explosion",
+            "quote": "On October 10, 2025, a series of explosions occurred at an Accurate Energetic Systems manufacturing facility in Humphreys County, Tennessee",
+            "clip": "clips/2025-aes-explosion-001-02.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "CBS News — “Dozens of safety violations found at Tennessee munitions factory after last year's deadly explosion”",
+            "type": "secondary",
+            "url": "https://www.cbsnews.com/news/tennessee-munitions-factory-explosion-safety-violations/"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DYFxN0RwBGk (May 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFxN0RwBGk/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Anchored to y2025-kirk because the reel ties this event editorially to the Kirk assassination. The CSB investigation and TOSHA citations describe a documented record of safety failures at the facility predating the explosion. The reel's framing is that the explosion was a follow-on to the Kirk killing; this record captures only the documented facts of the explosion itself (date, location, casualties, materials, investigation status) and the regulator findings to date."
+}

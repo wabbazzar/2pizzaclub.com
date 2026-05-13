@@ -1,0 +1,24 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+
+— FULL TEXT —
+
+out that have bankrupted the economy consistently again and again and again. In fact, there's
+a pattern. Whenever we spend more than 3% of the overall GDP of the economy on an infrastructure
+build out, it bankrupts the economy briefly for 10 years. So this happened when we did
+railway tracks. In fact, it happened twice in the UK and twice in the USA. Then we bankrupt
+ourselves putting the electrification grid in place. We bankrupted ourselves putting highways
+in place. Now, there's something that makes this worse than ever before. And that is that
+when we built train tracks, they lasted for 100 years. When we built roads, they lasted
+50 plus years. The telecommunications, fiber optics, 30 years. All of these investments
+were multi-decade investments that we could get benefit from and leverage for decades.
+Data centers last three to four years before they need to be replaced. So we are building
+something that has a three to four year lifecycle that costs hundreds of billions and it has
+to be replaced every few years. And there is no financial model attached to this that
+justifies it at all. So one thing that I'm predicting is that in 2029, 100 years after
+the Great Depression, we will see a massive financial meltdown based off the back of these
+data centers that have been developed at the moment. The technology itself is remarkable,
+but the financial model just makes no sense whatsoever at the moment.
+
+— END —

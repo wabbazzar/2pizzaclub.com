@@ -1,0 +1,40 @@
+{
+    "id": "2025-kirk-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "assassination",
+        "political-violence",
+        "kirk",
+        "turningpointusa"
+    ],
+    "claim": "On September 10, 2025, Charlie Kirk \u2014 the 31-year-old co-founder of Turning Point USA \u2014 was fatally shot in the neck by a single bullet at Utah Valley University in Orem, Utah, during an outdoor campus debate attended by approximately 3,000 people. The bullet was fired from a rooftop approximately 142 yards (130 m) from the event. Utah Governor Spencer Cox publicly characterized the killing as a 'political assassination.'",
+    "sources": [
+        {
+            "label": "Wikipedia \u2014 \u201cAssassination of Charlie Kirk\u201d",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
+            "quote": "Charlie Kirk, an American right-wing political activist, was assassinated at Utah Valley University in Orem, Utah",
+            "clip": "clips/2025-kirk-001-00.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "FBI \u2014 \u201cUtah Valley Shooting Updates\u201d (Federal Bureau of Investigation press releases)",
+            "type": "primary",
+            "url": "https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates"
+        },
+        {
+            "label": "KUER (NPR Utah) \u2014 \u201cConservative activist Charlie Kirk is fatally shot at Utah Valley University rally\u201d (Sep 10, 2025)",
+            "type": "secondary",
+            "url": "https://www.kuer.org/news/2025-09-10/charlie-kirk-utah-valley-university-shooting"
+        },
+        {
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Anchored to y2025 (existing chapter shell 'Where we are'). Wikipedia URL fetched and verbatim confirmed. The reel cited as the surfacing source advances an 'exploding lavalier microphone' kill-mechanism theory; that theory is not supported by any primary forensic source. The verified facts here are: the location, date, single-bullet-to-the-neck wound, rooftop firing position, and Cox's public characterization."
+}

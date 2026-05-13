@@ -1,0 +1,19 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+
+— FULL TEXT —
+
+never transferred to its respective doomed flight, which, when searched, just so happened
+to contain written-app breakdowns of all 19 hijackers, their backgrounds, their motives,
+each of their assignments, their ties to al-Qaeda, a video cassette of a Boeing flight simulator,
+a knife and pepper spray.
+The entire plot of 9-11 neatly packaged and dropped in their lap of all the passengers
+and all the planes, the one suitcase that just so happened to not make the plane has
+a written-app breakdown of the attacks.
+I call this one the magic suitcase, which when coupled with the magic passports, you get
+the FBI's official reasoning when asked how on earth they were instantly able to discern
+all of the hijackers and how they were attached to al-Qaeda.
+That is some stroke of luck.
+
+— END —

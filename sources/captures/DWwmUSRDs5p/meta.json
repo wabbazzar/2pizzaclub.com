@@ -1,0 +1,36 @@
+{
+    "id": "DWwmUSRDs5p",
+    "url": "https://www.instagram.com/reel/DWwmUSRDs5p/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@nyc_wtc",
+    "author_display_name": "@nyc_wtc",
+    "posted_at": "2026-04-05",
+    "engagement": {
+        "likes": 5771,
+        "comments": 424
+    },
+    "caption": "Subscribe to support the 25th anniversary! \n\n#wtc #911 #truth #neverforget #usa",
+    "hashtags": [
+        "wtc",
+        "911",
+        "truth",
+        "neverforget",
+        "usa"
+    ],
+    "audio_track_actual": "Single narrator delivering an introductory-physics walk-through of the WTC collapse over diagrams and time-elapsed collapse footage.",
+    "video_overlay_text_observed": "Schematic diagrams of the towers with vector arrows demonstrating expected vs observed collapse behavior; on-screen time stamps comparing observed collapse times (10–12 s) against the calculated absolute free-fall reference (9.2 s).",
+    "audio_content_summary": "The narrator argues that the World Trade Center towers fell at near-free-fall acceleration — observed at 10–12 seconds versus a 9.2-second absolute free-fall reference — and that this is inconsistent with conservation of momentum and conservation of energy in the official fire-and-impact collapse model. The argument relies on a basic physics principle: that energy used to break apart the lower structure must come from the kinetic energy of the falling upper section, and the falling section therefore cannot maintain free-fall speed while simultaneously destroying obstacles in its path. The narrator concludes that an additional energy input — implicitly, explosives — must be present for the observed behavior to occur. NIST has acknowledged a 2.25-second pure-free-fall period for WTC 7 in its NCSTAR 1A final report; its position is that the energy released by the upper-section impact so exceeded the lower structure's resistance that the observed acceleration is reconcilable with conventional physics (see 2001-wtc-collapse-physics-001 for the detailed comparison).",
+    "implied_frame": "The reel frames the physics-based critique as definitionally settled — 'high school physics' — and presents NIST's position as a violation of established law. NIST's published responses (in its FAQs and the Europhysics News peer-reviewed treatment) engage the same physics with different boundary-condition assumptions. The reel's argument is the most-cited public-facing form of the AE911Truth structural-engineering critique.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~25 MB, vp9 720x1280, 169s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2001-wtc-collapse-physics-001"
+    ],
+    "supporting_research_links": [
+        "https://www.nist.gov/world-trade-center-investigation/study-faqs/wtc-towers-investigation",
+        "https://www.europhysicsnews.org/articles/epn/pdf/2016/04/epn2016474p21.pdf",
+        "https://www.ae911truth.org/evidence/near-free-fall-acceleration"
+    ]
+}

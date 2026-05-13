@@ -1,0 +1,52 @@
+{
+    "id": "2024-netanyahu-congress-001",
+    "anchor": "y2023",
+    "year": 2024,
+    "era": "iv",
+    "themes": [
+        "netanyahu",
+        "congress",
+        "joint-session",
+        "israel",
+        "standing-ovation",
+        "lobby"
+    ],
+    "claim": "On July 24, 2024, Israeli Prime Minister Benjamin Netanyahu addressed a joint meeting of the U.S. Congress. He was received with a roughly eight-minute standing ovation on arrival and, by the count of multiple outlets, between 39 and 79 applause-or-standing-ovation interruptions during the speech itself — with one of the more widely cited counts placing standing ovations specifically at 58. The address was boycotted by 92 U.S. lawmakers (89 Democrats, 2 Independents, and 1 Republican). The speech took place during ongoing U.S.-supplied Israeli military operations in Gaza.",
+    "sources": [
+        {
+            "label": "Wikipedia — “2024 visit by Benjamin Netanyahu to the United States”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/2024_visit_by_Benjamin_Netanyahu_to_the_United_States",
+            "quote": "2024 visit by Benjamin Netanyahu to the United States",
+            "clip": "clips/2024-netanyahu-congress-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "NPR — “Netanyahu met with standing ovation and protest over joint meeting of Congress” (Jul 24, 2024)",
+            "type": "primary",
+            "url": "https://www.npr.org/2024/07/24/nx-s1-5048793/netanyahu-met-with-standing-ovation-and-protest-over-joint-meeting-of-congress"
+        },
+        {
+            "label": "Al Jazeera — “Key takeaways from Netanyahu's speech and the protests outside US Congress”",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2024/7/24/key-takeaways-from-netanyahus-speech-and-the-protests-outside-us-congress"
+        },
+        {
+            "label": "The Times of Israel — “Netanyahu gets minute-long standing ovation as he arrives in Congress”",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-gets-minute-long-standing-ovation-as-he-arrives-in-congress/"
+        },
+        {
+            "label": "Wilson Center — “360° Reactions: Netanyahu's Address to the US Congress”",
+            "type": "secondary",
+            "url": "https://www.wilsoncenter.org/article/360deg-reactions-netanyahus-address-us-congress-02"
+        },
+        {
+            "label": "Stelle.World / @stelle.world, Instagram reel DVtM1wwESCr (Mar 10, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVtM1wwESCr/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The reel cites '26 standing ovations'; the actual count varies by source from 39 (CNN/AP) to 79 total applause moments (with 58 standing ovations specifically per Al Jazeera). All published counts are higher than the figure cited in the reel. The reception was historic — Netanyahu is one of only a handful of foreign leaders to have addressed a joint session of Congress four times."
+}

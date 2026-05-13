@@ -1,0 +1,41 @@
+{
+    "id": "2026-theovon-israel-001",
+    "anchor": "y2023",
+    "year": 2026,
+    "era": "iv",
+    "themes": [
+        "theo-von",
+        "israel",
+        "us-aid",
+        "podcast-discourse",
+        "afpac"
+    ],
+    "claim": "Comedian and podcaster Theo Von, host of This Past Weekend (among the most-listened-to U.S. podcasts on Spotify with more than four million YouTube followers), has publicly made critical statements about the U.S.–Israel financial relationship across multiple appearances. In a 2024 sit-down with then-presidential-candidate JD Vance, Von raised Israel's military operations in Gaza in terms his guest characterized as 'genocide.' In an episode of The Joe Rogan Experience, Von described Israel as 'the terrorists,' arguing the U.S. defaults to Israel's posture regionally. In a clip widely shared in 2026 with @5149jamesli (James Li), Von framed the U.S.–Israel funding relationship as 'our country's owned by Israel … you just give the money to the boss.'",
+    "sources": [
+        {
+            "label": "Times of Israel — “Meet Theo Von, the popular podcaster who asked JD Vance about Israel's 'genocide' in Gaza”",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/meet-theo-von-the-popular-podcaster-who-asked-jd-vance-about-israels-genocide-in-gaza/",
+            "quote": "popular podcaster who asked JD Vance about Israel",
+            "clip": "clips/2026-theovon-israel-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Jerusalem Post — “Comedian, podcaster Theo Von talks Israel, Gaza and Hamas with JD Vance”",
+            "type": "secondary",
+            "url": "https://www.jpost.com/israel-news/article-857272"
+        },
+        {
+            "label": "Jimmy Dore Show clip — “‘ISRAEL Are The Terrorists!’ – Theo Von GOES OFF To Joe Rogan”",
+            "type": "secondary",
+            "url": "https://open.spotify.com/episode/4PYVFok3nKsCLYosCR21m9"
+        },
+        {
+            "label": "James Li / @5149jamesli, Instagram reel DVb9cgWEt8D (Mar 3, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVb9cgWEt8D/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Theo Von's public statements on US–Israel policy are catalogued across mainstream Israeli and U.S. media. The framing in the surfacing reel ('country owned by Israel') is Von's own characterization on James Li's podcast; the underlying numerical record on U.S. foreign aid to Israel is in 2024-us-israel-aid-001."
+}

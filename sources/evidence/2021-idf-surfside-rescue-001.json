@@ -1,0 +1,51 @@
+{
+    "id": "2021-idf-surfside-rescue-001",
+    "anchor": "y2021-surfside",
+    "year": 2021,
+    "era": "iv",
+    "themes": [
+        "surfside",
+        "israel",
+        "idf",
+        "search-and-rescue",
+        "florida"
+    ],
+    "claim": "In the days following the Champlain Towers South collapse, the Israel Defense Forces' Home Front Command — a unit experienced in international disaster-response (Haiti 2010, Mexico 2017, Typhoon Haiyan) — sent a search-and-rescue delegation to Surfside at the formal request of the Israeli government conveyed by Consul General Maor Elbaz-Starinsky. Prime Minister Naftali Bennett spoke with Florida Governor Ron DeSantis to coordinate the assistance; Diaspora Affairs Minister Nachman Shai visited the site. The delegation worked alongside Miami-Dade Fire Rescue and other U.S. search teams through the recovery operation.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Surfside condominium collapse” (international assistance section)",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Surfside_condominium_collapse",
+            "quote": "Israel Defense Forces' Home Front Command search and rescue team to assist in the rescue efforts",
+            "clip": "clips/2021-idf-surfside-rescue-001-00.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "Times of Israel — “Israel sends IDF team to Florida to assist with tower collapse rescue efforts”",
+            "type": "primary",
+            "url": "https://www.timesofisrael.com/israel-sending-idf-team-to-florida-to-assist-with-tower-collapse-rescue-efforts/"
+        },
+        {
+            "label": "Times of Israel — “IDF delegation begins work at Florida disaster site as death toll rises to 9”",
+            "type": "primary",
+            "url": "https://www.timesofisrael.com/idf-delegation-begins-work-at-florida-disaster-site-as-death-toll-rises-to-9/"
+        },
+        {
+            "label": "NPR — “Experienced Team From Israel Helps Search Through Florida Condo Debris” (Jul 1, 2021)",
+            "type": "primary",
+            "url": "https://www.npr.org/2021/07/01/1012065402/experienced-team-from-israel-helps-search-through-florida-condo-debris"
+        },
+        {
+            "label": "Times of Israel — “Departing IDF rescue team at Florida condo collapse get medals, farewell cheers”",
+            "type": "primary",
+            "url": "https://www.timesofisrael.com/departing-idf-rescue-team-at-florida-condo-collapse-get-medals-farewell-cheers/"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DRoJ9FFiSUv (Nov 28, 2025) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DRoJ9FFiSUv/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Anchor y2021-surfside. The IDF Home Front Command's involvement in Surfside is documented across Israeli and U.S. press, including departure-ceremony coverage. The reel implies a suspicious role for the IDF team relative to American rescue workers; the documented public record describes coordinated joint operations alongside Miami-Dade Fire Rescue under the standard international-disaster-assistance pattern that the Home Front Command has performed at several prior catastrophes."
+}

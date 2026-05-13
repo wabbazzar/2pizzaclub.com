@@ -1,0 +1,47 @@
+{
+    "id": "2001-wtc-collapse-physics-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "wtc",
+        "collapse-physics",
+        "free-fall",
+        "nist",
+        "momentum-conservation",
+        "engineering-dispute"
+    ],
+    "claim": "The North Tower of the World Trade Center collapsed in approximately 10–12 seconds from initiation to ground; an absolute free-fall time for the same height under gravity alone would be approximately 9.2 seconds. World Trade Center 7 collapsed in approximately 6.5 seconds, with NIST acknowledging in its final report (NCSTAR 1A, 2008) that the building experienced an approximately 2.25-second period of pure free-fall acceleration during its collapse. Critics — including the architects-and-engineers organization AE911Truth and the late physicist Steven Jones — have argued that achieving observed collapse speeds while simultaneously breaking apart the structure below would violate conservation of momentum and conservation of energy without an additional energy input not accounted for in the official fire-induced-collapse model. NIST's position is that the energy released by the upper-section impact so greatly exceeded the strength capacity of the lower structure that observed acceleration is consistent with conventional physics.",
+    "sources": [
+        {
+            "label": "NIST — FAQs, World Trade Center Towers Investigation",
+            "type": "primary",
+            "url": "https://www.nist.gov/world-trade-center-investigation/study-faqs/wtc-towers-investigation",
+            "quote": "World Trade Center",
+            "clip": "clips/2001-wtc-collapse-physics-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Europhysics News — “15 Years Later: On the Physics of High-Rise Building Collapses” (EPN 47/4, 2016)",
+            "type": "primary",
+            "url": "https://www.europhysicsnews.org/articles/epn/pdf/2016/04/epn2016474p21.pdf"
+        },
+        {
+            "label": "AE911Truth — “Near-Free-Fall Acceleration” (twin-towers analysis)",
+            "type": "secondary",
+            "url": "https://www.ae911truth.org/evidence/near-free-fall-acceleration"
+        },
+        {
+            "label": "AE911Truth — “Free-Fall Acceleration | World Trade Center Building 7”",
+            "type": "secondary",
+            "url": "https://www.ae911truth.org/evidence/free-fall-acceleration"
+        },
+        {
+            "label": "Instagram reel DWwmUSRDs5p — surfacing source (a physics-based critique of the official collapse mechanism)",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWwmUSRDs5p/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Two facts are uncontested across the official and dissenting positions: the observed collapse times (10–12 seconds for the Twin Towers, ~6.5 seconds for WTC 7) and NIST's acknowledgment of a 2.25-second free-fall period for WTC 7 (NCSTAR 1A). The remaining question — whether the observed acceleration is reconcilable with the official fire-and-impact model or requires an additional energy source — is the substance of the engineering debate. The Europhysics News piece is a peer-reviewed treatment that frames the physics challenges. The reel restates these arguments at a high-school-physics introductory level."
+}

@@ -1,0 +1,35 @@
+{
+    "id": "2017-bennington-001",
+    "anchor": "y2017-bennington",
+    "year": 2017,
+    "era": "iv",
+    "themes": [
+        "bennington",
+        "linkin-park",
+        "celebrity-death",
+        "suicide-ruling"
+    ],
+    "claim": "Chester Charles Bennington (b. March 20, 1976), lead vocalist of Linkin Park, was found dead at his home in Palos Verdes Estates, California on July 20, 2017. The Los Angeles County coroner ruled his death a suicide by hanging. He had publicly discussed lifelong struggles with depression and substance abuse and had spoken about the recent death of his close friend, Soundgarden vocalist Chris Cornell. Bennington died on what would have been Cornell's 53rd birthday.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Chester Bennington”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Chester_Bennington",
+            "quote": "the county coroner concluded that his death was a result of suicide by hanging",
+            "clip": "clips/2017-bennington-001-00.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "Variety — “Linkin Park Singer Chester Bennington Died by Hanging, Coroner Confirms”",
+            "type": "primary",
+            "url": "https://variety.com/2017/music/news/chester-bennington-suicide-hanging-linkin-park-1202502797/"
+        },
+        {
+            "label": "tafsir_7, Instagram reel DWyiPW5jM0b (Apr 6, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWyiPW5jM0b/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The official ruling on the manner of death is a matter of public record (Los Angeles County coroner). Independent investigators and the surfacing reel have raised questions; this record captures the official ruling, which is what is documented."
+}

@@ -1,0 +1,46 @@
+{
+    "id": "2024-us-israel-aid-001",
+    "anchor": "y2023",
+    "year": 2024,
+    "era": "iv",
+    "themes": [
+        "us-aid",
+        "israel",
+        "foreign-military-financing",
+        "mou",
+        "crs"
+    ],
+    "claim": "Under the bilateral Memorandum of Understanding negotiated in 2016 and running through fiscal year 2028, the United States has committed to providing Israel with $38 billion in military assistance — $33 billion in Foreign Military Financing grants plus $5 billion in missile-defense appropriations — at $3.8 billion per year. In April 2024, Congress passed legislation including an additional $3.5 billion in Foreign Military Financing and $5.2 billion in defense appropriations (with $4 billion for missile defense and $1.2 billion for the Iron Beam laser defense system). In early January 2025, the administration notified Congress of additional possible munitions sales to Israel totaling approximately $8 billion. The Congressional Research Service publishes a regularly-updated overview (RL33222) as the authoritative U.S. legislative reference.",
+    "sources": [
+        {
+            "label": "Congressional Research Service — “U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023” (RL33222)",
+            "type": "primary",
+            "url": "https://www.congress.gov/crs-product/RL33222"
+        },
+        {
+            "label": "Congressional Research Service — RL33222 PDF (regularly updated)",
+            "type": "primary",
+            "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL33222/RL33222.53.pdf"
+        },
+        {
+            "label": "Council on Foreign Relations — “U.S. Aid to Israel in Four Charts”",
+            "type": "secondary",
+            "url": "https://www.cfr.org/articles/us-aid-israel-four-charts",
+            "quote": "U.S. Aid to Israel in Four Charts",
+            "clip": "clips/2024-us-israel-aid-001-02.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Watson Institute (Brown University), Costs of War — “U.S. Military Aid and Arms Transfers to Israel, October 2023” (Hartung)",
+            "type": "primary",
+            "url": "https://costsofwar.watson.brown.edu/sites/default/files/2025-10/Hartung_US_Military_Aid_to_Israel_Oct.20.pdf"
+        },
+        {
+            "label": "James Li / @5149jamesli, Instagram reel DVb9cgWEt8D (Mar 3, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVb9cgWEt8D/"
+        }
+    ],
+    "status": "verified",
+    "notes": "These figures are the authoritative U.S. legislative record. Theo Von's editorial framing — that the U.S. is functionally a vassal of Israel via this aid — is the contested interpretation. The numerical commitments themselves are public, audited, and uncontested. The CRS report is the primary citation; the Costs of War accounting from Brown's Watson Institute provides an independent tracking of supplementals and arms transfers."
+}

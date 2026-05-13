@@ -1,0 +1,54 @@
+{
+    "id": "2023-mast-idf-uniform-001",
+    "anchor": "y2023",
+    "year": 2023,
+    "era": "iv",
+    "themes": [
+        "mast",
+        "congress",
+        "idf",
+        "uniform",
+        "israel",
+        "lobby"
+    ],
+    "claim": "On October 13, 2023, U.S. Representative Brian Mast (R-FL) arrived at the U.S. Capitol Complex wearing an Israel Defense Forces uniform from his prior service as a civilian volunteer with Sar-El, a nonprofit that places volunteers in support roles with the IDF. Mast, a U.S. Army veteran, wore the uniform to a House Republican caucus meeting in the days following the October 7 Hamas attack. Asked about the choice, Mast told reporters, '[Rep. Rashida] Tlaib has her flag, I got my uniform.' In December 2024, the House elected Mast to chair the House Foreign Affairs Committee.",
+    "sources": [
+        {
+            "label": "The Hill — “GOP lawmaker wears Israeli military uniform to Capitol Hill”",
+            "type": "primary",
+            "url": "https://thehill.com/homenews/house/4254384-brian-mast-israeli-military-uniform-capitol-hill/",
+            "quote": "GOP lawmaker wears Israeli military uniform to Capitol Hill",
+            "clip_status": "http-403"
+        },
+        {
+            "label": "The Washington Times — “Rep. Brian Mast dons Israeli military uniform in Capitol”",
+            "type": "primary",
+            "url": "https://www.washingtontimes.com/news/2023/oct/13/rep-brian-mast-dons-israeli-military-uniform-in-ca/"
+        },
+        {
+            "label": "Mediaite — “Rep. Brian Mast Wears His IDF Uniform to Capitol Building”",
+            "type": "secondary",
+            "url": "https://www.mediaite.com/politics/congressman-who-served-in-israeli-military-wears-uniform-to-capitol-tlaibs-got-her-flag-ive-got-my-uniform/",
+            "quote": "Rep. Brian Mast",
+            "clip": "clips/2023-mast-idf-uniform-001-02.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "Jewish Telegraphic Agency — “House elects Brian Mast, U.S. army veteran who assisted Israeli soldiers as a civilian volunteer, to lead Foreign Affairs Committee”",
+            "type": "secondary",
+            "url": "https://www.jta.org/2024/12/10/politics/house-elects-brian-mast-u-s-army-veteran-who-assisted-israeli-soldiers-as-a-civilian-volunteer-to-lead-foreign-affairs-committee"
+        },
+        {
+            "label": "Al Jazeera — “Brian Mast: Pro-Israel hawk set to lead US House foreign policy panel”",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2024/12/11/brian-mast-pro-israel-hawk-set-to-lead-us-house-foreign-policy-panel"
+        },
+        {
+            "label": "Stelle.World / @stelle.world, Instagram reel DVtM1wwESCr (Mar 10, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVtM1wwESCr/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Sar-El uniform Mast wore was the IDF support-volunteer uniform, not a combat IDF uniform — a distinction the press coverage drew. Mast is the only sitting member of Congress to have served with both the U.S. Army and as an IDF volunteer. His subsequent elevation to chair the House Foreign Affairs Committee, with jurisdiction over U.S. foreign-aid policy including aid to Israel, is the documented institutional consequence."
+}

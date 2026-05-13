@@ -1,0 +1,34 @@
+{
+    "id": "2001-gw-bridge-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "anomaly",
+        "media-retraction"
+    ],
+    "claim": "On September 11, 2001, CBS News and CNN reported that NYPD had stopped a van loaded with explosives on the George Washington Bridge. NYPD Commissioner Bernard Kerik publicly contradicted these accounts at a press conference the same day, stating no explosives had been recovered. The initial reports were retracted; the FBI has stated it has no records pertaining to this specific incident.",
+    "sources": [
+        {
+            "label": "Wikipedia \u2014 \u201cTimeline for September following the September 11 attacks\u201d",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Timeline_for_September_following_the_September_11_attacks",
+            "quote": "van filled with explosives has been stopped on the George Washington Bridge",
+            "clip": "clips/2001-gw-bridge-001-00.png",
+            "clip_status": "ok-head30"
+        },
+        {
+            "label": "Bernard Kerik press conference, 9/11/2001 \u2014 answering a question about explosives in a van on the George Washington Bridge (video extract)",
+            "type": "primary",
+            "url": "https://www.youtube.com/watch?v=kmykQtUIDRo"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "contested-initial-reports-retracted",
+    "notes": "What is documented: CBS and CNN ran the explosives-van story on 9/11 itself; Kerik denied it the same day; no van/explosives confirmed in any subsequent official record. What the reel does: treats the initial reports as the truth and the retraction as the cover-up. Both layers are real; which one to believe is the editorial question this record presents."
+}

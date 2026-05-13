@@ -1,0 +1,37 @@
+{
+    "id": "DWj5sjVjpK9",
+    "url": "https://www.instagram.com/reel/DWj5sjVjpK9/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@nyc_wtc",
+    "author_display_name": "@nyc_wtc",
+    "posted_at": "2026-03-31",
+    "engagement": {
+        "likes": 983,
+        "comments": 94
+    },
+    "caption": "Subscribe! Help us to reach 5000 subscribers!\n\n#wtc #911 #truth #neverforget #usa",
+    "hashtags": [
+        "wtc",
+        "911",
+        "truth",
+        "neverforget",
+        "usa"
+    ],
+    "audio_track_actual": "Single narrator over footage of WTC 7's collapse intercut with comparison footage of the 2017 Plasco Building collapse in Tehran.",
+    "video_overlay_text_observed": "Side-by-side video comparison between WTC 7 and the Plasco Building collapse; on-screen text noting that WTC 7 fell 'at free fall speed perfectly into its footprint' and labeling WTC 7 the third steel building 'to ever collapse from fire.'",
+    "audio_content_summary": "The narrator advances four claims about World Trade Center 7. First, that the building collapsed at free-fall speed into its own footprint (NIST has acknowledged a ~2.25-second pure-free-fall period in NCSTAR 1A; see 2001-wtc-collapse-physics-001). Second, that WTC 7 is one of only three steel-framed high-rises in history to have collapsed from fire — the other two being WTC 1 and 2 on the same day. The Plasco Building collapse in Tehran on January 19, 2017 is a documented fourth case; the narrator notes Plasco fell asymmetrically and uses it as a contrasting reference for what an unrigged fire-induced collapse looks like. Third, that Larry Silverstein's September 2002 PBS America Rebuilds statement — 'maybe the smartest thing to do is pull it' — was an instruction to demolish the building, an interpretation Silverstein's spokesperson disputed and that NIST's final report did not adopt (see 2002-silverstein-pull-it-001). Fourth, that the rapidity with which the attacks were officially attributed indicates pre-attack preparation rather than post-attack investigation.",
+    "implied_frame": "The reel pairs the physics-of-collapse claim with the 'pull it' semantic argument to advance the controlled-demolition reading of WTC 7. Each underlying fact (the collapse time, the Silverstein statement, the Plasco comparison) is documented; the synthesized inference — that WTC 7 was pre-rigged for demolition — is the contested editorial proposition NIST's WTC 7 final report directly rejects.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~21 MB, vp9 720x1280, 131s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2002-silverstein-pull-it-001",
+        "2001-wtc-collapse-physics-001"
+    ],
+    "supporting_research_links": [
+        "https://archive.org/details/larrysilversteinpullbuilding7",
+        "https://en.wikipedia.org/wiki/World_Trade_Center_controlled_demolition_conspiracy_theories",
+        "https://www.snopes.com/fact-check/building-7-collapse/"
+    ]
+}

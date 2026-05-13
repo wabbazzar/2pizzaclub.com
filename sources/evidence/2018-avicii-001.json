@@ -1,0 +1,35 @@
+{
+    "id": "2018-avicii-001",
+    "anchor": "y2017-bennington",
+    "year": 2018,
+    "era": "iv",
+    "themes": [
+        "avicii",
+        "edm",
+        "celebrity-death",
+        "suicide-ruling"
+    ],
+    "claim": "Tim Bergling — known professionally as Avicii — died on April 20, 2018 at age 28 while on holiday in Muscat, Oman, at an estate owned by the Omani royal family. Omani authorities performed two autopsies and announced on April 21 that there was no criminal suspicion or evidence of foul play. The cause of death was reported as suicide by self-inflicted injuries with a broken wine bottle; he died of blood loss. His family later described him as having struggled with “extreme stress” and existential anxiety.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Avicii”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Avicii",
+            "quote": "Avicii died on 20 April 2018 at the age of 28, while on holiday in Muscat, Oman, at an estate owned by the Omani royal family",
+            "clip": "clips/2018-avicii-001-00.png",
+            "clip_status": "ok-head30"
+        },
+        {
+            "label": "Avicii family open letter, April 26, 2018",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "tafsir_7, Instagram reel DWyiPW5jM0b (Apr 6, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWyiPW5jM0b/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Omani officials announced no criminal suspicion. The family's open letter (April 26, 2018) is the family's own account; an independent autopsy report has not been published."
+}

@@ -1,0 +1,40 @@
+{
+    "id": "1975-heart-attack-gun-001",
+    "anchor": "y1975",
+    "year": 1975,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "church-committee",
+        "assassination",
+        "biological-weapons"
+    ],
+    "claim": "On September 16, 1975, during a Church Committee hearing on alleged CIA assassination activities, Senator Frank Church (D-ID) and committee staff publicly displayed a CIA-developed silent dart pistol — referred to in CIA parlance as a 'nondiscernible microbioinoculator' — modified from a Colt M1911 to fire a near-microscopic frozen dart of saxitoxin (a paralytic shellfish toxin). The device had been retained by the CIA in violation of President Nixon's 1969 executive order directing the destruction of biological-weapon stocks. CIA Director William Colby brought the weapon to the hearing.",
+    "sources": [
+        {
+            "label": "U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee), hearing transcript, Sep 16, 1975 — “Unauthorized Storage of Toxic Agents”",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "Maryland Today (Univ. of Maryland) — “Keeping an Eye on the Spies”",
+            "type": "secondary",
+            "url": "https://today.umd.edu/keeping-an-eye-on-the-spies",
+            "quote": "designed to fire a dart of frozen shellfish toxins for use in undetectable assassinations",
+            "clip": "clips/1975-heart-attack-gun-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Military.com — “The CIA's 'Heart Attack Gun': A Cold War Weapon for Targeted Assassinations”",
+            "type": "secondary",
+            "url": "https://www.military.com/history/cias-heart-attack-gun-cold-war-weapon-targeted-assassinations.html"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Hearing was televised; surviving footage shows Senator Church displaying the weapon. Primary record is the published Church Committee hearing transcript. URL pending — canonical archive location is the Government Publishing Office or Senate Historical Office. The reel uses the heart-attack-gun motif as part of its fictional confession; the device's existence and 1975 public display are real."
+}

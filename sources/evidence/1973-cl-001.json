@@ -1,0 +1,39 @@
+{
+    "id": "1973-cl-001",
+    "anchor": "y1973",
+    "year": 1973,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "regime-change",
+        "south-america"
+    ],
+    "claim": "The 1973 Chilean coup that overthrew Salvador Allende's democratically elected government was facilitated by covert U.S. financial and operational support, as later documented by the U.S. Senate Select Committee (Church Committee).",
+    "sources": [
+        {
+            "label": "U.S. Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities (Church Committee), “Covert Action in Chile 1963–1973” (Dec 18, 1975) — official Senate Intelligence Committee PDF",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94chile.pdf"
+        },
+        {
+            "label": "Internet Archive — full scanned text of the Church Committee Chile report",
+            "type": "primary",
+            "url": "https://archive.org/details/Covert-Action-In-Chile-1963-1973",
+            "quote": "Covert Action in Chile 1963-73: Staff Report of the Select Committee to Study Governmental Operations With Respect to Intelligence Activities, United States Senate.",
+            "clip": "clips/1973-cl-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "National Security Archive (GWU) — “Covert Action in Chile: The Significance of the Church Committee Report 50 Years Later” (briefing book)",
+            "type": "secondary",
+            "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2025-12-04/covert-action-chile-significance-church-committee-report-50"
+        },
+        {
+            "label": "Vincent Bevins, The Jakarta Method (2020), ch. 7",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "Senate Intelligence Committee canonical PDF is the primary record (94th Congress, 1st session, committee print). Internet Archive copy linked as a more navigable/text-searchable alternative. NSA briefing book (Dec 2025) is the 50-year retrospective and a strong secondary. The Bevins book is cited for the broader Latin American context but URL is not applicable."
+}

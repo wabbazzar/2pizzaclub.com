@@ -1,0 +1,41 @@
+{
+    "id": "2001-sibel-edmonds-001",
+    "anchor": "y2001-aftermath",
+    "year": 2002,
+    "era": "iii",
+    "themes": [
+        "sibel-edmonds",
+        "fbi",
+        "whistleblower",
+        "state-secrets",
+        "9-11"
+    ],
+    "claim": "Sibel Edmonds was hired in September 2001 as a contract translator at the FBI's Washington Field Office. She was dismissed in 2002 after raising concerns about translation cover-ups involving Turkish nationals and what she described as deliberately suppressed intelligence relevant to the 9/11 attacks. The U.S. Attorney General imposed a state-secrets privilege order on her, and her subsequent lawsuit was dismissed on those grounds. A Department of Justice Inspector General audit, summarized by IG Glenn Fine, concluded that many of her allegations were supported, that the FBI had not taken them seriously enough, and that her allegations were the most significant factor in the FBI's decision to terminate her.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Sibel Edmonds”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Sibel_Edmonds",
+            "quote": "Inspector General Glenn A. Fine released a summary of the audit report",
+            "clip": "clips/2001-sibel-edmonds-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "DOJ Office of the Inspector General — Sibel Edmonds case files (archived)",
+            "type": "primary",
+            "url": "https://oig.justice.gov/sites/default/files/archive/special/0311/attachment1.htm"
+        },
+        {
+            "label": "ACLU — “Sibel Edmonds: A Patriot Silenced, Unjustly Fired but Fighting Back to Help Keep America Safe”",
+            "type": "secondary",
+            "url": "https://www.aclu.org/documents/sibel-edmonds-patriot-silenced-unjustly-fired-fighting-back-help-keep-america-safe"
+        },
+        {
+            "label": "news to trust, Instagram reel DYHf6vexwiv (May 9, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYHf6vexwiv/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Edmonds was the first whistleblower in U.S. history to be silenced by retroactive state-secrets-privilege order. The DOJ IG's qualified support of her allegations is the most authoritative U.S. government finding on her credibility; the specific substance of her allegations has remained subject to ongoing classification disputes."
+}

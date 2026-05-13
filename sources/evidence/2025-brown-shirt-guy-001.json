@@ -1,0 +1,46 @@
+{
+    "id": "2025-brown-shirt-guy-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "kirk",
+        "person-of-interest",
+        "alt-theory",
+        "social-media-conspiracy",
+        "contested"
+    ],
+    "claim": "In the days following the Charlie Kirk shooting, a viral social-media thread identified an unnamed man wearing a brown shirt and sunglasses in the audience footage and proposed that he was the actual operator — either of a remote detonator or of a concealed 'palm gun.' The man has been variously identified as Rick Cutler in independent videos. The FBI's own person-of-interest images, released on September 11, 2025, showed a different individual wearing a dark blue cap and a black T-shirt with an American flag and bald eagle, photographed on a campus stairwell. That person was subsequently identified as Tyler Robinson; the 'brown shirt' man named in the viral thread has not been named in any official law-enforcement statement on the case.",
+    "sources": [
+        {
+            "label": "FBI — Utah Valley Shooting Updates (person-of-interest photos, Sep 11 2025)",
+            "type": "primary",
+            "url": "https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates"
+        },
+        {
+            "label": "CNBC — “Charlie Kirk shooting: FBI shares person of interest photos, offers $100,000 reward”",
+            "type": "secondary",
+            "url": "https://www.cnbc.com/2025/09/11/charlie-kirk-shooter-manhunt-trump.html"
+        },
+        {
+            "label": "Axios — “Police release photo of person of interest in Charlie Kirk shooting death”",
+            "type": "secondary",
+            "url": "https://www.axios.com/local/salt-lake-city/2025/09/11/fbi-photos-charlie-kirk-shooting",
+            "quote": "The photos show a person wearing sunglasses, a dark baseball cap, a dark long-sleeved shirt, dark pants and sneakers with white laces.",
+            "clip": "clips/2025-brown-shirt-guy-001-02.png",
+            "clip_status": "ok-cross-node"
+        },
+        {
+            "label": "YouTube — “Charlie Kirk Conspiracy: Following Rick Cutler, The Palm Gun guy. (Was not a detonator)”",
+            "type": "secondary",
+            "url": "https://www.youtube.com/watch?v=znVj061XJKg"
+        },
+        {
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
+        }
+    ],
+    "status": "contested-meme",
+    "notes": "The 'brown shirt' / 'palm gun' figure is the subject of a substantial TikTok and YouTube ecosystem of speculation, but the only formal law-enforcement person-of-interest images released on September 11, 2025 depict a different individual (later identified as Tyler Robinson). The YouTube debunk linked above traces the brown-shirt man back to an attendee named Rick Cutler and argues the hand gesture interpreted as a detonator-press is not a detonator. This record documents both layers — the viral identification and the official record — and leaves the inference to the reader."
+}

@@ -1,0 +1,39 @@
+{
+    "id": "2001-jennings-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "wtc7",
+        "witness-testimony"
+    ],
+    "claim": "Barry Jennings, then Deputy Director of the Emergency Services Department for the NYC Housing Authority, was in the Mayor's Office of Emergency Management command center on the 23rd floor of WTC 7 with NYC Corporation Counsel Michael Hess on the morning of September 11, 2001. In recorded interviews Jennings stated that after attempting to descend, he heard 'all kinds of explosions' and reached the WTC 7 lobby to find it 'in total ruins' \u2014 before either of the Twin Towers had collapsed. Both Jennings and Hess were trapped on an upper floor and were eventually rescued by firefighters; WTC 7 itself collapsed at 5:20 p.m. that day.",
+    "sources": [
+        {
+            "label": "BBC2, \u201cThe Conspiracy Files: 9/11 \u2014 The Third Tower\u201d (2008) \u2014 broadcast Jennings interview footage",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "\u201cBarry Jennings \u2014 9/11 Witness and Whistleblower\u201d \u2014 Internet Archive (collected interview clips)",
+            "type": "primary",
+            "url": "https://archive.org/details/BarryJennings",
+            "quote": "he saw and heard explosions BEFORE the Twin Towers fell, while attempting to evacuate the WTC 7 Command Center",
+            "clip": "clips/2001-jennings-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "AE911Truth \u2014 \u201cPart 9: Larry Silverstein and Barry Jennings\u201d",
+            "type": "secondary",
+            "url": "https://www.ae911truth.org/evidence/technical-articles/articles-by-ae911truth/debunking-the-real-9-11-myths/495"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Jennings's lobby-explosion account is a recorded public statement, documented on video. NIST's investigation interpreted his account as describing an explosion-like impact caused by the North Tower collapse and falling debris on WTC 7. The recorded testimony itself (what Jennings said) is uncontested; the *interpretation* (what caused the lobby damage) is contested. AE911Truth source is partisan; Internet Archive collection holds the underlying clips. URLs not yet directly fetched."
+}

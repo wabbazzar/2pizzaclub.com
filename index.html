@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="receipts — a sourced timeline">
+    <meta name="robots" content="noindex">
+    <title>receipts</title>
+
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <meta name="theme-color" content="#0a0a09">
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <a class="skip-link" href="#opening">skip to content</a>
+
+    <header class="dossier-header">
+        <div class="filemark">// FILE — RECEIPTS · v0 · DRAFT</div>
+        <nav class="header-nav">
+            <a class="exit-mark" href="gallery/" aria-label="art gallery">art gallery</a>
+            <a class="exit-mark" href="https://wabbazzar.com" aria-label="wabbazzar.com">wabbazzar.com</a>
+        </nav>
+    </header>
+
+    <nav class="theme-bar" id="theme-bar" aria-label="filter by theme"></nav>
+
+    <div class="layout">
+        <aside class="timeline" aria-label="timeline navigation">
+            <button class="timeline-toggle" type="button" aria-expanded="false" aria-controls="timeline-list">
+                <span class="filemark">// TIMELINE</span>
+                <span class="caret">▾</span>
+            </button>
+            <ol class="timeline-list" id="timeline-list">
+                <li class="t-era">
+                    <span class="t-era-label">Era I · Foundations</span>
+                    <ol>
+                        <li><a href="#y1898" data-anchor="y1898"><span class="t-year">1898</span> Empire</a></li>
+                        <li><a href="#y1913" data-anchor="y1913"><span class="t-year">1913</span> Federal Reserve</a></li>
+                        <li><a href="#y1933" data-anchor="y1933"><span class="t-year">1933</span> The New Deal</a></li>
+                        <li><a href="#y1944" data-anchor="y1944"><span class="t-year">1944</span> Bretton Woods</a></li>
+                    </ol>
+                </li>
+                <li class="t-era">
+                    <span class="t-era-label">Era II · The CIA at work</span>
+                    <ol>
+                        <li><a href="#y1947" data-anchor="y1947"><span class="t-year">1947</span> CIA founded</a></li>
+                        <li><a href="#y1953" data-anchor="y1953"><span class="t-year">1953</span> Iran · Mosaddegh</a></li>
+                        <li><a href="#y1954" data-anchor="y1954"><span class="t-year">1954</span> Guatemala · Árbenz</a></li>
+                        <li><a href="#y1965" data-anchor="y1965"><span class="t-year">1965</span> Indonesia · Jakarta</a></li>
+                        <li><a href="#y1973" data-anchor="y1973"><span class="t-year">1973</span> Chile · Allende</a></li>
+                        <li><a href="#y1975" data-anchor="y1975"><span class="t-year">1975</span> Church Committee</a></li>
+                    </ol>
+                </li>
+                <li class="t-era">
+                    <span class="t-era-label">Era III · The neoliberal turn</span>
+                    <ol>
+                        <li><a href="#y1971" data-anchor="y1971"><span class="t-year">1971</span> Gold standard ends</a></li>
+                        <li><a href="#y1980" data-anchor="y1980"><span class="t-year">1980</span> Reagan</a></li>
+                        <li><a href="#y2001-attack" data-anchor="y2001-attack"><span class="t-year">2001</span> 9/11 · the day</a></li>
+                        <li><a href="#y2001-aftermath" data-anchor="y2001-aftermath"><span class="t-year">2004→</span> 9/11 · the years after</a></li>
+                        <li><a href="#y2003" data-anchor="y2003"><span class="t-year">2003</span> Iraq</a></li>
+                        <li><a href="#y2008" data-anchor="y2008"><span class="t-year">2008</span> GFC · bailouts up</a></li>
+                    </ol>
+                </li>
+                <li class="t-era">
+                    <span class="t-era-label">Era IV · Surveillance acceleration</span>
+                    <ol>
+                        <li><a href="#y2010" data-anchor="y2010"><span class="t-year">2010</span> Citizens United</a></li>
+                        <li><a href="#y2013" data-anchor="y2013"><span class="t-year">2013</span> Snowden</a></li>
+                        <li><a href="#y2017-bennington" data-anchor="y2017-bennington"><span class="t-year">2017</span> Bennington · Cornell · Avicii · Bourdain</a></li>
+                        <li><a href="#y2019" data-anchor="y2019"><span class="t-year">2019</span> Epstein</a></li>
+                        <li><a href="#y2021-surfside" data-anchor="y2021-surfside"><span class="t-year">2021</span> Surfside</a></li>
+                        <li><a href="#y2023" data-anchor="y2023"><span class="t-year">2023</span> Gaza · the lobby</a></li>
+                        <li><a href="#y2024-pagers" data-anchor="y2024-pagers"><span class="t-year">2024</span> Exploding devices</a></li>
+                        <li><a href="#y2024" data-anchor="y2024"><span class="t-year">2024</span> Palantir · AI race</a></li>
+                        <li><a href="#y2025-kirk" data-anchor="y2025-kirk"><span class="t-year">2025</span> The killing of Charlie Kirk</a></li>
+                        <li><a href="#y2025" data-anchor="y2025"><span class="t-year">2025</span> Where we are</a></li>
+                    </ol>
+                </li>
+                <li class="t-era">
+                    <span class="t-era-label">Era V · The age of receipts</span>
+                    <ol>
+                        <li><a href="#y2021-anthropic" data-anchor="y2021-anthropic"><span class="t-year">2021</span> Anthropic · the Amodei split</a></li>
+                        <li><a href="#y2023-altman-firing" data-anchor="y2023-altman-firing"><span class="t-year">2023</span> Altman, fired and returned</a></li>
+                        <li><a href="#y2026-altman" data-anchor="y2026-altman"><span class="t-year">2026</span> Sam Altman in the New Yorker</a></li>
+                        <li><a href="#y2026-ai-bubble" data-anchor="y2026-ai-bubble"><span class="t-year">2026</span> The AI infrastructure bet</a></li>
+                    </ol>
+                </li>
+            </ol>
+        </aside>
+
+        <main class="chapters">
+            <section class="opening" id="opening">
+                <p class="kicker">// OPEN FILE</p>
+                <h1>How to become<br>radicalized.</h1>
+                <p class="lede">A sourced timeline. We do not ask you to take anything on face. Every claim points to evidence. You decide.</p>
+
+                <div class="poll" aria-label="opening poll">
+                    <p class="poll-q">How did Jeffrey Epstein die?</p>
+                    <ol class="poll-options">
+                        <li>
+                            <span class="poll-label">He is still alive.</span>
+                            <span class="poll-bar"><span class="poll-fill" style="width:0%"></span></span>
+                            <span class="poll-pct">__%</span>
+                        </li>
+                        <li>
+                            <span class="poll-label">He was murdered.</span>
+                            <span class="poll-bar"><span class="poll-fill" style="width:0%"></span></span>
+                            <span class="poll-pct">__%</span>
+                        </li>
+                        <li>
+                            <span class="poll-label">He hanged himself.</span>
+                            <span class="poll-bar"><span class="poll-fill" style="width:0%"></span></span>
+                            <span class="poll-pct">__%</span>
+                        </li>
+                    </ol>
+                    <p class="poll-note">[ DRAFT — replace with a real polling source. Until then, no numbers shown. ]</p>
+                </div>
+
+                <p class="opening-pivot">If you believe the answer is anything other than the official one, ask what else they get away with. Scroll.</p>
+            </section>
+
+            <section class="era-divider" id="era-1">
+                <p class="filemark">// ERA I</p>
+                <h2>Foundations</h2>
+                <p class="placeholder">[DRAFT — era preamble: the rules of the game, set long before any of us showed up.]</p>
+            </section>
+
+            <article class="chapter" id="y1898" data-anchor="y1898" data-year="1898" data-era="i">
+                <header><span class="year">1898</span><h3>Empire by other names</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1898"></div>
+            </article>
+
+            <article class="chapter" id="y1913" data-anchor="y1913" data-year="1913" data-era="i">
+                <header><span class="year">1913</span><h3>Federal Reserve</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1913"></div>
+            </article>
+
+            <article class="chapter" id="y1933" data-anchor="y1933" data-year="1933" data-era="i">
+                <header><span class="year">1933</span><h3>The New Deal</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the last time the bust hit and the bottom got bailed first.]</p></div>
+                <div class="evidence" data-anchor="y1933"></div>
+            </article>
+
+            <article class="chapter" id="y1944" data-anchor="y1944" data-year="1944" data-era="i">
+                <header><span class="year">1944</span><h3>Bretton Woods</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1944"></div>
+            </article>
+
+            <section class="era-divider" id="era-2">
+                <p class="filemark">// ERA II</p>
+                <h2>The CIA at work</h2>
+                <p class="placeholder">[DRAFT — era preamble: democratic governments, when inconvenient, become targets.]</p>
+            </section>
+
+            <article class="chapter" id="y1947" data-anchor="y1947" data-year="1947" data-era="ii">
+                <header><span class="year">1947</span><h3>CIA founded</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1947"></div>
+            </article>
+
+            <article class="chapter" id="y1953" data-anchor="y1953" data-year="1953" data-era="ii">
+                <header><span class="year">1953</span><h3>Iran · Mosaddegh</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1953"></div>
+            </article>
+
+            <article class="chapter" id="y1954" data-anchor="y1954" data-year="1954" data-era="ii">
+                <header><span class="year">1954</span><h3>Guatemala · Árbenz</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1954"></div>
+            </article>
+
+            <article class="chapter" id="y1965" data-anchor="y1965" data-year="1965" data-era="ii">
+                <header><span class="year">1965</span><h3>Indonesia · Jakarta Method</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — Bevins, The Jakarta Method.]</p></div>
+                <div class="evidence" data-anchor="y1965"></div>
+            </article>
+
+            <article class="chapter" id="y1973" data-anchor="y1973" data-year="1973" data-era="ii">
+                <header><span class="year">1973</span><h3>Chile · Allende</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1973"></div>
+            </article>
+
+            <article class="chapter" id="y1975" data-anchor="y1975" data-year="1975" data-era="ii">
+                <header><span class="year">1975</span><h3>Church Committee</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — when Congress briefly read its own files out loud.]</p></div>
+                <div class="evidence" data-anchor="y1975"></div>
+            </article>
+
+            <section class="era-divider" id="era-3">
+                <p class="filemark">// ERA III</p>
+                <h2>The neoliberal turn</h2>
+                <p class="placeholder">[DRAFT — era preamble.]</p>
+            </section>
+
+            <article class="chapter" id="y1971" data-anchor="y1971" data-year="1971" data-era="iii">
+                <header><span class="year">1971</span><h3>Gold standard ends</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1971"></div>
+            </article>
+
+            <article class="chapter" id="y1980" data-anchor="y1980" data-year="1980" data-era="iii">
+                <header><span class="year">1980</span><h3>Reagan</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y1980"></div>
+            </article>
+
+            <article class="chapter" id="y2001-attack" data-anchor="y2001-attack" data-year="2001" data-era="iii">
+                <header><span class="year">2001</span><h3>9/11 · the day</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the events of and around September 11, 2001 itself.]</p></div>
+                <div class="evidence" data-anchor="y2001-attack"></div>
+            </article>
+
+            <article class="chapter" id="y2001-aftermath" data-anchor="y2001-aftermath" data-year="2004" data-era="iii">
+                <header><span class="year">2004→</span><h3>9/11 · the years after</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the litigation, the leaks, the prosecutions, and the Senate's own report.]</p></div>
+                <div class="evidence" data-anchor="y2001-aftermath"></div>
+            </article>
+
+            <article class="chapter" id="y2003" data-anchor="y2003" data-year="2003" data-era="iii">
+                <header><span class="year">2003</span><h3>Iraq</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y2003"></div>
+            </article>
+
+            <article class="chapter" id="y2008" data-anchor="y2008" data-year="2008" data-era="iii">
+                <header><span class="year">2008</span><h3>GFC · bailouts up, not down</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the bust handled the opposite of New Deal.]</p></div>
+                <div class="evidence" data-anchor="y2008"></div>
+            </article>
+
+            <section class="era-divider" id="era-4">
+                <p class="filemark">// ERA IV</p>
+                <h2>Surveillance acceleration</h2>
+                <p class="placeholder">[DRAFT — era preamble: a race to wire it all in before the public gets too smart.]</p>
+            </section>
+
+            <article class="chapter" id="y2010" data-anchor="y2010" data-year="2010" data-era="iv">
+                <header><span class="year">2010</span><h3>Citizens United</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y2010"></div>
+            </article>
+
+            <article class="chapter" id="y2013" data-anchor="y2013" data-year="2013" data-era="iv">
+                <header><span class="year">2013</span><h3>Snowden</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y2013"></div>
+            </article>
+
+            <article class="chapter" id="y2017-bennington" data-anchor="y2017-bennington" data-year="2017" data-era="iv">
+                <header><span class="year">2017</span><h3>Bennington · Cornell · Avicii · Bourdain</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — four high-profile suicides in fourteen months, and the documentary that was said to connect them.]</p></div>
+                <div class="evidence" data-anchor="y2017-bennington"></div>
+            </article>
+
+            <article class="chapter" id="y2019" data-anchor="y2019" data-year="2019" data-era="iv">
+                <header><span class="year">2019</span><h3>Epstein</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — connects back to the opening.]</p></div>
+                <div class="evidence" data-anchor="y2019"></div>
+            </article>
+
+            <article class="chapter" id="y2021-surfside" data-anchor="y2021-surfside" data-year="2021" data-era="iv">
+                <header><span class="year">2021</span><h3>Surfside · Champlain Towers South</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — a 12-story condo collapse, 98 dead, and the threads the official record carries alongside it.]</p></div>
+                <div class="evidence" data-anchor="y2021-surfside"></div>
+            </article>
+
+            <article class="chapter" id="y2023" data-anchor="y2023" data-year="2023" data-era="iv">
+                <header><span class="year">2023</span><h3>Gaza · the lobby in plain view</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y2023"></div>
+            </article>
+
+            <article class="chapter" id="y2024-pagers" data-anchor="y2024-pagers" data-year="2024" data-era="iv">
+                <header><span class="year">2024</span><h3>Exploding devices · the supply-chain weapon</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — Mossad's pre-implanted pager and walkie-talkie operation against Hezbollah.]</p></div>
+                <div class="evidence" data-anchor="y2024-pagers"></div>
+            </article>
+
+            <article class="chapter" id="y2024" data-anchor="y2024" data-year="2024" data-era="iv">
+                <header><span class="year">2024</span><h3>Palantir · Thiel · the AI race</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY]</p></div>
+                <div class="evidence" data-anchor="y2024"></div>
+            </article>
+
+            <article class="chapter" id="y2025-kirk" data-anchor="y2025-kirk" data-year="2025" data-era="iv">
+                <header><span class="year">2025</span><h3>The killing of Charlie Kirk</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the assassination of a major figure, in broad daylight, before 3,000 witnesses.]</p></div>
+                <div class="evidence" data-anchor="y2025-kirk"></div>
+            </article>
+
+            <article class="chapter" id="y2025" data-anchor="y2025" data-year="2025" data-era="iv">
+                <header><span class="year">2025</span><h3>Where we are</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — present day, the open question.]</p></div>
+                <div class="evidence" data-anchor="y2025"></div>
+            </article>
+
+            <section class="era-divider" id="era-5">
+                <p class="filemark">// ERA V</p>
+                <h2>The age of receipts</h2>
+                <p class="placeholder">[DRAFT — era preamble: the systems were built in Eras I–IV. Era V is where the people running them are formally named in the record.]</p>
+            </section>
+
+            <article class="chapter" id="y2021-anthropic" data-anchor="y2021-anthropic" data-year="2021" data-era="v">
+                <header><span class="year">2021</span><h3>Anthropic · the Amodei split</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the safety researchers who left OpenAI to start something that, in their words, prioritized trust in the people building the system.]</p></div>
+                <div class="evidence" data-anchor="y2021-anthropic"></div>
+            </article>
+
+            <article class="chapter" id="y2023-altman-firing" data-anchor="y2023-altman-firing" data-year="2023" data-era="v">
+                <header><span class="year">2023</span><h3>Altman, fired and returned</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the five-day OpenAI board crisis of November 2023, and the language the board used about candor.]</p></div>
+                <div class="evidence" data-anchor="y2023-altman-firing"></div>
+            </article>
+
+            <article class="chapter" id="y2026-altman" data-anchor="y2026-altman" data-year="2026" data-era="v">
+                <header><span class="year">2026</span><h3>Sam Altman in the New Yorker</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — Ronan Farrow and Andrew Marantz's 18-month investigation, and what the people on record have to say about the man building the system.]</p></div>
+                <div class="evidence" data-anchor="y2026-altman"></div>
+            </article>
+
+            <article class="chapter" id="y2026-ai-bubble" data-anchor="y2026-ai-bubble" data-year="2026" data-era="v">
+                <header><span class="year">2026</span><h3>The AI infrastructure bet</h3></header>
+                <div class="chapter-body"><p class="placeholder">[DRAFT BODY — the financial architecture of the AI capex wave, and what people who called 2008 are saying about 2029.]</p></div>
+                <div class="evidence" data-anchor="y2026-ai-bubble"></div>
+            </article>
+
+            <footer class="dossier-footer">
+                <p class="filemark">// END OF FILE</p>
+                <p class="footer-note">No conclusions are drawn for you. The evidence speaks. Sources are listed on every claim.</p>
+            </footer>
+        </main>
+    </div>
+
+    <script src="evidence.js" defer></script>
+    <script src="dag.js" defer></script>
+    <script src="narrative.js" defer></script>
+    <script src="themes.js" defer></script>
+    <script src="timeline.js" defer></script>
+</body>
+</html>

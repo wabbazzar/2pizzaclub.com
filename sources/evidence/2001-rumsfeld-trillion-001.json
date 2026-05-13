@@ -1,0 +1,46 @@
+{
+    "id": "2001-rumsfeld-trillion-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "pentagon",
+        "dod",
+        "rumsfeld",
+        "audit",
+        "9-11"
+    ],
+    "claim": "On September 10, 2001 — one day before the September 11 attacks — Defense Secretary Donald Rumsfeld held a press conference at the Pentagon describing the department's accounting systems and the volume of transactions the department could not track. In his remarks he stated that, by some estimates, the Pentagon could not track $2.3 trillion in transactions. The American Airlines Flight 77 strike on the Pentagon the next morning destroyed sections housing budget-and-accounting personnel, killing several civilian DOD financial-management staff.",
+    "sources": [
+        {
+            "label": "C-SPAN — “User Clip: Secretary of Defense Rumsfeld - 2.3 Trillion Missing” (full speech excerpt)",
+            "type": "primary",
+            "url": "https://www.c-span.org/clip/news-conference/user-clip-secretary-of-defense-rumsfeld-23-trillion-missing/4905968"
+        },
+        {
+            "label": "C-SPAN — “User Clip: Donald Rumsfeld 9/10 FULL Context”",
+            "type": "primary",
+            "url": "https://www.c-span.org/clip/news-conference/user-clip-donald-rumsfeld-9-10-full-context/4976593"
+        },
+        {
+            "label": "RealClearInvestigations — “Throwback Thursday: Sept. 10, 2001 And The Pentagon's Forgotten $2.3 Trillion” (Jan 25, 2024)",
+            "type": "secondary",
+            "url": "https://www.realclearinvestigations.com/articles/2024/01/25/waste_of_the_day_throwback_thursday_sept_10_2001_and_the_pentagons_forgotten_23_trillion_1005560.html",
+            "quote": "an unaccounted for $2.3 trillion",
+            "clip": "clips/2001-rumsfeld-trillion-001-02.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Sanders-Grassley “Audit the Pentagon Act” fact sheet — references the same $2.3T figure as part of decades of unaudited DOD finances",
+            "type": "primary",
+            "url": "https://www.sanders.senate.gov/wp-content/uploads/Audit-the-Pentagon-FACT-SHEET.pdf"
+        },
+        {
+            "label": "news to trust, Instagram reel DYHf6vexwiv (May 9, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYHf6vexwiv/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Rumsfeld's framing was that the figure was untracked, not missing. The destruction of Pentagon offices on September 11 included sections housing financial-management personnel; the strike's effect on the audit's continuation has been the subject of decades of subsequent reporting. The reel raises the timing as suspicious; this record captures the documented sequence."
+}

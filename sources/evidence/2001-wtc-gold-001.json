@@ -1,0 +1,39 @@
+{
+    "id": "2001-wtc-gold-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "wtc",
+        "finance"
+    ],
+    "claim": "Approximately $230 million in precious metals \u2014 including 379,036 ounces of gold and ~29.94 million ounces of silver belonging to Scotia Mocatta (the bullion division of Bank of Nova Scotia) \u2014 was stored in a two-story vault beneath WTC 4. Beginning October 30, 2001, recovery crews extracted the bullion via a delivery tunnel running beneath WTC 5, removing a ten-wheel truck and crushed vehicles to reach the vault. The metals were transferred to a Brooklyn Naval Yard vault. The COMEX metals trading division of NYMEX held additional vaults at the WTC complex containing 3,800 gold bars (~12 tons, $100M+), an additional ~800,000 ounces of gold held for others (~$220M), and 102+ million ounces of silver (~$430M).",
+    "sources": [
+        {
+            "label": "CNN \u2014 \u201cPrecious metals buried under debris\u201d (Sep 22, 2001)",
+            "type": "primary",
+            "url": "https://edition.cnn.com/2001/US/09/22/rec.buried.treasure/index.html",
+            "quote": "Tons of gold and silver had been stored in underground vaults beneath 4 World Trade Center",
+            "clip": "clips/2001-wtc-gold-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "The Globe and Mail \u2014 \u201cGold, silver recovered at attack site\u201d",
+            "type": "primary",
+            "url": "https://www.theglobeandmail.com/report-on-business/gold-silver-recovered-at-attack-site/article4155643/"
+        },
+        {
+            "label": "Billings Gazette \u2014 \u201cGold recovered from WTC site\u201d",
+            "type": "secondary",
+            "url": "https://billingsgazette.com/news/world/gold-recovered-from-wtc-site/article_435f7fb1-216b-50d4-9c78-8359c62f9236.html"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Bullion recovery is well-documented across contemporaneous business press. CNN article is the closest contemporaneous primary news source. The reel's framing of 'truckloads of gold' as criminal proceeds is fictional within the narrative; the recovery operation as a real event is documented. URLs not yet directly fetched in this pass."
+}

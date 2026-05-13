@@ -1,0 +1,38 @@
+{
+    "id": "2018-bourdain-001",
+    "anchor": "y2017-bennington",
+    "year": 2018,
+    "era": "iv",
+    "themes": [
+        "bourdain",
+        "celebrity-death",
+        "suicide-ruling"
+    ],
+    "claim": "Anthony Bourdain, chef and host of CNN's Parts Unknown, was found dead on June 8, 2018, age 61, in his room at Le Chambard hotel in Kaysersberg, France, where he was on location filming. He was discovered by his close friend, chef Éric Ripert, after missing dinner and breakfast. French authorities ruled the death a suicide by hanging. The French toxicology report showed no traces of narcotics in his system.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Anthony Bourdain”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Anthony_Bourdain",
+            "quote": "found dead of suicide by hanging in his room at Le Chambard hotel",
+            "clip_status": "quote-not-found"
+        },
+        {
+            "label": "CBS News — “Anthony Bourdain, celebrity chef and CNN 'Parts Unknown' host, dead from suicide at age 61”",
+            "type": "primary",
+            "url": "https://www.cbsnews.com/news/anthony-bourdain-celebrity-chef-dead-at-61-suicide/"
+        },
+        {
+            "label": "Fortune — “Anthony Bourdain's Toxicology Report Shows No Narcotics in His System”",
+            "type": "secondary",
+            "url": "https://fortune.com/2018/06/25/anthony-bourdain-toxicology-report/"
+        },
+        {
+            "label": "tafsir_7, Instagram reel DWyiPW5jM0b (Apr 6, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWyiPW5jM0b/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Bourdain's death was the last of four high-profile suicides cited by the reel (Cornell May 2017, Bennington July 2017, Avicii April 2018, Bourdain June 2018). Each was individually ruled a suicide; the reel's chain-of-events framing is the editorial proposition rather than an official finding."
+}

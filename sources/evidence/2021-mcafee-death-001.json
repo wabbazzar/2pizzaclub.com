@@ -1,0 +1,45 @@
+{
+    "id": "2021-mcafee-death-001",
+    "anchor": "y2021-surfside",
+    "year": 2021,
+    "era": "iv",
+    "themes": [
+        "mcafee",
+        "death-in-custody",
+        "extradition",
+        "contested"
+    ],
+    "claim": "On June 23, 2021 — one day before the Champlain Towers South collapse in Florida — software pioneer John McAfee, 75, was found dead in his cell at the Brians 2 prison near Barcelona, Spain, hours after the Spanish National Court approved his extradition to the United States on federal tax-evasion charges. Barcelona's court later ruled the death a suicide by hanging following a full investigation that included prison footage and an autopsy. McAfee's widow Janice publicly disputed the suicide ruling; McAfee himself had posted, in a 2019 tweet, the statement “If I suicide myself, I didn't. I was whackd.”",
+    "sources": [
+        {
+            "label": "Wikipedia — “John McAfee”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/John_McAfee",
+            "quote": "On 23 June 2021, McAfee was found dead in his prison cell, hours after the Spanish National Court ordered his extradition to the United States on criminal charges.",
+            "clip": "clips/2021-mcafee-death-001-00.png",
+            "clip_status": "ok-head60"
+        },
+        {
+            "label": "NPR — “John McAfee, Software Pioneer, Found Dead In A Spanish Prison Cell” (Jun 23, 2021)",
+            "type": "primary",
+            "url": "https://www.npr.org/2021/06/23/1009579599/john-mcafee-software-pioneer-found-dead-in-a-spanish-prison-cell"
+        },
+        {
+            "label": "CNBC — “John McAfee dead of apparent suicide in Spanish jail after court approves his extradition to U.S. on tax charges” (Jun 23, 2021)",
+            "type": "primary",
+            "url": "https://www.cnbc.com/2021/06/23/john-mcafee-found-dead-after-spanish-court-oks-extradition-for-tax-crimes-.html"
+        },
+        {
+            "label": "Anadolu Agency — “Barcelona court rules John McAfee's death in prison was suicide”",
+            "type": "secondary",
+            "url": "https://www.aa.com.tr/en/europe/barcelona-court-rules-john-mcafee-s-death-in-prison-was-suicide/3004058"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DRoJ9FFiSUv (Nov 28, 2025) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DRoJ9FFiSUv/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Anchor y2021-surfside. McAfee's death was the day before the Surfside collapse, not the same day as the reel narration suggests. The reel further claims McAfee had information or property stored at the building that collapsed; no primary reporting documents a connection between McAfee and any Champlain Towers South unit, and no record is filed for that claim here."
+}

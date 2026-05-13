@@ -1,0 +1,40 @@
+{
+    "id": "2008-jennings-death-001",
+    "anchor": "y2001-aftermath",
+    "year": 2008,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "wtc7",
+        "witness-testimony",
+        "anomaly"
+    ],
+    "claim": "Barry Jennings died on August 19, 2008, at age 53. The only formal notification was a one-line announcement at his workplace; no public cause of death, autopsy, or death certificate has been released. Two days later, on August 21, 2008, NIST released its final report on the collapse of 7 World Trade Center (NCSTAR 1A), which did not include Jennings's lobby-explosion testimony among the witness accounts it cited.",
+    "sources": [
+        {
+            "label": "BanderasNews \u2014 \u201cKey Witness to WTC 7 Explosions Dead at 53\u201d",
+            "type": "secondary",
+            "url": "https://banderasnews.com/0809/edat-barryjennings.htm",
+            "quote": "Barry Jennings, a key 9/11 eyewitness who was an emergency coordinator for the New York Housing Authority, has passed away at age 53 from circumstances not yet disclosed.",
+            "clip": "clips/2008-jennings-death-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "NIST NCSTAR 1A \u2014 \u201cFinal Report on the Collapse of World Trade Center Building 7\u201d (Aug 21, 2008)",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "The Corbett Report \u2014 \u201c9/11 Whistleblowers: Barry Jennings\u201d",
+            "type": "secondary",
+            "url": "https://corbettreport.com/9-11-whistleblowers-barry-jennings/"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Documented: date of death (Aug 19 2008), absence of public death record, proximity (2 days) to NIST WTC 7 final report release. The reel narrates Jennings's death as a murder by 'heart attack pellet' \u2014 this is fictional within the artist's confessional frame, not in any documented record. The record here documents what IS public: the timing coincidence and the absence of a death certificate. NIST report URL pending (nist.gov canonical)."
+}

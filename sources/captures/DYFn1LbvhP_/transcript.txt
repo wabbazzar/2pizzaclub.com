@@ -1,0 +1,55 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+
+— FULL TEXT —
+
+Spadario Amade and his sister Daniela, who both worked on safety at the company, and
+accused them of plotting a coup.
+Altman told them that he had this on good authority from a senior executive, so Daniela
+brought in the executive, who denied having said anything of the sort.
+Then Altman insisted to all of them, he'd never made the accusation in the first place.
+Daniela lost it, and replied, quote, you just said that.
+Later, Altman apologized to the executive, saying he'd just wanted Daniela to stop yelling
+and said the first name that came to mind.
+Altman says he accused them only of political activity, and the rest isn't quite how he
+remembers it.
+This is just one small example of a pattern of alleged deceptions documented in our new
+investigation, which you can read in the New Yorker.
+Some senior executives at Microsoft, one of OpenAI's major partners, said, as one put
+it, that Altman has, quote, misrepresented, distorted, renegotiated, reneged on agreements.
+One recent example, an OpenAI deal with Amazon that Microsoft executives say may conflict
+with an exclusivity agreement.
+That senior exec added, quote, I think there's a small but real chance he's eventually remembered
+as a Bernie Madoff or a Sam Bankman-free level scammer.
+Some government officials told us they came to distrust Altman.
+In one meeting, he told intelligence officials China had launched an AGI Manhattan Project,
+and that the government had to give OpenAI billions to compete.
+Pressed for evidence, he said, I've heard things.
+He promised to follow up, and never did.
+An official concluded, quote, it was just being used as a sales pitch.
+Altman says he doesn't recall describing Beijing's efforts exactly that way.
+It turns out these complaints go way back.
+At looped his first startup, he told colleagues he was a champion ping pong player, according
+to one of them.
+Before turning out to be one of the worst players in the office, Altman says he was
+probably joking.
+At Y Combinator, a startup incubator that Altman ran after that, colleagues remembered
+YC's founder saying, quote, Sam had been lying to us all the time.
+One fellow Y Combinator founder, a programmer named Aaron Schwartz, not long before his
+suicide in 2013, had told a friend, quote, Sam can never be trusted.
+He is a sociopath.
+He would do anything.
+At OpenAI, in late 2022, Altman assured the board that features of a model had been approved
+by a safety panel.
+Board member Helen Toner requested documentation, and found the most controversial ones had
+not been approved.
+The next year, he told OpenAI's CTO Mira Marathi that a subsequent version of chat
+GPT didn't need a safety review according to the company's general counsel.
+When she checked, the general counsel said, quote, of confused where Sam got that impression.
+The board fired Altman.
+When they pressed him to admit that there was a pattern of deception, he replied, according
+to people on the call, quote, I can't change my personality.
+Read much more in my full investigation.
+
+— END —

@@ -1,0 +1,61 @@
+{
+    "id": "2025-aes-dod-contracts-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "aes",
+        "dod",
+        "procurement",
+        "munitions",
+        "federal-contracts"
+    ],
+    "claim": "Accurate Energetic Systems, LLC (UEI listed at USAspending.gov as f5b71b54-b894-7a5e-093e-870cd50dbe9e) is an established federal-contract recipient with a documented history of Department of Defense munitions awards. Public USAspending and HigherGov records include an Indefinite Delivery Contract (W52P1J19D0028) awarded March 6, 2019 for TNT and PBXN-9 supplementary charges; an Indefinite Delivery Contract (W52P1J22D0034) awarded July 28, 2022 for M18A1 and M68 mines; a Navy contract referenced as N00164-25-P-J538 in USAspending; and, per executive-industry press, a roughly $120 million TNT supply award reported in September 2025. The specific $440,000 'micro-explosive' purchase order in early 2025 cited by the Fight Back Podcast does not appear as a discrete line item in publicly accessible USAspending search results to date.",
+    "sources": [
+        {
+            "label": "USAspending.gov — Accurate Energetic Systems, LLC recipient profile",
+            "type": "primary",
+            "url": "https://www.usaspending.gov/recipient/f5b71b54-b894-7a5e-093e-870cd50dbe9e-C/latest"
+        },
+        {
+            "label": "USAspending.gov — contract award CONT_AWD_N0016425PJ538_9700 (Navy, FY2025)",
+            "type": "primary",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425PJ538_9700_-NONE-_-NONE-"
+        },
+        {
+            "label": "HigherGov — Indefinite Delivery Contract W52P1J19D0028 (TNT and PBXN-9 supplementary charges, awarded March 6, 2019)",
+            "type": "primary",
+            "url": "https://www.highergov.com/idv/W52P1J19D0028/"
+        },
+        {
+            "label": "HigherGov — Indefinite Delivery Contract W52P1J22D0034 (M18A1 and M68 Mines, awarded July 28, 2022)",
+            "type": "primary",
+            "url": "https://www.highergov.com/idv/W52P1J22D0034/"
+        },
+        {
+            "label": "ExecutiveBiz — “Accurate Energetic Systems, Spectra Win Army Explosive Product Supply Contract”",
+            "type": "secondary",
+            "url": "https://www.executivebiz.com/articles/accurate-energetic-systems-spectra-win-army-explosive-product-supply-contract"
+        },
+        {
+            "label": "U.S. Department of Defense — Contracts daily release (Aug 18, 2025) and subsequent contract announcements referencing the September 23, 2025 $119.6 million TNT supply award to AES by the U.S. Army Corps of Engineers (single bid received)",
+            "type": "primary",
+            "url": "https://www.war.gov/News/Contracts/Contract/Article/4277745/"
+        },
+        {
+            "label": "Fed-Spend — “Accurate Energetic Systems: How a Woman-Owned Small Business Won $270M+ in Federal Munitions Contracts”",
+            "type": "secondary",
+            "url": "https://fed-spend.com/blog/accurate-energetic-systems-federal-contracts-deep-dive",
+            "quote": "Accurate Energetic Systems",
+            "clip": "clips/2025-aes-dod-contracts-001-05.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DYFxN0RwBGk (May 8, 2026) — surfacing source for the specific $440,000 micro-explosive purchase-order claim",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYFxN0RwBGk/"
+        }
+    ],
+    "status": "partially-verified-contested",
+    "notes": "AES's status as a documented DOD munitions contractor is verified. The USAspending.gov recipient profile, read on May 13, 2026, shows: trailing-12-month total awarded amount of $13.6 million across 17 transactions; 99.84 percent from the Department of Defense ($13.56 million, with $13.40 million from the Army and $156,721 from the Navy), 0.16 percent from the Department of Justice ($22,144 from the Bureau of Alcohol, Tobacco, Firearms and Explosives Acquisition and Property Management Division); company headquartered at 5891 Highway 230 W, McEwen, TN 37101 in Congressional District TN-07; UEI JKNXCZNPF1M8 / legacy DUNS 964465165. NAICS distribution: 98.68 percent Ammunition Manufacturing (332993) and 1.32 percent Explosives Manufacturing (325920 — $178,865 total). The Fight Back Podcast's specific $440,000 'micro-explosive' purchase-order claim does not appear as a discrete line item in the trailing-12-month recipient-profile view. A specific $440,000 (or $425,000) purchase order, if it exists, would normally be visible in the full award-history list (beyond the Top 5 summary), in the SAM.gov contract-data search that succeeded FPDS in February 2026, or under the parent-recipient profile that this child-recipient page is filed beneath. None of these surfaced the line item in this verification pass."
+}

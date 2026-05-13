@@ -1,0 +1,42 @@
+{
+    "id": "2026-priestley-2029-prediction-001",
+    "anchor": "y2026-ai-bubble",
+    "year": 2026,
+    "era": "v",
+    "themes": [
+        "ai-bubble",
+        "data-centers",
+        "infrastructure-capex",
+        "priestley",
+        "diary-of-a-ceo",
+        "2029-prediction"
+    ],
+    "claim": "Entrepreneur and business strategist Daniel Priestley, in a March 2026 appearance on The Diary of a CEO with Steven Bartlett, predicted a major financial meltdown in 2029 driven by AI data-center capital expenditure. Priestley argued: that historically, when infrastructure spending exceeds 3 percent of GDP it has been followed by a roughly decade-long bust (citing UK and US railway booms, electrification, and highway buildouts); that current AI infrastructure spending is running at approximately $650 billion per year globally; that data-center hardware — GPUs and compute stacks — has a useful life of 3–4 years, versus 100 years for railroads, 50+ for highways, and 30 for fiber-optic networks; and that the user-side monetization gap, in which a small minority of AI users pay for premium services, makes the current capex trajectory financially unsustainable. He explicitly framed 2029 as the centennial of the Great Depression.",
+    "sources": [
+        {
+            "label": "The Diary of a CEO with Steven Bartlett — “Daniel Priestley: Plumbers Will Earn More Than Lawyers! I Predicted 2008, Now I'm Warning About 2029” (Mar 2026)",
+            "type": "primary",
+            "url": "https://www.iheart.com/podcast/270-the-diary-of-a-ceo-with-st-59414390/episode/daniel-priestley-plumbers-will-earn-more-326989835/"
+        },
+        {
+            "label": "SingjuPost — full transcript of the Priestley episode",
+            "type": "primary",
+            "url": "https://singjupost.com/diary-of-a-ceo-w-daniel-priestley-on-ais-seismic-shifts-transcript/",
+            "quote": "the financial model just makes no sense whatsoever at the moment",
+            "clip": "clips/2026-priestley-2029-prediction-001-01.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Shortform — episode summary",
+            "type": "secondary",
+            "url": "https://www.shortform.com/podcast/episode/the-diary-of-a-ceo-with-steven-bartlett-2026-03-16-episode-summary-daniel-priestley-plumbers-will-earn-more-than-lawyers-i-predicted-2008-now-i-m-warning-about-2029"
+        },
+        {
+            "label": "Future AI / @future.is.ai, Instagram reel DWxV_gPD_DH (Apr 5, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWxV_gPD_DH/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Priestley publicly stated he had also predicted the 2008 crash; that prior call is part of the episode's promotional framing. The historical pattern (infrastructure capex above 3 percent of GDP followed by a downturn) is the speaker's analytical claim, supported by his named examples rather than by a quantitative academic citation."
+}

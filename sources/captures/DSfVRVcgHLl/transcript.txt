@@ -1,0 +1,32 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-13, openai-whisper base.en
+
+— FULL TEXT —
+
+very specific outcome that is looking increasingly
+unrealistic.
+This is what I think is really annoying.
+This blew my mind.
+This is from Morningstar.
+The S&P global ratings assigned these bonds.
+So the loans that these private equity companies
+are taking out to fund these data centers,
+they assigned the bonds of investment grade rating of A+.
+However, the debt yield is 6.58%.
+OK.
+That rate is typically associated with junk bonds.
+So they're saying it's A+.
+But what are their actions showing?
+What does this remind you of?
+Like this is the plot of a movie and a book
+and something that actually happened.
+I wrote.
+It's giving subprime mortgages.
+Yeah.
+I know when I was reading this, I was like, God, this is,
+I feel like I'm reading about the subprime mortgage crisis
+in a book about the subprime mortgage crisis.
+But it's happening right in front of me.
+
+— END —

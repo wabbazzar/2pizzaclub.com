@@ -1,0 +1,31 @@
+{
+    "id": "2001-able-danger-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "able-danger",
+        "9-11",
+        "military-intelligence",
+        "atta",
+        "pre-attack-intel"
+    ],
+    "claim": "Able Danger was a classified U.S. military intelligence-data-mining program run by U.S. Special Operations Command from approximately 1999 to 2001. Lt. Col. Anthony Shaffer and Navy Captain Scott Phillpott publicly stated that the program had identified Mohamed Atta and three other future 9/11 hijackers as a possible al-Qaeda cell on U.S. soil before the September 11 attacks. The 9/11 Commission did not include this identification in its final report; subsequent Senate hearings and a DOD Inspector General review reached mixed conclusions, with disputed access to underlying records.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Able Danger”",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Able_Danger",
+            "quote": "Able Danger was a classified military intelligence program",
+            "clip": "clips/2001-able-danger-001-00.png",
+            "clip_status": "ok-cross-node30"
+        },
+        {
+            "label": "news to trust, Instagram reel DYHf6vexwiv (May 9, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DYHf6vexwiv/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "Wikipedia URL not yet directly fetched for verbatim. The reel cites Able Danger as one of the elements omitted from the 9/11 Commission Report; this record captures the disputed-but-documented existence of the program and the public testimony of its officers. The DOD IG review's findings and the Senate hearing transcripts are the primary records that should be linked in a verification pass."
+}

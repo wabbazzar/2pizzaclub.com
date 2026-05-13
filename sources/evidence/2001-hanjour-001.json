@@ -1,0 +1,45 @@
+{
+    "id": "2001-hanjour-001",
+    "anchor": "y2001-attack",
+    "year": 2001,
+    "era": "iii",
+    "themes": [
+        "9-11",
+        "hijackers",
+        "faa",
+        "anomaly"
+    ],
+    "claim": "Multiple flight instructors who worked with Hani Hanjour \u2014 the alleged pilot of American Airlines Flight 77 (which struck the Pentagon) \u2014 publicly stated that his piloting and English skills were 'well below standard.' The 9/11 Commission Report notes Hanjour was repeatedly advised to discontinue training. In February 2001, an Arizona flight school alerted the Federal Aviation Administration that Hanjour's skills did not match the commercial pilot certificate he already held. In August 2001, instructors at Freeway Airport in Maryland refused to rent him a Cessna after three test flights.",
+    "sources": [
+        {
+            "label": "9/11 Commission, \u201cFinal Report of the National Commission on Terrorist Attacks Upon the United States\u201d (2004) \u2014 Hanjour passages, esp. pp. 225\u2013226 and notes",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "New York Times \u2014 Jim Yardley, \u201cA Trainee Noted for Incompetence\u201d (May 4, 2002)",
+            "type": "primary",
+            "url": null
+        },
+        {
+            "label": "ABC News \u2014 \u201cFAA Received Alert About 9/11 Hijacker\u201d",
+            "type": "secondary",
+            "url": "https://abcnews.com/US/story?id=91659&page=1",
+            "quote": "I couldn't believe he had a commercial license of any kind with the skills that he had",
+            "clip": "clips/2001-hanjour-001-02.png",
+            "clip_status": "ok-head30"
+        },
+        {
+            "label": "Newsweek \u2014 \u201c9/11 Pilot Hani Hanjour Took Extra Flights to Check Out D.C. Airspace\u201d",
+            "type": "secondary",
+            "url": "https://www.newsweek.com/9-11-pilot-hani-hanjour-took-extra-flights-check-out-dc-airspace-1616398"
+        },
+        {
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
+        }
+    ],
+    "status": "primary-link-pending",
+    "notes": "The flight-instructor concerns are documented in the 9/11 Commission Report and contemporaneous NYT coverage. URLs for the 9/11 Commission Report and the NYT piece are stable but not yet fetched and verbatim-confirmed in this pass. The reel uses this fact (instructor concerns about Hanjour's piloting) to advance the 'remote-controlled planes' conspiracy frame; the underlying instructor reports are documented, but they do not corroborate the remote-control claim."
+}

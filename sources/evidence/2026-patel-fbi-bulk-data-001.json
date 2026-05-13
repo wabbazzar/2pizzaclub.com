@@ -1,0 +1,52 @@
+{
+    "id": "2026-patel-fbi-bulk-data-001",
+    "anchor": "y2024",
+    "year": 2026,
+    "era": "iv",
+    "themes": [
+        "fbi",
+        "patel",
+        "surveillance",
+        "data-brokers",
+        "fourth-amendment",
+        "senate-intelligence"
+    ],
+    "claim": "On March 18, 2026, during a Senate Intelligence Committee Worldwide Threats hearing, FBI Director Kash Patel testified under oath that the Bureau purchases commercially available data — including data on U.S. persons — from private data brokers. Asked by Senator Ron Wyden whether the FBI would commit to ceasing such purchases of Americans' location data, Patel declined to commit and stated: 'We do purchase commercially available information that's consistent with the Constitution and the laws under the Electronic Communications Privacy Act.' The testimony confirmed an FBI practice that Patel's predecessor Christopher Wray had previously sought to obscure and that civil-liberties advocates have characterized as the 'data broker loophole' — the use of commercial purchases to obtain data the government would otherwise need a warrant to acquire.",
+    "sources": [
+        {
+            "label": "Gizmodo — “Kash Patel Admits the FBI is Buying Private Data on Americans”",
+            "type": "secondary",
+            "url": "https://gizmodo.com/kash-patel-admits-the-fbi-is-buying-private-data-on-americans-2000735317",
+            "quote": "Kash Patel Admits the FBI is Buying Private Data on Americans",
+            "clip": "clips/2026-patel-fbi-bulk-data-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "The New Republic — “Kash Patel Brags That the FBI Is Buying Your Location Data”",
+            "type": "secondary",
+            "url": "https://newrepublic.com/post/207944/kash-patel-fbi-buying-location-data"
+        },
+        {
+            "label": "FedScoop — “Privacy advocates sound alarm on 'data broker loophole' used by FBI, other federal agencies”",
+            "type": "secondary",
+            "url": "https://fedscoop.com/fbi-data-broker-loophole-purchase-dhs/"
+        },
+        {
+            "label": "Lawfare — “Senate Intelligence Committee Holds 2026 Worldwide Threats Hearing”",
+            "type": "primary",
+            "url": "https://www.lawfaremedia.org/article/lawfare-no-bull--senate-intelligence-committee-holds-2026-worldwide-threats-hearing"
+        },
+        {
+            "label": "PBS NewsHour — “Gabbard, Ratcliffe and Patel testify on worldwide threats in Senate Intelligence hearing”",
+            "type": "primary",
+            "url": "https://www.pbs.org/newshour/politics/watch-live-gabbard-ratcliffe-and-patel-testify-on-worldwide-threats-in-senate-intelligence-hearing"
+        },
+        {
+            "label": "Channel 5 / @channel5, Instagram reel DWpGtickpb3 (Apr 2, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DWpGtickpb3/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 'data broker loophole' has been the subject of bipartisan congressional concern for several years prior. Patel's March 18, 2026 admission is significant because it is the first time an FBI Director has publicly confirmed the practice on the record, under oath, in a Senate hearing setting. The Senate Intelligence Committee Worldwide Threats hearing is the primary source for the testimony itself; the press cited here documents the exchange with Senator Wyden and the policy context."
+}

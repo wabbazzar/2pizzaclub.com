@@ -1,0 +1,31 @@
+{
+    "id": "DVb9cgWEt8D",
+    "url": "https://www.instagram.com/reel/DVb9cgWEt8D/",
+    "platform": "instagram",
+    "captured_at": "2026-05-13",
+    "handle": "@5149jamesli",
+    "author_display_name": "James Li",
+    "posted_at": "2026-03-03",
+    "engagement": {
+        "likes": 112000,
+        "comments": 3722
+    },
+    "caption": "Spittin’ FACTS!! @theovon 🔥🔥🔥",
+    "hashtags": [],
+    "audio_track_actual": "James Li (host) and Theo Von in conversation, with Von speaking his own views on the U.S.–Israel relationship.",
+    "video_overlay_text_observed": "Podcast-style two-shot of the host and guest; on-screen text quoting a published criticism of James Li and a counter-quote framing the U.S.–Israel funding relationship.",
+    "audio_content_summary": "Von, on Li's podcast, states he believes the U.S. is 'owned by Israel' and frames U.S. foreign-aid transfers to Israel as a sovereign relationship rather than aid. He invokes documented domestic constraints — wage stagnation in healthcare, struggling public schools, food-supply quality concerns, and the widely-reported finding that roughly 70 percent of young Americans are ineligible for military service — to argue that U.S. discretionary spending on Israel reflects a misaligned priority. The underlying numerical record on U.S. aid to Israel — a $3.8 billion-per-year Memorandum of Understanding through 2028, plus the April 2024 supplementals and January 2025 munitions notifications — is published by the Congressional Research Service.",
+    "implied_frame": "The reel pairs Von's interpretive framing ('owned by Israel') with the implicit reader assumption that the underlying aid commitments are large and consequential. The aid figures themselves are public, audited, and uncontested; the political-relationship characterization is the contested interpretive claim.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~18 MB, vp9 720x1280, 95s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2026-theovon-israel-001",
+        "2024-us-israel-aid-001"
+    ],
+    "supporting_research_links": [
+        "https://www.congress.gov/crs-product/RL33222",
+        "https://www.cfr.org/articles/us-aid-israel-four-charts",
+        "https://www.timesofisrael.com/meet-theo-von-the-popular-podcaster-who-asked-jd-vance-about-israels-genocide-in-gaza/"
+    ]
+}

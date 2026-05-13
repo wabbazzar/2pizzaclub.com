@@ -1,0 +1,47 @@
+{
+    "id": "2011-corcoran-epstein-property-001",
+    "anchor": "y2019",
+    "year": 2011,
+    "era": "iv",
+    "themes": [
+        "epstein",
+        "corcoran",
+        "real-estate",
+        "rothschild",
+        "nda",
+        "manhattan"
+    ],
+    "claim": "The Corcoran Group, a major New York City luxury real-estate brokerage, appears in document sets connected to the Jeffrey Epstein case in two ways. Pamela Liebman has served as President and CEO of Corcoran since 2000 and is reported in the Epstein document releases to have been involved with a Non-Disclosure Agreement related to the sale of Epstein's Manhattan townhouse property in 2011 (Epstein's longtime residence at 9 East 71st Street, also referred to as the 91st-Street-area property in popular accounts). Separately, financier and society figure Lynn Forester, Lady de Rothschild — listed in some Epstein-file metadata in association with Corcoran — was a documented friend of Epstein in the 1990s; a spokesperson for Rothschild has publicly denied claims that Epstein provided her financial help.",
+    "sources": [
+        {
+            "label": "The Corcoran Group — Management Team page (Pamela Liebman, President & CEO since 2000)",
+            "type": "primary",
+            "url": "https://www.corcoran.com/about-us/management-team",
+            "quote": "Pamela Liebman",
+            "clip": "clips/2011-corcoran-epstein-property-001-00.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "Wikipedia — “Lynn Forester de Rothschild” (documents her acknowledged friendship with Epstein and the financial-help denial)",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Lynn_Forester_de_Rothschild"
+        },
+        {
+            "label": "Pamela Liebman LinkedIn profile (institutional confirmation of tenure at Corcoran)",
+            "type": "primary",
+            "url": "https://www.linkedin.com/in/pamelaliebman"
+        },
+        {
+            "label": "Threads / @not.an.official.news.source — surfacing post citing Epstein-file dataset references EFTA01654681 (Rothschild/Corcoran), EFTA00627557 and EFTA00708360 (Liebman/Corcoran NDA)",
+            "type": "secondary",
+            "url": "https://www.threads.com/@not.an.official.news.source/post/DUhIfeiDyrc/video-i-found-something-weird-try-to-get-this-to-realcandaceowens-data-set-efta-lynn"
+        },
+        {
+            "label": "@bubba.bosco, Instagram reel DUrQRjDDUFA (Feb 12, 2026) — surfacing source",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DUrQRjDDUFA/"
+        }
+    ],
+    "status": "partially-verified-contested",
+    "notes": "Verified anchors: Pamela Liebman as longtime Corcoran President/CEO; Lynn Forester de Rothschild's documented friendship with Epstein. The specific NDA documents referenced by Epstein-file dataset IDs (EFTA00627557 and EFTA00708360) are surfaced through alt-media accounts citing the unsealed document releases; the underlying documents themselves would be located in the released production. The reel and the Threads post draw the further inference that Corcoran was, in effect, a conduit institution for handling Epstein's real-estate affairs; that broader institutional-conduit characterization is the editorial proposition rather than an independently corroborated finding."
+}

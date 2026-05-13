@@ -1,0 +1,39 @@
+{
+    "id": "2025-maher-audio-forensics-001",
+    "anchor": "y2025-kirk",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "kirk",
+        "audio-forensics",
+        "academic"
+    ],
+    "claim": "Robert C. Maher, Professor of Electrical and Computer Engineering at Montana State University and an audio-forensics expert who has testified about gunshot evidence in U.S. courts, analyzed the publicly available audio captured near the podium at Utah Valley University on September 10, 2025. Maher concluded that the audio is consistent with a single supersonic-rifle gunshot.",
+    "sources": [
+        {
+            "label": "Robert Maher (Montana State University) — “Charlie Kirk killed by single supersonic bullet, audio…” (CNN report, hosted on Maher's MSU page)",
+            "type": "primary",
+            "url": "https://www.montana.edu/rmaher/documents/2025_09_11_CNN.pdf"
+        },
+        {
+            "label": "Montana State University — Research Interests, Robert Maher, Ph.D.",
+            "type": "primary",
+            "url": "https://www.montana.edu/rmaher/research.html"
+        },
+        {
+            "label": "Criminal Legal News — “Foundations of Firearms Audio Forensics Built by Dr. Robert Maher Will Continue to Be Important Forensic Tool” (Jul 15, 2024)",
+            "type": "secondary",
+            "url": "https://www.criminallegalnews.org/news/2024/jul/15/foundations-firearms-audio-forensics-built-dr-robert-maher-will-continue-be-important-forensic-tool-more-recording-devices-are-present-crime-scenes/",
+            "quote": "Dr. Robert Maher, electric and computer engineer who has researched and studied gunshot acoustics at the University of Montana",
+            "clip": "clips/2025-maher-audio-forensics-001-02.png",
+            "clip_status": "ok-exact"
+        },
+        {
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source (counter-evidence to the exploding-mic theory)",
+            "type": "reel",
+            "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
+        }
+    ],
+    "status": "verified-academic",
+    "notes": "Maher is a published audio-forensics expert whose work has been used in U.S. courts. His Charlie Kirk analysis is published on his Montana State University page, where he also archives his CNN interview document on the case. His conclusion of a single supersonic gunshot stands as the academic-forensic counterweight to the exploding-microphone hypothesis surfaced in the reel."
+}

@@ -1,0 +1,71 @@
+Source: reel.webm (full 154s play-through)
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-12, openai-whisper base.en
+Visual: a re-used interview clip of John Kiriakou. The spoken word is a satirical first-person "confession" narrative; the voice is not from any of Kiriakou's documented public statements.
+
+— FULL TEXT —
+
+About 10 years before, under the guise of elevator renovations.
+For all three of the buildings.
+The shafts gave us access to all the columns and concrete supports.
+We used this sprayable explosive.
+When I first saw it, I was like, this is a real James Bond shit.
+The hardest part of the job was wearing a respirator the whole time.
+We could barely see and couldn't take them off because of all these asbestos[?].
+Whatever we sprayed it on turned to dust in[on] the day of the event.
+There was so much molten material left that one firefighter said it was like looking at a river of lava.
+It was in the spring of 2000 that we installed the first of the two [unclear: "hummingbeacons in sub-pyros"].
+Ran out a whole floor. They didn't even question where the money came from.
+We just said we'd make you a little art project.
+The other beacon was a little harder to plan, but we had a friend at [unclear: "Marcia McClellan"] who told us that
+[unclear: "peony"] was spun on the floor below and it could go.
+And we almost did it without a trace, but the new guy decided to take a group photo on the last day.
+We forgot to cover up the labels on a box of dead[?] mirrors.
+The planes were actually the easy part. They were fully remote controlled —
+we couldn't trust those errors[Arabs] to fly a Cessna, let alone a full-size airplane.
+Everyone made money that day. And no one questioned why owners didn't show up to work.
+Or why everyone didn't get the exclusive pager warning.
+The most suspicion anyone caused was Zim — waiting till a couple of weeks before the big day to move out.
+We even told the owner: they're gonna know that you knew.
+We all thought they'd catch on to Larry. He waited till a month before to put the place in his name
+and created the first of its kind insurance policy for the maximum payout. Lucky guy.
+I asked him what his alibi was and he said his wife scheduled an annual dermatologist[/"German collegeist"] appointment.
+The [Mossad]didn't give a fluff that day — even if they got caught, they knew they would just get sent home.
+The events of the day were even painted on the sides of their vans,
+and some got spotted by a grandma while dancing on top of the parking lot when they were supposed to be filming.
+Then they got caught again on the George Washington Bridge before they could set one of their vans off.
+We had to make a cop actually change his story when he went on the radio and said he found some explosives in the van.
+They get arrested and [?]screened at the Palestinians [as] the real enemy.
+They get caught with plane tickets to different parts of the world. One of the five dudes —
+$4,700 in cash stuffed up his ass.
+They gave our team a sweet bonus incentive in the form of a couple truckloads of gold.
+Felt like we were in a Die Hard movie.
+Now we get notified that they have to blow the thing early,
+so we are forced to abandon the trucks on a service tunnel under [Five/WTC 5].
+Then we moved on to Seven to wipe some financial records [in/at] the place.
+We find the deputy director of the emergency services department wandering around the command center.
+He says his name was Barry. I tell him, you kind of have to get out of here, man.
+I asked if he's alone. He said it's just him and a friend left — the building's janitor, Jose Gonzalez.
+Ask where Jose is. He says he's downstairs. I say where exactly downstairs.
+He says Jose's on the first floor. So I start to lead him out.
+As we make it down the stairs, it felt like 47 cruise missiles hit the lobby.
+We took another staircase and Barry unfortunately sees too much, tells the news about it,
+so we had to make him change his story on the scene and a few months later
+I shot him in the neck with a heart attack pellet.
+Finally I get back to the main scene. I find a rookie cop who looks lost.
+I hand him the passport and say, I found this in the rubble over there.
+
+— END —
+
+Whisper accuracy notes (key transcription fixes):
+- "James Bond shoe" → "James Bond shit"
+- "all these best issues" / "all these bastards" → "all these asbestos issues" (subject + verb dropped: "we couldn't take them off because of all these asbestos [issues]")
+- "homey vehicles in some pyro" → unclear; likely a coined term — possible "honey-bombs in sub-pyros" or similar. Marked unclear.
+- "Marcia McClellan" → unclear proper noun. Marked.
+- "dead mirrors" → unclear; possibly "Dead Sea mirrors" or "deck mirrors." Marked.
+- "trust those errors" → "trust those Arabs" (re: the alleged hijackers)
+- "Masagas" → "Mossad"
+- "Zim" → confirmed Zim (the Israeli shipping company)
+- "German collegeist" → "dermatologist"
+- "I'm shot him" → "I shot him"
+- "Sun in the rubble" → "this[/it] in the rubble" (the passport reference)

@@ -89,7 +89,7 @@
 
         const notesParts = [];
         if (meta.audio_content_summary) notesParts.push(`<div class="gallery-notes"><strong>what the audio claims, and what's verified</strong>${esc(meta.audio_content_summary)}</div>`);
-        if (meta.implied_frame) notesParts.push(`<div class="gallery-notes"><strong>what the reel is framing</strong>${esc(meta.implied_frame)}</div>`);
+        if (meta.implied_frame) notesParts.push(`<div class="gallery-notes"><strong>the case it's making</strong>${esc(meta.implied_frame)}</div>`);
 
         const transcriptHtml = transcript ? `
             <button class="gallery-transcript-toggle" type="button" aria-expanded="false">▾ show transcript</button>

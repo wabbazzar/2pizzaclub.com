@@ -6,13 +6,22 @@
     "handle": "@tafsir_7",
     "author_display_name": "Tafsir Mahmood (李建军）",
     "posted_at": "2026-04-06",
-    "engagement": { "likes": 184000, "comments": 3769 },
+    "engagement": {
+        "likes": 184000,
+        "comments": 3769
+    },
     "caption": "Lincoln Park is the name of a military base where they (allegedly) performed disturbing experiments on a certain demographic that the band of the same name tried to expose to the world…? RIP 🕊️ #interesting #facts #theory #mkultra #chesterbennington — Disclaimer: Allegedly. ©@filspixel",
-    "hashtags": ["interesting", "facts", "theory", "mkultra", "chesterbennington"],
+    "hashtags": [
+        "interesting",
+        "facts",
+        "theory",
+        "mkultra",
+        "chesterbennington"
+    ],
     "audio_track_actual": "Single male narrator voiceover over a sequence of still images, photo comparisons, and album covers.",
-    "video_overlay_text_observed": "Side-by-side photo comparisons of Chester Bennington with John Podesta; a still of the FBI's 2007 BoyLover Logo placed alongside an early Linkin Park promotional logo; portraits of Chris Cornell, Avicii, and Anthony Bourdain. The reel ends with the on-screen text 'Disclaimer: Allegedly.'",
-    "audio_content_summary": "The narrator chains together five elements: (1) a real Royal Canadian Air Force station historically named Lincoln Park, in Calgary, presented as the namesake of the band Linkin Park and as a site of MK-Ultra experimentation on children; (2) the four high-profile suicides of 2017–2018 — Chris Cornell (May 2017), Chester Bennington (July 2017), Avicii (April 2018), and Anthony Bourdain (June 2018), each individually ruled a suicide on the official record; (3) a claimed documentary titled 'The Silent Children' said to involve all four artists, exposing what the reel describes as elite trafficking networks; (4) a physical resemblance between Bennington and former Clinton White House Chief of Staff John Podesta, with the implication of biological paternity; and (5) the FBI's January 2007 intelligence bulletin on symbols and logos used by pedophiles, with the visual claim that an early Linkin Park logo resembled the bulletin's BoyLover Logo. The four deaths and the FBI bulletin are matters of public record. The 'Silent Children' documentary does not appear in any production database or contemporary news archive. The Bennington/Podesta paternity claim is not in any public record.",
-    "implied_frame": "The reel chains real, separately-documented public records — four high-profile suicides; the FBI's 2007 bulletin; a Cold-War-era RCAF base name — into a single conspiratorial sequence implying coordinated suppression of a whistle-blowing documentary. Each element exists. The connective tissue between them is the reel's editorial proposition rather than a sourced finding.",
+    "video_overlay_text_observed": "Side-by-side photo comparisons of Chester Bennington with John Podesta; a still of the FBI's 2007 BoyLover Logo placed alongside an early Linkin Park promotional logo; portraits of Chris Cornell, Avicii, and Anthony Bourdain. The video ends with the on-screen text 'Disclaimer: Allegedly.'",
+    "audio_content_summary": "The narrator chains together five elements: (1) a real Royal Canadian Air Force station historically named Lincoln Park, in Calgary, presented as the namesake of the band Linkin Park and as a site of MK-Ultra experimentation on children; (2) the four high-profile suicides of 2017–2018 — Chris Cornell (May 2017), Chester Bennington (July 2017), Avicii (April 2018), and Anthony Bourdain (June 2018), each individually ruled a suicide on the official record; (3) a claimed documentary titled 'The Silent Children' said to involve all four artists, exposing what the video describes as elite trafficking networks; (4) a physical resemblance between Bennington and former Clinton White House Chief of Staff John Podesta, with the implication of biological paternity; and (5) the FBI's January 2007 intelligence bulletin on symbols and logos used by pedophiles, with the visual claim that an early Linkin Park logo resembled the bulletin's BoyLover Logo. The four deaths and the FBI bulletin are matters of public record. The 'Silent Children' documentary does not appear in any production database or contemporary news archive. The Bennington/Podesta paternity claim is not in any public record.",
+    "implied_frame": "The video chains real, separately-documented public records — four high-profile suicides; the FBI's 2007 bulletin; a Cold-War-era RCAF base name — into a single conspiratorial sequence implying coordinated suppression of a whistle-blowing documentary. Each element exists. The connective tissue between them is the video's editorial proposition rather than a sourced finding.",
     "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
     "video_download_status": "Captured: ~24 MB, vp9 720x1280, 124s.",
     "audio_transcription_status": "Transcribed with openai-whisper base.en.",

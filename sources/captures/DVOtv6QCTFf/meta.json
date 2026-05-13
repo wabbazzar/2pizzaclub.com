@@ -6,18 +6,27 @@
     "handle": "@strategichaley",
     "author_display_name": "Haley Press",
     "posted_at": "2026-02-26",
-    "engagement": { "likes": 26538, "comments": 384 },
+    "engagement": {
+        "likes": 26538,
+        "comments": 384
+    },
     "caption": "John Kiriakou is a former CIA analyst and case officer turned whistleblower, best known for being the first U.S. official to publicly confirm that the CIA used waterboarding on al-Qaeda prisoners. He served 30 months in prison after pleading guilty to violating the Intelligence Identities Protection Act.",
-    "hashtags": ["johnkiriakou", "memes", "viral", "trending", "whistleblower"],
+    "hashtags": [
+        "johnkiriakou",
+        "memes",
+        "viral",
+        "trending",
+        "whistleblower"
+    ],
     "audio_track_advertised": "Mix: Johann Debussy • Clair de Lune, L. 75 | Øneheart, reidenshi • snowfall",
     "audio_track_advertised_by_platform": "Mix: Johann Debussy • Clair de Lune, L. 75 | Øneheart, reidenshi • snowfall",
-    "audio_track_actual": "Spoken first-person narration over a music bed. The platform's audio-credit covers only the music; the substantive content of the reel is the spoken narration with word-by-word subtitle overlays.",
+    "audio_track_actual": "Spoken first-person narration over a music bed. The platform's audio-credit covers only the music; the substantive content of the video is the spoken narration with word-by-word subtitle overlays.",
     "video_overlay_text_observed": "A persistent top-of-frame graphic reading 'CIA in NYC ✈✈🏢🏢' overlaid on an interview clip of John Kiriakou. The lower portion of each frame carries a highlighted single-word subtitle that tracks the spoken audio.",
     "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
     "video_download_status": "Single play-through captured to webm; vp9 video, opus audio.",
     "audio_transcription_status": "Transcribed with openai-whisper (tiny.en).",
-    "audio_content_summary": "The on-screen subject is John Kiriakou — the former CIA analyst and case officer whose factual bio is the caption of this reel. The spoken narration, however, is a coherent first-person account claiming the World Trade Center towers were pre-rigged with sprayable explosives over roughly a decade 'under the guise of elevator renovation,' accessing the core columns through elevator shafts with asbestos-abatement respirators as cover. The specific phrases used in the narration — 'elevator renovation,' 'sprayable explosive,' 'rivers of lava,' 'spring of 2000' — do not appear in any of Kiriakou's publicly documented interviews or in his memoir. The narrative tracks the genre of Tom Sullivan's 2011 controlled-demolition-loader claims published at 911truth.org but is not in Sullivan's published statements either. Per a February 13, 2026 piece by Trace William Cowen in Complex, real Kiriakou interview clips have been widely remixed across TikTok and Instagram with audio sped up and slowed down for dramatic effect. The provenance of this specific audio — edited Kiriakou speech recontextualized, an AI voice clone, or a different speaker dubbed over Kiriakou's video — cannot be determined from the available artifacts. What is documentable: the narrative voiced over Kiriakou's image is not a Kiriakou claim of record.",
-    "implied_frame": "The reel pairs Kiriakou's real, verifiable bio (caption) with a first-person confession framed as if Kiriakou were speaking it (audio). The persistent overlay graphic — 'CIA in NYC ✈✈🏢🏢' — reinforces a 9/11-as-inside-job reading. The composite presents itself as 'CIA whistleblower confesses to 9/11 demolition,' though nothing in the spoken audio traces to Kiriakou himself.",
+    "audio_content_summary": "The on-screen subject is John Kiriakou — the former CIA analyst and case officer whose factual bio is the caption of this video. The spoken narration, however, is a coherent first-person account claiming the World Trade Center towers were pre-rigged with sprayable explosives over roughly a decade 'under the guise of elevator renovation,' accessing the core columns through elevator shafts with asbestos-abatement respirators as cover. The specific phrases used in the narration — 'elevator renovation,' 'sprayable explosive,' 'rivers of lava,' 'spring of 2000' — do not appear in any of Kiriakou's publicly documented interviews or in his memoir. The narrative tracks the genre of Tom Sullivan's 2011 controlled-demolition-loader claims published at 911truth.org but is not in Sullivan's published statements either. Per a February 13, 2026 piece by Trace William Cowen in Complex, real Kiriakou interview clips have been widely remixed across TikTok and Instagram with audio sped up and slowed down for dramatic effect. The provenance of this specific audio — edited Kiriakou speech recontextualized, an AI voice clone, or a different speaker dubbed over Kiriakou's video — cannot be determined from the available artifacts. What is documentable: the narrative voiced over Kiriakou's image is not a Kiriakou claim of record.",
+    "implied_frame": "The video pairs Kiriakou's real, verifiable bio (caption) with a first-person confession framed as if Kiriakou were speaking it (audio). The persistent overlay graphic — 'CIA in NYC ✈✈🏢🏢' — reinforces a 9/11-as-inside-job reading. The composite presents itself as 'CIA whistleblower confesses to 9/11 demolition,' though nothing in the spoken audio traces to Kiriakou himself.",
     "evidence_records": [
         "2007-kiriakou-001",
         "2013-kiriakou-002",

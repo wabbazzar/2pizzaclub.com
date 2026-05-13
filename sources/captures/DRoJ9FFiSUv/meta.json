@@ -6,13 +6,16 @@
     "handle": "@jakeshieldspod",
     "author_display_name": "Fight Back Podcast",
     "posted_at": "2025-11-28",
-    "engagement": { "likes": 156000, "comments": 4239 },
+    "engagement": {
+        "likes": 156000,
+        "comments": 4239
+    },
     "caption": "What happened at the surfside condo? @old_world_florida explains",
     "hashtags": [],
     "audio_track_actual": "A guest, credited in the caption as @old_world_florida, speaking to podcast host Jake Shields over a single audio channel. No music bed.",
     "video_overlay_text_observed": "Podcast-style two-person camera setup with on-screen lower-third name graphics for the host and guest. No still photographs or document overlays appear in the frame.",
     "audio_content_summary": "The guest narrates a sequence of claims about the June 2021 Champlain Towers South collapse in Surfside, Florida. Three of the underlying anchors are real and independently documented: the collapse itself (98 dead, NIST investigation in progress, preliminary cause traced to long-term degradation of the pool-deck reinforced-concrete structure), John McAfee's death in a Spanish prison cell on June 23, 2021 (the day before the collapse, ruled suicide by the Barcelona court following extradition approval to the United States), and the IDF Home Front Command's search-and-rescue delegation to Surfside (a documented international-assistance deployment coordinated through Governor Ron DeSantis and Prime Minister Naftali Bennett). Two further elements in the audio are not in the public record: the assertion that McAfee had information or an apartment stored in the building that collapsed (no primary reporting documents this), and the framing that American responders were excluded from the dig (the documented record shows IDF rescuers working alongside Miami-Dade Fire Rescue, not in place of them).",
-    "implied_frame": "The reel chains three real but separate events — McAfee's death, the Surfside collapse, and Israeli rescue assistance — into a single conspiratorial sequence implying coordinated state action. Each event has primary sources documenting it; the connective tissue between them is the reel's editorial proposition rather than a documented finding.",
+    "implied_frame": "The video chains three real but separate events — McAfee's death, the Surfside collapse, and Israeli rescue assistance — into a single conspiratorial sequence implying coordinated state action. Each event has primary sources documenting it; the connective tissue between them is the video's editorial proposition rather than a documented finding.",
     "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
     "video_download_status": "Captured: ~12 MB, vp9 720x1280, 58s.",
     "audio_transcription_status": "Transcribed with openai-whisper base.en.",

@@ -1,0 +1,33 @@
+{
+    "id": "1954-guatemala-civil-war-001",
+    "anchor": "y1954",
+    "year": 1954,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "regime-change",
+        "central-america",
+        "body-count"
+    ],
+    "claim": "The 1954 CIA-backed coup against democratically elected Guatemalan president Jacobo Árbenz, carried out under heavy lobbying from the United Fruit Company, opened a 36-year civil war (1960–1996) that killed more than 200,000 people. The U.N.-backed Commission for Historical Clarification concluded in 1999 that about 83% of those killed were Mayan, and that 93% of human rights violations during the conflict were carried out by state forces.",
+    "sources": [
+        {
+            "label": "PBS NewsHour — “Timeline: Guatemala's Brutal Civil War.”",
+            "type": "secondary",
+            "url": "https://www.pbs.org/newshour/health/latin_america-jan-june11-timeline_03-07",
+            "quote": "More than 200,000 people were killed over the course of the 36-year-long civil war that began in 1960 and ended with peace accords in 1996."
+        },
+        {
+            "label": "Commission for Historical Clarification (Comisión para el Esclarecimiento Histórico), Guatemala: Memory of Silence (1999) — U.N.-backed truth commission report.",
+            "type": "primary",
+            "url": "https://hrdag.org/guatemala-memory-of-silence-the-ceh-report/"
+        },
+        {
+            "label": "National Security Archive (GWU) — CIA and State Department records on PBSUCCESS, the 1954 Guatemala coup operation.",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2024-06-18/cia-and-1954-coup-guatemala-70-years-later"
+        }
+    ],
+    "status": "verified",
+    "notes": "PBS is a clean secondary that quotes the CEH numbers verbatim and links them to the 1954 coup. The CEH report (1999) is the primary truth-commission source. The NSA briefing book is the canonical paper trail on the coup operation itself."
+}

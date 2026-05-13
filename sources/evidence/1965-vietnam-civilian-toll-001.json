@@ -1,0 +1,33 @@
+{
+    "id": "1965-vietnam-civilian-toll-001",
+    "anchor": "y1965-vietnam",
+    "year": 1965,
+    "era": "ii",
+    "themes": [
+        "war",
+        "southeast-asia",
+        "body-count",
+        "civilians"
+    ],
+    "claim": "U.S. military involvement in the Vietnam War (full ground combat phase 1965–1975) carried a civilian death toll the Vietnamese government estimated in 1995 at roughly 2,000,000 (both sides combined), alongside about 1,100,000 PAVN and Viet Cong combatant deaths. The war also spilled across borders: the Cambodian Civil War, fueled by U.S. bombing campaigns under Operation Menu and successors, killed an estimated 275,000–310,000 people, and the Laotian Civil War (the “Secret War”) killed 20,000–62,000. Cambodia and Laos were never declared U.S. enemies.",
+    "sources": [
+        {
+            "label": "Wikipedia — Vietnam War casualties (with 1995 Vietnamese government estimate and the Cambodian and Laotian sub-totals).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Vietnam_War_casualties",
+            "quote": "In 1995, the Vietnamese government released its estimate of war deaths for the more lengthy period of 1955–75. PAVN and VC losses were reported as 1.1 million dead and civilian deaths of Vietnamese on both sides totaled 2.0 million."
+        },
+        {
+            "label": "Encyclopædia Britannica — Vietnam War (overview, casualty figures).",
+            "type": "secondary",
+            "url": "https://www.britannica.com/event/Vietnam-War"
+        },
+        {
+            "label": "Yale Cambodian Genocide Program — bombing data and civilian-casualty studies on Operation Menu and the U.S. Cambodia campaign.",
+            "type": "primary",
+            "url": "https://gsp.yale.edu/case-studies/cambodian-genocide-program"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1995 Vietnamese government estimate is the canonical figure for Vietnamese deaths and is cited across mainstream secondary sources. Cambodian and Laotian sub-totals come from the same casualties article. Yale's Cambodian Genocide Program is the standard primary archive for U.S. bombing data over Cambodia."
+}

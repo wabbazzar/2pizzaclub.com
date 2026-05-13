@@ -1,0 +1,33 @@
+{
+    "id": "1975-operation-condor-001",
+    "anchor": "y1975-condor",
+    "year": 1975,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "south-america",
+        "state-terror",
+        "body-count"
+    ],
+    "claim": "Operation Condor was a coordinated campaign of cross-border assassination, torture, and state terror run jointly from 1975 by Argentina, Chile, Uruguay, Paraguay, Bolivia, and Brazil (later joined by Ecuador and Peru), with U.S. logistical, communications, and intelligence support documented in declassified State Department and CIA cables. Estimates of those killed across participating states range from 60,000 to 80,000, with roughly 400,000 political prisoners taken. Targets included unionists, students, priests, journalists, and dissidents.",
+    "sources": [
+        {
+            "label": "National Security Archive (GWU) — “The Pinochet File” and the Operation Condor declassified-document collection.",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/project/chile-documentation-project"
+        },
+        {
+            "label": "YIP Institute — “Operation Condor and the Horrors of U.S. Foreign Policy.”",
+            "type": "secondary",
+            "url": "https://yipinstitute.org/article/operation-condor-and-the-horrors-of-u-s-foreign-policy",
+            "quote": "It's estimated that there were 60,000-80,000 deaths in South America due to Condor, along with 400,000 political prisoners captured."
+        },
+        {
+            "label": "J. Patrice McSherry, Predatory States: Operation Condor and Covert War in Latin America (Rowman & Littlefield, 2005).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The NSA Chile documentation project is the canonical primary archive — Kissinger memcons, State Department cables, and CIA briefings. McSherry's book remains the most thorough scholarly treatment. The YIP article is the most cleanly quotable secondary for the casualty totals."
+}

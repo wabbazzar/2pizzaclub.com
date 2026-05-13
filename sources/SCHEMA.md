@@ -1,6 +1,6 @@
 # Evidence record schema
 
-Every claim on the site lives as a JSON record under `receipts/sources/evidence/<id>.json`. The site renders these as cards inside the chapter at `data-anchor` matching the record's `anchor`. `manifest.json` lists which records are live.
+Every claim on the site lives as a JSON record under `sources/evidence/<id>.json`. The site renders these as cards inside the chapter at `data-anchor` matching the record's `anchor`. `manifest.json` lists which records are live.
 
 ## Record shape
 
@@ -33,8 +33,8 @@ Every claim on the site lives as a JSON record under `receipts/sources/evidence/
 
 ## Adding a new record
 
-1. Write the JSON file under `receipts/sources/evidence/<id>.json`.
-2. Add the filename to `receipts/sources/evidence/manifest.json` `records[]`.
+1. Write the JSON file under `sources/evidence/<id>.json`.
+2. Add the filename to `sources/evidence/manifest.json` `records[]`.
 3. Reload the site — the card appears under its `anchor`.
 
 ## URL hygiene
@@ -47,11 +47,11 @@ To let readers see the source without leaving the site, populate a `quote` field
 
 ```
 cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-npx tsx /home/wabbazzar/code/wabbazzar.github.io/receipts/tools/clip-evidence.ts <evidence-id>
+npx tsx /home/wabbazzar/code/2pizzaclub.com/tools/clip-evidence.mjs <evidence-id>
 # or --all to walk every record in the manifest
 ```
 
-The tool opens each source URL in headless Chromium, finds the quote on the page, injects a yellow highlight, screenshots a cropped region around it, writes `receipts/sources/clips/<evidence-id>-<n>.png`, and writes `clip` + `clip_status` back into the record. The evidence card renders the clip below the citation line (with the URL still linked underneath).
+The tool opens each source URL in headless Chromium, finds the quote on the page, injects a yellow highlight, screenshots a cropped region around it, writes `sources/clips/<evidence-id>-<n>.png`, and writes `clip` + `clip_status` back into the record. The evidence card renders the clip below the citation line (with the URL still linked underneath).
 
 When the quote can't be found or the page won't load, `clip_status` records the reason (`http-403`, `quote-not-found`, etc.) and no clip image is created — the citation degrades gracefully to a plain link.
 

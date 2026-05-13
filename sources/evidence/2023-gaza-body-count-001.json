@@ -1,0 +1,33 @@
+{
+    "id": "2023-gaza-body-count-001",
+    "anchor": "y2023",
+    "year": 2023,
+    "era": "iv",
+    "themes": [
+        "gaza",
+        "us-arms-aid",
+        "body-count",
+        "civilians"
+    ],
+    "claim": "A Max Planck Institute for Demographic Research analysis published in November 2025 estimated that conflict-related deaths in Gaza had likely surpassed 100,000 by October 6, 2025, and that life expectancy in Gaza in 2024 had fallen to nearly half the level expected without the war. The United States has funded, armed, and diplomatically shielded the Israeli campaign throughout, with congressionally appropriated military aid to Israel running at $3.8 billion per year under the 2016 Memorandum of Understanding, supplemented by emergency packages since October 2023.",
+    "sources": [
+        {
+            "label": "Max Planck Institute for Demographic Research — “Gaza study reveals unprecedented losses of life and life expectancy” (Nov 25, 2025).",
+            "type": "primary",
+            "url": "https://www.mpg.de/25778228/1125-defo-gaza-study-reveals-unprecedented-losses-of-life-and-life-expectancy-154642-x",
+            "quote": "by October 6, 2025, the number of conflict-related deaths in Gaza had likely surpassed 100,000."
+        },
+        {
+            "label": "Congressional Research Service — “U.S. Foreign Aid to Israel,” updated periodically, covering the 2016 MOU and post-Oct-2023 supplemental appropriations.",
+            "type": "primary",
+            "url": "https://crsreports.congress.gov/product/pdf/RL/RL33222"
+        },
+        {
+            "label": "United Nations OCHA — Humanitarian Situation Reports for the occupied Palestinian territory.",
+            "type": "primary",
+            "url": "https://www.ochaopt.org/data/casualties"
+        }
+    ],
+    "status": "verified",
+    "notes": "MPI study is the most rigorous independent demographic analysis to date. CRS is the canonical primary reference for U.S. military aid to Israel. OCHA tracks the running casualty totals as reported by Gazan health authorities and cross-checked by U.N. field staff."
+}

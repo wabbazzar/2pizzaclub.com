@@ -1,0 +1,33 @@
+{
+    "id": "1980-el-salvador-civil-war-001",
+    "anchor": "y1980-el-salvador",
+    "year": 1980,
+    "era": "iii",
+    "themes": [
+        "cia",
+        "central-america",
+        "death-squads",
+        "body-count"
+    ],
+    "claim": "During El Salvador's civil war (1980–1992), an estimated 75,000 civilians were killed or forcibly disappeared. The U.N. Truth Commission concluded that 85% of acts of violence against civilians were carried out by agents of the state, paramilitary groups, and death squads. The U.S. trained, funded, and equipped the Salvadoran military and its counterinsurgency battalions throughout the conflict — including units like the Atlacatl Battalion, which carried out the 1981 El Mozote massacre.",
+    "sources": [
+        {
+            "label": "Center for Justice and Accountability — country page on El Salvador, with U.N. Truth Commission findings.",
+            "type": "secondary",
+            "url": "https://cja.org/where-we-work/el-salvador/",
+            "quote": "the UN Truth Commission concluded that 85% of the acts of violence against civilians were committed by agents of the State, paramilitary groups allied to them, and death squads."
+        },
+        {
+            "label": "United Nations — From Madness to Hope: The 12-year War in El Salvador (Report of the Commission on the Truth for El Salvador, 1993).",
+            "type": "primary",
+            "url": "https://www.usip.org/sites/default/files/file/ElSalvador-Report.pdf"
+        },
+        {
+            "label": "National Security Archive (GWU) — Salvador documentation project, including declassified records on the Atlacatl Battalion and the El Mozote massacre.",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/project/el-salvador-project"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1993 U.N. Truth Commission report is the canonical primary record. CJA's country page cleanly restates the 85% finding and the U.S. role. The NSA project archive holds the underlying U.S. military advisor and aid records."
+}

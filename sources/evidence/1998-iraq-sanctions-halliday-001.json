@@ -1,0 +1,33 @@
+{
+    "id": "1998-iraq-sanctions-halliday-001",
+    "anchor": "y1998-iraq-sanctions",
+    "year": 1998,
+    "era": "iii",
+    "themes": [
+        "sanctions",
+        "iraq",
+        "body-count",
+        "international-law"
+    ],
+    "claim": "Denis Halliday, the U.N. Humanitarian Coordinator for Iraq, resigned in 1998 after thirty-four years at the United Nations rather than continue administering the U.N. Security Council's economic sanctions on Iraq, which he characterized publicly as a deliberate, knowing policy that killed thousands of Iraqis each month and fit the definition of genocide. His successor, Hans von Sponeck, resigned for the same reason in 2000. Halliday cited estimates of one to one-and-a-half million Iraqi deaths from malnutrition and inadequate health care under sanctions.",
+    "sources": [
+        {
+            "label": "Cornell Chronicle — “Former U.N. official says sanctions against Iraq amount to ‘genocide’” (1999), quoting Halliday directly.",
+            "type": "secondary",
+            "url": "https://news.cornell.edu/stories/1999/09/former-un-official-says-sanctions-against-iraq-amount-genocide",
+            "quote": "For me what is tragic, in addition to the tragedy of Iraq itself, is the fact that the United Nations Security Council member states ... are maintaining a program of economic sanctions deliberately, knowingly killing thousands of Iraqis each month. And that definition fits genocide"
+        },
+        {
+            "label": "Wikipedia — Denis Halliday (career summary, resignation, public statements).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Denis_Halliday"
+        },
+        {
+            "label": "Joy Gordon, Invisible War: The United States and the Iraq Sanctions (Harvard University Press, 2010).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "Cornell Chronicle is a clean, dated secondary that quotes Halliday verbatim shortly after his resignation. Gordon's Harvard book is the definitive scholarly history of the sanctions regime. The Halliday/von Sponeck twin resignations remain the strongest contemporaneous insider critique of the sanctions on the record."
+}

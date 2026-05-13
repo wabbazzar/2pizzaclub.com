@@ -1,0 +1,37 @@
+{
+    "id": "1948-genocide-convention-001",
+    "anchor": "y1948-genocide-convention",
+    "year": 1948,
+    "era": "ii",
+    "themes": [
+        "international-law",
+        "cia",
+        "regime-change"
+    ],
+    "claim": "The 1948 Convention on the Prevention and Punishment of the Crime of Genocide protects national, ethnical, racial, and religious groups, but does not protect political groups — an exclusion the Soviet delegation pushed (to shield its own purges) and that other states accepted on grounds that political groups were too fluid to be defined as protected categories. The convention's drafter, Raphael Lemkin, had at one point also recommended their removal. The legal effect is that systematic killing of a population for their politics — including the kind of anti-communist mass killing later carried out by U.S.-backed regimes in Indonesia, Latin America, and Southeast Asia — produces fewer handles under the Genocide Convention than the centralized industrial murder it was written to describe.",
+    "sources": [
+        {
+            "label": "United Nations Office on Genocide Prevention — definition page reproducing Article II of the Convention.",
+            "type": "primary",
+            "url": "https://www.un.org/en/genocide-prevention/definition",
+            "quote": "In the present Convention, genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such"
+        },
+        {
+            "label": "Notre Dame Journal of International & Comparative Law, “The Genocide Convention and Unprotected Groups.”",
+            "type": "secondary",
+            "url": "https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1009&context=ndjicl"
+        },
+        {
+            "label": "Facing History & Ourselves — “Negotiating the Convention on the Punishment and Prevention of the Crime of Genocide.”",
+            "type": "secondary",
+            "url": "https://www.facinghistory.org/resource-library/negotiating-convention-punishment-prevention-crime-genocide"
+        },
+        {
+            "label": "Anton Weiss-Wendt, The Soviet Union and the Gutting of the Genocide Convention (University of Wisconsin Press, 2017).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The Convention's Article II language is canonical and on the UN page. The political-groups exclusion is a documented drafting outcome with mixed authorship — Soviet pressure was the most visible driver but not the only one. Weiss-Wendt's book is the definitive scholarly treatment of the Soviet-led campaign to narrow the definition."
+}

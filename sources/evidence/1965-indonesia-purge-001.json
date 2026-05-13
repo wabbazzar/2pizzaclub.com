@@ -1,0 +1,38 @@
+{
+    "id": "1965-indonesia-purge-001",
+    "anchor": "y1965",
+    "year": 1965,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "anti-communism",
+        "southeast-asia",
+        "body-count"
+    ],
+    "claim": "In the Indonesian anti-communist purge of October 1965 to March 1966, the Indonesian army and army-sponsored militias killed an estimated 500,000 to 1,000,000 people associated with the Indonesian Communist Party (PKI). U.S. embassy officials passed extensive lists of PKI cadres to the Indonesian army, knowing they were to be used as kill lists. A 1968 CIA research study (“Indonesia – 1965: The Coup that Backfired”) characterized the massacres as ranking among the worst mass murders of the 20th century, alongside the Soviet purges, Nazi exterminations, and the Maoist bloodbath.",
+    "sources": [
+        {
+            "label": "CIA Research Study, Indonesia – 1965: The Coup that Backfired (December 1968), declassified via FOIA — CIA Reading Room.",
+            "type": "primary",
+            "url": "https://www.cia.gov/readingroom/document/5077054e993247d4d82b6a7f"
+        },
+        {
+            "label": "Wikipedia — Indonesian mass killings of 1965–66 (canonical summary tracking declassified U.S. records).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%9366",
+            "quote": "Declassified U.S. documents in 2017 revealed that the U.S. government had detailed knowledge of the mass killings from the beginning and was supportive of the actions of the Indonesian Army."
+        },
+        {
+            "label": "National Security Archive (GWU) — “U.S. Covert Action in Indonesia in the 1960s: Assisting the Indonesian Army's Mass Killings” (briefing book, 2017).",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files"
+        },
+        {
+            "label": "Vincent Bevins, The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World (PublicAffairs, 2020).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1968 CIA study is the canonical primary record — same document later quoted in scholarship as ranking the killings with the Soviet purges and Nazi exterminations. NSA's 2017 briefing book is the standard reference for the U.S. embassy kill-list cables. Bevins is the most widely cited modern secondary treatment."
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1947-new-deal-gini-001",
+    "anchor": "y1933",
+    "year": 1947,
+    "era": "i",
+    "themes": [
+        "new-deal",
+        "inequality",
+        "wages",
+        "architecture"
+    ],
+    "claim": "Under the New Deal–era policy stack — high marginal income tax rates (peaking above 90% in the 1950s), strong organized labor, regulated commercial and investment banking under Glass–Steagall, and the Bretton Woods external anchor — U.S. income inequality fell to its lowest measured level in the modern record. Real median household income approximately doubled between 1947 and 1973. Economists Claudia Goldin and Robert Margo named the period the “Great Compression.” The architectural lesson is that the unequalizing pull of debt-based money is not a law of nature: it can be counter-pressured by policy. The reversal began with the late-1970s and 1980s rollback of that policy stack.",
+    "sources": [
+        {
+            "label": "Claudia Goldin and Robert A. Margo, “The Great Compression: The Wage Structure in the United States at Mid-Century,” Quarterly Journal of Economics, vol. 107, no. 1 (Feb. 1992), pp. 1–34.",
+            "type": "secondary",
+            "url": "https://academic.oup.com/qje/article-abstract/107/1/1/1872091"
+        },
+        {
+            "label": "U.S. Census Bureau, Historical Income Tables — Households (Table H-6, all races, in 2023 CPI-U-RS dollars).",
+            "type": "data",
+            "url": "https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html"
+        },
+        {
+            "label": "Internal Revenue Service, Statistics of Income (SOI) — historical individual income tax statutory rate schedules, 1944–1963 (top marginal rate of 91%–94%).",
+            "type": "primary",
+            "url": "https://www.irs.gov/statistics/soi-tax-stats-historical-data-tables"
+        },
+        {
+            "label": "Thomas Piketty and Emmanuel Saez, “Income Inequality in the United States, 1913–1998,” Quarterly Journal of Economics, vol. 118, no. 1 (Feb. 2003), pp. 1–39.",
+            "type": "secondary",
+            "url": "https://eml.berkeley.edu/~saez/pikettyqje.pdf"
+        }
+    ],
+    "status": "verified",
+    "notes": "Goldin & Margo's QJE paper is the canonical academic source for the 'Great Compression' framing. The Gini-coefficient figures used in popular writing (e.g., 0.45 to 0.35) are derived from Census household-income series and vary by source; the directional claim is robust. Median household real income doubling 1947–1973 is well-established (Census Table H-6). The IRS rate schedules document the 91%+ top marginal rate held through the postwar period until 1964."
+}

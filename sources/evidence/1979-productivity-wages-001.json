@@ -1,0 +1,37 @@
+{
+    "id": "1979-productivity-wages-001",
+    "anchor": "y1980",
+    "year": 1979,
+    "era": "iii",
+    "themes": [
+        "wages",
+        "productivity",
+        "inequality",
+        "architecture"
+    ],
+    "claim": "U.S. productivity and the pay of the typical worker tracked each other closely from the end of World War II until the late 1970s, then diverged. The Economic Policy Institute's ongoing tracking finds that from 1979 onward, net productivity has grown roughly 3.5 times as much as the pay of the typical worker; the gap is the structural shape of the wage stagnation that followed the early-1970s policy reversals. Over the same period, the wealth share of the top 1% of U.S. households rose from roughly 22% in the late 1970s to roughly 34% by 2007 (Federal Reserve Survey of Consumer Finances), with broader capitalized-income measures (Saez and Zucman) running somewhat higher. Households absorbed the gap by borrowing — from the same financial institutions capturing their productivity gains.",
+    "sources": [
+        {
+            "label": "Economic Policy Institute — “The Productivity–Pay Gap,” updated through the most recent year (Bivens & Mishel, 2015 base methodology).",
+            "type": "primary",
+            "url": "https://www.epi.org/productivity-pay-gap/"
+        },
+        {
+            "label": "Josh Bivens and Lawrence Mishel, “Understanding the Historic Divergence Between Productivity and a Typical Worker's Pay,” EPI Briefing Paper #406 (September 2, 2015).",
+            "type": "secondary",
+            "url": "https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/"
+        },
+        {
+            "label": "Emmanuel Saez and Gabriel Zucman, “Wealth Inequality in the United States since 1913: Evidence from Capitalized Income Tax Data,” Quarterly Journal of Economics, vol. 131, no. 2 (2016), pp. 519–578.",
+            "type": "secondary",
+            "url": "https://eml.berkeley.edu/~saez/saez-zucmanQJE16wealth.pdf"
+        },
+        {
+            "label": "Federal Reserve Board, Survey of Consumer Finances (SCF) — Distributional Financial Accounts, wealth shares by percentile (1989–present).",
+            "type": "data",
+            "url": "https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/"
+        }
+    ],
+    "status": "verified",
+    "notes": "EPI's productivity-pay tracker is the canonical secondary; the Bivens–Mishel 2015 paper is the methodological backbone. Top-1% wealth-share figures differ by methodology — SCF tends to show lower top shares than Saez/Zucman's capitalized-income approach. The 22%→34% range is the SCF reading and is the more conservative figure; citing both methodologies acknowledges the range. EPI's headline figure '3.5× as much' is its most current public-facing summary; specific year-pair numbers (e.g., 80% / 10% for 1979–2009) come from earlier editions of the same tracker."
+}

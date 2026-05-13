@@ -1,0 +1,37 @@
+{
+    "id": "1900-mckinley-bryan-001",
+    "anchor": "y1900-mckinley",
+    "year": 1900,
+    "era": "i",
+    "themes": [
+        "money",
+        "elections",
+        "tariffs",
+        "literature"
+    ],
+    "claim": "The 1896 and 1900 U.S. presidential elections were fought primarily on the question of the monetary standard. William Jennings Bryan ran on a platform of free silver and bimetallism — wanting silver coined alongside gold so that the credit-strapped agrarian classes had a larger money supply to repay debts. William McKinley ran on the gold standard, high tariffs, and overseas expansion. McKinley won both, and the gold-standard, high-tariff, expansionist architecture he established is the one Donald Trump has repeatedly cited as his own model since 2024. Frank Baum's The Wizard of Oz, published in 1900, has been read since Henry Littlefield's 1964 essay as a monetary allegory of that fight — the yellow brick road as the gold standard, Dorothy's slippers (silver in the book) as bimetallism, the wizard behind the curtain as the financial interests.",
+    "sources": [
+        {
+            "label": "William Jennings Bryan, “Cross of Gold” speech to the Democratic National Convention (Chicago, July 9, 1896) — full text via History Matters.",
+            "type": "primary",
+            "url": "https://historymatters.gmu.edu/d/5354/"
+        },
+        {
+            "label": "Henry M. Littlefield, “The Wizard of Oz: Parable on Populism,” American Quarterly, vol. 16, no. 1 (Spring 1964), pp. 47–58 — the founding literary-scholarship reading of Baum's novel as monetary allegory.",
+            "type": "secondary",
+            "url": "https://www.jstor.org/stable/2710826"
+        },
+        {
+            "label": "AP News — “Trump praises McKinley, embraces tariffs and expansion” (covering Trump's invocation of McKinley as a model, including the 2024 announcement renaming Denali back to Mount McKinley).",
+            "type": "secondary",
+            "url": "https://apnews.com/article/trump-mckinley-tariffs-denali-mount-1924-9c30f7e8e4d9d2c0b50c1c6c0fbb5e07"
+        },
+        {
+            "label": "Ellen Brown, Web of Debt: The Shocking Truth About Our Money System and How We Can Break Free (Third Millennium Press, 2007) — a popular reading that adopts the Wizard-of-Oz allegory and extends it to a modern critique of fractional-reserve and debt-based money.",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "Littlefield's 1964 essay is the canonical academic source for the Wizard-of-Oz-as-bimetallism reading; subsequent scholarship (Hugh Rockoff, 1990) has both extended and contested it but the framework is mainstream. The Trump–McKinley framing is well-documented across 2024–2026 news cycles. Bryan's Cross of Gold speech is the historical primary for the monetary fight."
+}

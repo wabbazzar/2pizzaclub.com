@@ -1,0 +1,37 @@
+{
+    "id": "1913-money-creation-mechanics-001",
+    "anchor": "y1913",
+    "year": 1913,
+    "era": "i",
+    "themes": [
+        "money",
+        "banking",
+        "debt",
+        "architecture"
+    ],
+    "claim": "When a commercial bank makes a loan, it does not lend out pre-existing deposits. It creates a new deposit equal to the loan amount, expanding the money supply by the principal. It does not, however, create the interest. The structural consequence is that the total stock of debt in the system always exceeds the total stock of money to service it, so continued credit expansion is required simply to meet existing obligations. The Bank of England documented this mechanic in plain language in its 2014 Quarterly Bulletin; the Bundesbank's 2017 monthly report says the same thing. The accounting is not a conspiracy. It is the operating system of modern fiat banking — and the architectural reason every contraction transfers real assets directionally.",
+    "sources": [
+        {
+            "label": "Michael McLeay, Amar Radia & Ryland Thomas, “Money creation in the modern economy,” Bank of England Quarterly Bulletin 2014 Q1, vol. 54, no. 1, pp. 14–27.",
+            "type": "primary",
+            "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy"
+        },
+        {
+            "label": "Deutsche Bundesbank Monthly Report, April 2017 — “The role of banks, non-banks and the central bank in the money creation process,” pp. 13–33.",
+            "type": "primary",
+            "url": "https://www.bundesbank.de/resource/blob/654284/df66c4444d065a7f519e2ab0c476df58/mL/2017-04-money-creation-process-data.pdf"
+        },
+        {
+            "label": "Mervyn King (former Governor of the Bank of England), The End of Alchemy: Money, Banking, and the Future of the Global Economy (W. W. Norton, 2016).",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "Federal Reserve Bank of Chicago, Modern Money Mechanics (1961, revised through 1992) — internal Federal Reserve System primer on fractional-reserve money creation; discontinued in the late 1990s but still in wide circulation as a teaching document.",
+            "type": "primary",
+            "url": "https://archive.org/details/ModernMoneyMechanics"
+        }
+    ],
+    "status": "verified",
+    "notes": "BoE 2014 is the canonical modern primary source for the deposits-creating-loans framing. The arithmetic that the principal but not the interest is created at issuance is straightforward accounting; the 'recirculation' counterargument (creditor spending puts the money back into circulation) is real but depends on creditor savings rates being zero — see the chapter framing. Chicago Fed's Modern Money Mechanics is the older U.S.-side primary."
+}

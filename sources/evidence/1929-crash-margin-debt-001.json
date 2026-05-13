@@ -1,0 +1,37 @@
+{
+    "id": "1929-crash-margin-debt-001",
+    "anchor": "y1929-crash",
+    "year": 1929,
+    "era": "i",
+    "themes": [
+        "money",
+        "depression",
+        "asset-transfers",
+        "architecture"
+    ],
+    "claim": "The 1920s stock-market expansion was substantially leveraged: roughly 300 million shares were carried on margin by mid-1929. From the September 3, 1929 Dow peak of 381 to the July 8, 1932 trough of 41.22, the index fell 89%. From the August 1929 cyclical peak to the March 1933 cyclical trough, the U.S. money stock contracted by more than a third — what Milton Friedman and Anna Schwartz named the Great Contraction. Wages fell by close to 40% across the period while debts, fixed by contract, did not. The asymmetry transferred real assets from debtors to creditors. The crash did not redistribute wealth at random.",
+    "sources": [
+        {
+            "label": "Federal Reserve History — “Stock Market Crash of 1929” essay (Federal Reserve Bank of Richmond / Federal Reserve System).",
+            "type": "primary",
+            "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+        },
+        {
+            "label": "Milton Friedman and Anna J. Schwartz, A Monetary History of the United States, 1867–1960 (Princeton University Press, 1963), chapter 7 (“The Great Contraction, 1929–1933”).",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "John Kenneth Galbraith, The Great Crash 1929 (Houghton Mifflin, 1955) — the canonical narrative of the margin-debt-fueled run-up and the 1929–1932 collapse.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "U.S. Bureau of Labor Statistics, historical wage and price series (1929–1933), via FRASER (St. Louis Fed historical archive).",
+            "type": "data",
+            "url": "https://fraser.stlouisfed.org/"
+        }
+    ],
+    "status": "verified",
+    "notes": "F&S's 'over a third' / 33%+ contraction figure is the canonical number for M2 1929–1933 and is the source for the user's '33%' figure. The Dow peak/trough numbers (381.17 / 41.22) are exact. Wage decline figures vary by series and definition: the ~42% in the user-supplied prose is plausible for nominal manufacturing wages or specific BLS series; using 'close to 40%' here keeps the claim defensible across multiple BLS/FRASER series."
+}

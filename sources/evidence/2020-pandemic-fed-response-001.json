@@ -1,0 +1,37 @@
+{
+    "id": "2020-pandemic-fed-response-001",
+    "anchor": "y2020-pandemic-response",
+    "year": 2020,
+    "era": "iv",
+    "themes": [
+        "federal-reserve",
+        "pandemic",
+        "billionaires",
+        "asset-transfers"
+    ],
+    "claim": "Between March and June 2020, the Federal Reserve expanded its balance sheet by approximately $3 trillion in response to the COVID-19 financial-market disruption — among the fastest such expansions in U.S. monetary history. The S&P 500 fell 34% from its February 19, 2020 peak (3,386) to its March 23 trough (2,237), and recovered the prior peak within roughly five months — the fastest recovery from a bear-market drawdown on record. Over the same March–September window, U.S. billionaire wealth increased by approximately $1.3 trillion (Institute for Policy Studies, “Billionaire Bonanza 2020”). U.S. real average hourly earnings then declined for 25 consecutive months from April 2021 through April 2023 as post-stimulus inflation outran wages.",
+    "sources": [
+        {
+            "label": "Board of Governors of the Federal Reserve System — H.4.1 Statistical Release (Factors Affecting Reserve Balances), weekly balance-sheet data, March–June 2020.",
+            "type": "primary",
+            "url": "https://www.federalreserve.gov/releases/h41/"
+        },
+        {
+            "label": "Institute for Policy Studies, “Billionaire Bonanza 2020: Wealth Windfalls, Tumbling Taxes, and Pandemic Profiteers” (Collins, Ocampo, Paslaski; April 2020 and follow-on updates through 2021).",
+            "type": "secondary",
+            "url": "https://ips-dc.org/billionaire-bonanza-2020/"
+        },
+        {
+            "label": "S&P Dow Jones Indices — S&P 500 historical daily close data (Feb 19, 2020 peak at 3,386.15; Mar 23, 2020 trough at 2,237.40; Aug 18, 2020 prior-peak recovery).",
+            "type": "data",
+            "url": "https://www.spglobal.com/spdji/en/indices/equity/sp-500/"
+        },
+        {
+            "label": "U.S. Bureau of Labor Statistics — Real Earnings news releases, April 2021 through April 2023 (25 consecutive months of year-over-year decline in real average hourly earnings).",
+            "type": "primary",
+            "url": "https://www.bls.gov/news.release/realer.toc.htm"
+        }
+    ],
+    "status": "verified",
+    "notes": "Fed H.4.1 is the canonical primary for the balance-sheet expansion (from ~$4.2T in early March 2020 to ~$7.2T by mid-June 2020 — roughly $3T). The IPS billionaire-wealth series is the most-cited secondary tracking; their methodology draws on Forbes real-time data, which has known limitations but is the public-facing standard. The S&P recovery timeline (Feb 19 → Mar 23 → Aug 18) is verifiable across multiple market-data providers. BLS's 25-month consecutive real-earnings decline is a well-publicized statistic during the post-pandemic inflation cycle."
+}

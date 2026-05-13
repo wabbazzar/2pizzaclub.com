@@ -1,0 +1,38 @@
+{
+    "id": "2008-fed-emergency-lending-001",
+    "anchor": "y2008",
+    "year": 2008,
+    "era": "iii",
+    "themes": [
+        "bailout",
+        "federal-reserve",
+        "inequality",
+        "asset-transfers"
+    ],
+    "claim": "A 2011 Government Accountability Office audit of Federal Reserve emergency lending — the first audit of its kind, mandated by Section 1109 of the Dodd–Frank Act — found that the cumulative gross value of the Fed's emergency loans across all facilities between December 2007 and July 2010 was approximately $16.1 trillion. (The peak outstanding balance was smaller — around $1+ trillion in late 2008 — because many of the loans were short-term and rolled over many times; the $16 trillion figure is the sum of every issuance, not the peak balance.) Asset prices recovered faster than wages did. From 2009 through 2012, the top 1% of U.S. households captured roughly 95% of all real-income growth in the recovery (Saez). Top-decile households owned the bulk of equities (the Federal Reserve's Survey of Consumer Finances puts the top 10% share of stock ownership in the high 80s). Approximately 8 million U.S. households lost their homes to foreclosure over the same period.",
+    "sources": [
+        {
+            "label": "U.S. Government Accountability Office, “Federal Reserve System: Opportunities Exist to Strengthen Policies and Processes for Managing Emergency Assistance” (GAO-11-696, July 21, 2011) — the Dodd–Frank-mandated audit, with Table 8 showing the cumulative facility-level loan totals.",
+            "type": "primary",
+            "url": "https://www.gao.gov/assets/gao-11-696.pdf"
+        },
+        {
+            "label": "Emmanuel Saez, “Striking it Richer: The Evolution of Top Incomes in the United States” (Berkeley, updated September 3, 2013, with 2009–2012 estimates).",
+            "type": "primary",
+            "url": "https://eml.berkeley.edu/~saez/saez-UStopincomes-2012.pdf",
+            "quote": "From 2009 to 2012, the top 1% captured 95% of the total real income growth in the United States."
+        },
+        {
+            "label": "Federal Reserve Board, 2022 Survey of Consumer Finances (latest triennial release) — Table 6, stock holdings by wealth percentile.",
+            "type": "primary",
+            "url": "https://www.federalreserve.gov/publications/files/scf23.pdf"
+        },
+        {
+            "label": "RealtyTrac / ATTOM Data Solutions — U.S. foreclosure statistics, 2007–2014 (cumulative foreclosure starts running ~8 million across the crisis period).",
+            "type": "data",
+            "url": "https://www.attomdata.com/news/foreclosures/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The $16.1T cumulative figure is from Table 8 of GAO-11-696 and is the source of the widely-cited number; it is technically accurate but routinely misinterpreted as 'peak balance.' Including the rollover caveat in-line is the editorial honesty required. Saez's 95% number is precisely from the 2013 Striking it Richer update; later revisions adjusted it slightly. SCF stock-ownership concentration in the top decile has held in the high 80s across multiple recent vintages; the most recent SCF (2022) shows ~89%."
+}

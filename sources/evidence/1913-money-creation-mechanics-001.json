@@ -9,7 +9,7 @@
         "debt",
         "architecture"
     ],
-    "claim": "When a commercial bank makes a loan, it does not lend out pre-existing deposits. It creates a new deposit equal to the loan amount, expanding the money supply by the principal. It does not, however, create the interest. The structural consequence is that the total stock of debt in the system always exceeds the total stock of money to service it, so continued credit expansion is required simply to meet existing obligations. The Bank of England documented this mechanic in plain language in its 2014 Quarterly Bulletin; the Bundesbank's 2017 monthly report says the same thing. The accounting is not a conspiracy. It is the operating system of modern fiat banking — and the architectural reason every contraction transfers real assets directionally.",
+    "claim": "When a commercial bank makes a loan, it does not lend out pre-existing deposits. It creates a new deposit equal to the loan amount, expanding the money supply by the principal. It does not create the interest. Total debt in the system therefore exceeds total money in circulation, and continued credit expansion is required to service existing debt. The Bank of England documented this mechanic in plain language in its 2014 Quarterly Bulletin; the Bundesbank's 2017 monthly report says the same thing.",
     "sources": [
         {
             "label": "Michael McLeay, Amar Radia & Ryland Thomas, “Money creation in the modern economy,” Bank of England Quarterly Bulletin 2014 Q1, vol. 54, no. 1, pp. 14–27.",

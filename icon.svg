@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="2pizzaclub.com">
+    <!-- bus-yellow rounded square with thick black border -->
+    <rect width="256" height="256" rx="40" fill="#FFD93D"/>
+    <rect x="6" y="6" width="244" height="244" rx="34" fill="none" stroke="#1A1A2E" stroke-width="10"/>
+
+    <!-- saturn ring (back half) -->
+    <ellipse cx="128" cy="128" rx="108" ry="22" fill="none" stroke="#1A1A2E" stroke-width="10"/>
+    <ellipse cx="128" cy="128" rx="108" ry="22" fill="none" stroke="#FFF8E7" stroke-width="4"/>
+
+    <!-- planet body: blue base circle -->
+    <circle cx="128" cy="128" r="70" fill="#1B3FB5" stroke="#1A1A2E" stroke-width="6"/>
+
+    <!-- pizza wedge: red slice from the top going clockwise to the lower-right -->
+    <path d="M 128 128 L 128 58 A 70 70 0 0 1 188.6 163 Z"
+                fill="#E63946" stroke="#1A1A2E" stroke-width="6" stroke-linejoin="round"/>
+
+    <!-- pepperoni dots on the red wedge -->
+    <circle cx="146" cy="92" r="6" fill="#FFD93D" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="166" cy="124" r="5" fill="#FFD93D" stroke="#1A1A2E" stroke-width="2"/>
+
+    <!-- saturn ring (front half) sitting on top of the planet body -->
+    <path d="M 20 128 a 108 22 0 0 0 216 0" fill="none" stroke="#1A1A2E" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 20 128 a 108 22 0 0 0 216 0" fill="none" stroke="#FFF8E7" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- corner stars -->
+    <g fill="#FFF8E7" stroke="#1A1A2E" stroke-width="1.6">
+        <circle cx="36" cy="40" r="3.5"/>
+        <circle cx="222" cy="42" r="3.5"/>
+        <circle cx="38" cy="220" r="3.5"/>
+        <circle cx="220" cy="220" r="3.5"/>
+    </g>
+</svg>

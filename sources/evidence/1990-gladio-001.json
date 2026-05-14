@@ -1,0 +1,38 @@
+{
+    "id": "1990-gladio-001",
+    "anchor": "y1990-gladio",
+    "year": 1990,
+    "era": "iii",
+    "themes": [
+        "cia",
+        "nato",
+        "europe",
+        "false-flag",
+        "state-terror"
+    ],
+    "claim": "Operation Gladio was the codename of the Italian branch of a NATO-coordinated network of clandestine “stay-behind” paramilitary cells set up across Western Europe in the late 1940s and 1950s, ostensibly to organize armed resistance in the event of a Soviet invasion. Its existence was officially confirmed on October 24, 1990, when Italian Prime Minister Giulio Andreotti acknowledged the network in a written report to the Italian Parliament, after years of official denials. Italian parliamentary investigations subsequently established that elements of the Italian network had been linked to right-wing terror operations during the country's “Years of Lead” (anni di piombo) — including the August 2, 1980 Bologna train-station bombing that killed 85 people and the December 12, 1969 Piazza Fontana bombing in Milan that killed 17. Documents released to the parliamentary committees did not establish that the original NATO stay-behind charter authorized internal subversion. Stay-behind networks have since been confirmed in Belgium, France, the Netherlands, Germany, Greece, Turkey, Norway, Denmark, Switzerland, Austria, and other NATO and neutral European states; coordination ran through the Allied Clandestine Committee, whose last known meeting was at NATO headquarters in Brussels in October 1990.",
+    "sources": [
+        {
+            "label": "Daniele Ganser, NATO's Secret Armies: Operation GLADIO and Terrorism in Western Europe (Frank Cass / Routledge, 2005).",
+            "type": "secondary",
+            "url": "https://www.routledge.com/NATOs-Secret-Armies-Operation-GLADIO-and-Terrorism-in-Western-Europe/Ganser/p/book/9780714685007"
+        },
+        {
+            "label": "Italian Parliament — Stragi Commission (Commissione parlamentare d'inchiesta sul terrorismo in Italia e sulle cause della mancata individuazione dei responsabili delle stragi), final report (2000).",
+            "type": "primary",
+            "url": "https://www.senato.it/leg/13/BGT/Schede/docnonleg/8125.htm"
+        },
+        {
+            "label": "Statewatch — “Operation Gladio” research aggregator with primary-document index.",
+            "type": "secondary",
+            "url": "https://www.statewatch.org/statewatch-database/operation-gladio/"
+        },
+        {
+            "label": "European Parliament Resolution on the Gladio affair (November 22, 1990) — calling on member states to investigate the networks.",
+            "type": "primary",
+            "url": "https://www.europarl.europa.eu/doceo/document/B-3-1990-2107_EN.html"
+        }
+    ],
+    "status": "verified",
+    "notes": "Ganser's 2005 monograph is the most thorough modern academic treatment in English. The 2000 Italian Stragi Commission report is the primary domestic-investigation record. The November 1990 European Parliament resolution is the canonical pan-European political response. The reel's reference to '150 civilians killed including a three-year-old' is consistent with the Bologna 1980 attack (which killed 85, the youngest a three-year-old child named Angela Fresu) and the cumulative toll of stragi attributed in part to right-wing networks adjacent to Gladio."
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2017-anti-bds-laws-001",
+    "anchor": "y2018-nation-state-law",
+    "year": 2017,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "free-speech",
+        "bds",
+        "state-laws"
+    ],
+    "claim": "As of 2024, between 36 and 38 U.S. states have enacted statutes restricting the ability of state contractors and pension funds to engage in or support boycotts of Israel — collectively known as anti-BDS laws (referencing the Boycott, Divestment, and Sanctions movement). The earliest such statutes were enacted in South Carolina and Illinois in 2015; the model legislation has since been adopted with variations across most U.S. states. The laws typically require any person or company seeking a state contract above a threshold value to certify that the contractor does not boycott Israel. Federal courts have struck down or partially blocked anti-BDS laws in Kansas (Koontz v. Watson, 2018), Arizona (Jordahl v. Brnovich, 2018), Texas (Amawi v. Pflugerville ISD, 2019), and Arkansas (Arkansas Times v. Waldrip, 2021), each on First Amendment grounds. The U.S. Supreme Court declined to review the Arkansas appeal in February 2023, leaving in place an Eighth Circuit decision that upheld the state law.",
+    "sources": [
+        {
+            "label": "American Civil Liberties Union — “Anti-Boycott Laws,” aggregator with state-by-state status and federal-court litigation index.",
+            "type": "primary",
+            "url": "https://www.aclu.org/issues/free-speech/rights-protesters/anti-boycott-laws"
+        },
+        {
+            "label": "Wikipedia — “Anti-BDS laws,” canonical aggregator with state-by-state list and federal litigation history.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Anti-BDS_laws"
+        },
+        {
+            "label": "Al Jazeera — “Top US court refuses to review anti-BDS law. Here's what it means” (February 21, 2023), on the Supreme Court's denial of certiorari in the Arkansas Times case.",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2023/2/21/top-us-court-refused-to-review-anti-bds-law-heres-what-it-means"
+        },
+        {
+            "label": "Palestine Legal — “The Right to Boycott: BDS and the First Amendment” research portal.",
+            "type": "primary",
+            "url": "https://palestinelegal.org/the-right-to-boycott"
+        }
+    ],
+    "status": "verified",
+    "notes": "The ACLU's anti-boycott aggregator is the canonical legal-policy primary record. The reel's '38 states' figure is at the upper end of the range cited in mainstream press; the actual count varies by methodology (some lists count only enacted statutes, others include executive orders and pending legislation)."
+}

@@ -1,0 +1,45 @@
+{
+    "id": "DW_xxVLja17",
+    "url": "https://www.instagram.com/reel/DW_xxVLja17/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@rant.board",
+    "author_display_name": "Cole Soiney",
+    "posted_at": "2026-04-11",
+    "engagement": {
+        "likes": 4851,
+        "comments": 84
+    },
+    "caption": "ISRAEL PT 2 - Oct. 7th, Gaza & the influence on American policy\n\nI have an hour breakdown on my podcast if you want a deeper dive! \n\n#fyp #israel #middleeast #gaza #education",
+    "hashtags": [
+        "fyp",
+        "israel",
+        "middleeast",
+        "gaza",
+        "education"
+    ],
+    "audio_track_actual": "Same speaker continues into the contemporary Israel/Gaza thread, this time with on-screen citations to specific casualty totals, U.S. aid figures, and Israel-lobby campaign-finance numbers.",
+    "video_overlay_text_observed": "On-screen captions and graphics with the May 2025 Gaza casualty figures, AIPAC spending totals, Adelson donation amounts, and U.S./Israel aid totals.",
+    "audio_content_summary": "The speaker connects the IDF's October 7 response (an 8-12 hour gap against an exercise scenario that anticipated 30-60 minutes), Netanyahu's domestic political situation (the largest protest movement in Israeli history against his judicial-overhaul plans plus his ongoing Cases 1000/2000/4000 corruption trial), the May 2025 Gaza casualty totals (100,000 tons of explosives — equivalent to roughly eight Hiroshimas — at minimum 72,000 confirmed killed, 70 percent women and children, 1,000 medical workers, 300 journalists, 4,000-plus pediatric amputees, 60 percent of homes destroyed, 89 percent of water infrastructure damaged), the Sde Teiman detainee-abuse case and Netanyahu's “blood libel” response, the Jonathan Pollard espionage release, the U.S. aid commitment ($300 billion since 1946 with $3.8 billion annually through 2028), AIPAC's $14.5 million spend against Rep. Jamaal Bowman in the 2024 primary, Miriam Adelson's $100 million 2024 donation to Trump, and the anti-BDS legislation in approximately 36-38 U.S. states.",
+    "implied_frame": "The video frames the May 2025 Gaza war metrics, the institutional shielding mechanisms (anti-BDS laws, IDF Sde Teiman dismissal, Pollard release), and the U.S.-domestic political-finance architecture (AIPAC, Adelson, anti-BDS) as components of a single coordinated U.S.-Israel relationship. Each numerical claim cited has primary documentation: Gaza casualty totals via Lancet/UN OCHA/Save the Children/IPC, AIPAC spending via FEC and OpenSecrets, Adelson via FEC, anti-BDS via ACLU and Palestine Legal, Sde Teiman via the IDF Military Advocate General and the contemporaneous Israeli press.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~38 MB, vp9 720x1280, 179s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2024-aipac-bowman-001",
+        "2024-adelson-trump-001",
+        "2017-anti-bds-laws-001",
+        "2025-gaza-may2025-update-001",
+        "2026-sde-teiman-001",
+        "1985-pollard-001",
+        "2020-netanyahu-corruption-001",
+        "2024-us-israel-aid-001"
+    ],
+    "supporting_research_links": [
+        "https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024",
+        "https://www.aclu.org/issues/free-speech/rights-protesters/anti-boycott-laws",
+        "https://en.wikipedia.org/wiki/Sde_Teiman_detention_camp",
+        "https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu",
+        "https://costsofwar.watson.brown.edu/"
+    ]
+}

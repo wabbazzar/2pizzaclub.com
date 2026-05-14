@@ -1,0 +1,37 @@
+{
+    "id": "1948-nakba-001",
+    "anchor": "y1948-nakba",
+    "year": 1948,
+    "era": "ii",
+    "themes": [
+        "israel",
+        "palestine",
+        "displacement",
+        "1948"
+    ],
+    "claim": "During the war that began with the U.N. partition of Palestine (Resolution 181, November 29, 1947) and continued through the 1948-49 Arab-Israeli War, between 700,000 and 750,000 Palestinian Arabs — approximately half of the predominantly Arab population of pre-1948 Palestine — were expelled from their homes or fled, and between 400 and 600 Palestinian villages were systematically destroyed by Zionist paramilitaries and, after May 14, 1948, by the newly established Israel Defense Forces. The events are collectively known in Palestinian historiography as the Nakba (Arabic for “catastrophe”). The U.N. General Assembly addressed the displacement in Resolution 194 (December 11, 1948), which called for refugees who chose to return to their homes to be permitted to do so and for compensation for those who chose not to. The right of return has not been implemented; the descendants of the 1948 refugees, now several million people, retain refugee status under the U.N. Relief and Works Agency (UNRWA), founded in 1949 to administer their case.",
+    "sources": [
+        {
+            "label": "United Nations Office of the High Commissioner for Human Rights / U.N. Question of Palestine — “About the Nakba,” official summary with primary-document citations.",
+            "type": "primary",
+            "url": "https://www.un.org/unispal/about-the-nakba/"
+        },
+        {
+            "label": "U.N. General Assembly Resolution 194 (III), December 11, 1948 — Palestine: Progress Report of the United Nations Mediator (full text).",
+            "type": "primary",
+            "url": "https://www.un.org/unispal/document/auto-insert-189973/"
+        },
+        {
+            "label": "Benny Morris, The Birth of the Palestinian Refugee Problem Revisited (Cambridge University Press, 2004) — the canonical modern Israeli historiography on the displacement.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "Walid Khalidi (ed.), All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948 (Institute for Palestine Studies, 1992) — village-by-village documentation.",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "Morris's revisionist Israeli history (drawing on declassified IDF and Haganah records) is the load-bearing modern academic source. Khalidi's All That Remains is the canonical Palestinian-side village-by-village record. The U.N. UNISPAL portal is the cleanest official-source aggregator for the period."
+}

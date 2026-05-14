@@ -1,0 +1,32 @@
+{
+    "id": "1996-clean-break-001",
+    "anchor": "y1996-clean-break",
+    "year": 1996,
+    "era": "iii",
+    "themes": [
+        "israel",
+        "neoconservatism",
+        "iraq",
+        "regime-change"
+    ],
+    "claim": "“A Clean Break: A New Strategy for Securing the Realm” was a policy paper produced in July 1996 by a study group at the Institute for Advanced Strategic and Political Studies (IASPS), a Jerusalem-based think tank, and presented to incoming Israeli Prime Minister Benjamin Netanyahu. The study group was led by Richard Perle (former U.S. Assistant Secretary of Defense and later chairman of the Defense Policy Board under George W. Bush), with co-authors including Douglas Feith (later Under Secretary of Defense for Policy under Bush), James Colbert, Charles Fairbanks Jr., Jonathan Torop, and David and Meyrav Wurmser. The paper recommended that Israel “make a clean break” from the Oslo Accords with the Palestinians and pursue regional security through “regime change” in surrounding states — explicitly naming the removal of Saddam Hussein in Iraq as “an important Israeli strategic objective in its own right” and proposing the destabilization of Syria, Lebanon, and Iran. Several of the paper's authors went on to senior policy roles in the George W. Bush administration that planned and executed the 2003 Iraq invasion.",
+    "sources": [
+        {
+            "label": "Institute for Advanced Strategic and Political Studies (IASPS) — “A Clean Break: A New Strategy for Securing the Realm,” July 1996, full text mirrored at Douglas Feith's archive.",
+            "type": "primary",
+            "url": "https://www.dougfeith.com/docs/Clean_Break.pdf"
+        },
+        {
+            "label": "George Packer, The Assassins' Gate: America in Iraq (Farrar, Straus and Giroux, 2005), chapters on the neoconservative case for the Iraq War.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "Wikipedia — “A Clean Break: A New Strategy for Securing the Realm,” canonical aggregator with author and citation index.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/A_Clean_Break:_A_New_Strategy_for_Securing_the_Realm"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Feith-archive PDF is the canonical primary text. Packer's 2005 book is the standard journalistic narrative on how the Clean Break authors moved from Israeli policy advisors in 1996 to U.S. Defense Department policy roles in 2001-2003. The reel's framing of this as the bridge between Netanyahu's Israeli security doctrine and the Bush-era Iraq War is consistent with mainstream foreign-policy historiography."
+}

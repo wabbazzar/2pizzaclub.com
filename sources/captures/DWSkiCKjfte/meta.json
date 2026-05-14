@@ -1,0 +1,42 @@
+{
+    "id": "DWSkiCKjfte",
+    "url": "https://www.instagram.com/reel/DWSkiCKjfte/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@rant.board",
+    "author_display_name": "Cole Soiney",
+    "posted_at": "2026-03-24",
+    "engagement": {
+        "likes": 8841,
+        "comments": 205
+    },
+    "caption": "What the CIA has been up to for the last 80 years… PART 2\n\n#fyp #mkultra #mockingbird #cia #epstein",
+    "hashtags": [
+        "fyp",
+        "mkultra",
+        "mockingbird",
+        "cia",
+        "epstein"
+    ],
+    "audio_track_actual": "Single male narrator continuing the @rant.board enumeration of declassified U.S. intelligence-community programs. Picks up at item #5 mid-list, sprints through Vietnam-era and post-Vietnam programs, ends mid-sentence at the Twitter Files.",
+    "video_overlay_text_observed": "On-screen captions naming each program: OPERATION CHAOS, PROJECT MINARET, OPERATION MOCKINGBIRD, IRAN-CONTRA, OPERATION GLADIO, PATRIOT ACT, SNOWDEN/NSA, TWITTER FILES.",
+    "audio_content_summary": "The narrator continues the previous reel's enumeration of CIA and FBI operations. New programs introduced: Operation CHAOS (CIA domestic surveillance on the anti-war movement), Project MINARET (NSA watch-list monitoring of U.S. citizens), Operation Mockingbird (CIA recruitment of journalists, with the speaker citing both the 400-asset figure from Carl Bernstein's 1977 reporting and the Church Committee's more conservative 50-journalist count), the censorship-industrial-complex framing associated with researcher Mike Benz, the U.S. and New Zealand status as the only countries permitting direct-to-consumer prescription drug advertising, the 1985-87 Iran-Contra affair (with the narrator linking arms dealer Adnan Khashoggi and Robert Maxwell into the Reagan-era back-channel), and Operation Gladio (NATO stay-behind networks in postwar Europe). The reel ends mid-sentence at the Snowden/NSA and Twitter Files era.",
+    "implied_frame": "The video frames declassified U.S. intelligence-community history as a baseline of what is on the public record — using each named program as evidence that contemporary skepticism of state and media institutions is grounded in documented institutional behavior. Each program named in the reel and added under this entry has primary documentation through congressional hearings, FOIA-released agency files, or Independent Counsel investigations.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~38 MB, vp9 720x1280, 180s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "1948-mockingbird-001",
+        "1967-chaos-minaret-001",
+        "1985-iran-contra-001",
+        "1990-gladio-001",
+        "1997-dtca-pharma-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Operation_CHAOS",
+        "https://en.wikipedia.org/wiki/Project_MINARET",
+        "https://en.wikipedia.org/wiki/Operation_Mockingbird",
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+        "https://en.wikipedia.org/wiki/Operation_Gladio"
+    ]
+}

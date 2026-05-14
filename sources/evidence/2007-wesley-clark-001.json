@@ -1,0 +1,32 @@
+{
+    "id": "2007-wesley-clark-001",
+    "anchor": "y2007-wesley-clark",
+    "year": 2007,
+    "era": "iii",
+    "themes": [
+        "iraq",
+        "regime-change",
+        "pentagon",
+        "neoconservatism"
+    ],
+    "claim": "On March 2, 2007, retired General Wesley Clark — former NATO Supreme Allied Commander Europe and a 2004 Democratic presidential candidate — told Amy Goodman of Democracy Now! that, in late September or early October 2001, a senior Pentagon officer had shown him a memorandum from then-Secretary of Defense Donald Rumsfeld's office describing a plan to “take out seven countries in five years” starting with Iraq, then Syria, Lebanon, Libya, Somalia, Sudan, and finally Iran. Clark recounted the same conversation, in slightly different form, in his 2003 book Winning Modern Wars and again in a 2007 speech at the Commonwealth Club of California. Clark has not named the senior officer. The 2003 invasion of Iraq, the 2011 NATO intervention in Libya, the 2011-onward U.S. involvement in Syria, U.S. drone and special-operations campaigns in Somalia (ongoing) and Yemen, and the 2025 U.S. and Israeli strikes on Iranian nuclear facilities have substantially intersected the list Clark described.",
+    "sources": [
+        {
+            "label": "Democracy Now! — “Gen. Wesley Clark Weighs Presidential Bid: ‘I Think About It Every Day’” (March 2, 2007), full transcript and video.",
+            "type": "primary",
+            "url": "https://www.democracynow.org/2007/3/2/gen_wesley_clark_weighs_presidential_bid"
+        },
+        {
+            "label": "Wesley K. Clark, Winning Modern Wars: Iraq, Terrorism, and the American Empire (PublicAffairs, 2003).",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "Salon — “Seven countries in five years” (Glenn Greenwald, October 12, 2007), one of the earliest mainstream-press treatments.",
+            "type": "secondary",
+            "url": "https://www.salon.com/2007/10/12/wesley_clark/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Democracy Now! transcript is the canonical primary record. Clark's 2003 book provides the earliest written reference. The speech at the Commonwealth Club (October 2007) is on YouTube and is the most-viewed video of the account. Clark has consistently declined to name the source officer."
+}

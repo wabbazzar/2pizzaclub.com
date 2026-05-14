@@ -1,0 +1,37 @@
+{
+    "id": "1948-mockingbird-001",
+    "anchor": "y1948-mockingbird",
+    "year": 1948,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "media",
+        "journalism",
+        "propaganda"
+    ],
+    "claim": "Operation Mockingbird is the informal name applied to the CIA's recruitment of U.S. journalists and editors as intelligence assets and propaganda conduits, beginning in the late 1940s under Director of Central Intelligence Allen Dulles and his deputy Frank Wisner. The program's existence and scope first surfaced in the 1975-76 Church Committee investigation, which identified roughly fifty journalists with documented secret relationships with the CIA. In “The CIA and the Media,” published in Rolling Stone on October 20, 1977 after six months of reporting on Church Committee material, journalist Carl Bernstein expanded the count to more than 400 American journalists who had carried out CIA assignments — among them New York Times publisher Arthur Hays Sulzberger and senior editors at CBS, Time, Newsweek, the Associated Press, Reuters, and the Hearst chain. In response to the disclosures, CIA Director Stansfield Turner issued a February 1977 directive formally barring the agency from contractual or paid relationships with full-time or part-time U.S. journalists accredited to domestic news organizations.",
+    "sources": [
+        {
+            "label": "Carl Bernstein, “The CIA and the Media,” Rolling Stone, October 20, 1977.",
+            "type": "primary",
+            "url": "https://www.carlbernstein.com/the-cia-and-the-media-rolling-stone-10-20-1977"
+        },
+        {
+            "label": "U.S. Church Committee — Final Report, Book I (Foreign and Military Intelligence), April 1976, “The CIA and the Media” section.",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/94755_I.pdf"
+        },
+        {
+            "label": "U.S. Senate — “Church Committee” program overview and final-report archive.",
+            "type": "primary",
+            "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+        },
+        {
+            "label": "Hugh Wilford, The Mighty Wurlitzer: How the CIA Played America (Harvard University Press, 2008).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "Bernstein's 1977 Rolling Stone piece is the canonical investigative record on the journalist-asset relationships. The Church Committee's official 1976 finding is more conservative (~50 journalists with documented relationships) than Bernstein's; both numbers are on the public record and the gap is the editorial point. Wilford's 2008 Harvard book is the most thorough modern academic treatment."
+}

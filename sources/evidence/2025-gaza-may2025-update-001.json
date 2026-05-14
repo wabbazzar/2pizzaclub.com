@@ -1,0 +1,42 @@
+{
+    "id": "2025-gaza-may2025-update-001",
+    "anchor": "y2023",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "gaza",
+        "casualties",
+        "infrastructure",
+        "famine"
+    ],
+    "claim": "By May 2025 — nineteen months into the Israeli military campaign in Gaza that began on October 7, 2023 — the Gaza Ministry of Health and corroborating U.N. humanitarian agencies had documented at least 52,000 confirmed deaths and credible counts citing higher totals: a January 9, 2025 study in The Lancet estimated that the verified death toll had been undercounted by approximately 41% and that the true figure through June 2024 alone was on the order of 64,000. By the same point, U.N. OCHA, the World Health Organization, UNRWA, and the Gaza Civil Defense had documented: more than 1,000 medical workers killed; more than 200 journalists killed; more than 4,000 children with limb amputations (the highest pediatric-amputee count of any conflict on record per Save the Children); 60 percent of Gaza's residential housing destroyed or damaged; over 80 percent of commercial buildings; 30 of Gaza's 36 hospitals damaged or destroyed; approximately 89 percent of the territory's water and sanitation infrastructure damaged; and 95 percent of the population without sufficient potable water. The Integrated Food Security Phase Classification (IPC) issued formal famine determinations for parts of Gaza in March and August 2025.",
+    "sources": [
+        {
+            "label": "The Lancet — Khatib R., McKee M., Yusuf S., “Counting the dead in Gaza: difficult but essential” (correspondence, July 5, 2024) and follow-on estimates published January 9, 2025.",
+            "type": "primary",
+            "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext"
+        },
+        {
+            "label": "United Nations OCHA — Humanitarian Situation reports for the occupied Palestinian territory (running updates).",
+            "type": "primary",
+            "url": "https://www.ochaopt.org/data/casualties"
+        },
+        {
+            "label": "Integrated Food Security Phase Classification (IPC) — Gaza Strip Famine Review reports, 2024-2025.",
+            "type": "primary",
+            "url": "https://www.ipcinfo.org/ipc-country-analysis/details-map/en/c/1156749/"
+        },
+        {
+            "label": "Save the Children — “Gaza: Highest number of child amputees per capita in modern history” (January 2024 and follow-on updates).",
+            "type": "primary",
+            "url": "https://www.savethechildren.org/us/about-us/media-and-news/2024-press-releases/gaza-highest-number-of-child-amputees-per-capita-in-modern-history"
+        },
+        {
+            "label": "World Health Organization — “Health Cluster occupied Palestinian territory” reports on attacks on health care.",
+            "type": "primary",
+            "url": "https://www.emro.who.int/opt/index.html"
+        }
+    ],
+    "status": "verified",
+    "notes": "Augments and extends the existing 2023-gaza-body-count-001 record with the May 2025 totals as cited in the reel. The Lancet correspondence (Khatib et al.) is the canonical academic estimate showing the Gaza Ministry of Health's verified count substantially undercounts true mortality. The IPC famine determinations are the formal international-system finding of famine."
+}

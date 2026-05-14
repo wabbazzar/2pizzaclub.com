@@ -1,0 +1,37 @@
+{
+    "id": "1997-dtca-pharma-001",
+    "anchor": "y1997-dtca",
+    "year": 1997,
+    "era": "iii",
+    "themes": [
+        "pharma",
+        "media",
+        "advertising",
+        "regulation"
+    ],
+    "claim": "In August 1997, the U.S. Food and Drug Administration issued a draft guidance document loosening the disclosure requirements for direct-to-consumer broadcast advertising of prescription drugs — the regulatory change that opened the door to the modern televised pharmaceutical-ad market. As of 2024, the United States and New Zealand are the only two countries in the world that permit prescription-drug advertising aimed directly at consumers in mass media. U.S. pharmaceutical advertising spending on television and digital media has grown to roughly $7.8 billion per year by 2023, with broader pharmaceutical promotional spending — including direct-to-physician marketing and journal advertising — totaling on the order of $30-40 billion annually. The American Medical Association formally called for a ban on direct-to-consumer prescription-drug advertising in 2015; no federal restriction has been enacted.",
+    "sources": [
+        {
+            "label": "U.S. Food and Drug Administration — “Guidance for Industry: Consumer-Directed Broadcast Advertisements,” final guidance issued August 1999 (incorporating the 1997 draft).",
+            "type": "primary",
+            "url": "https://www.fda.gov/media/75406/download"
+        },
+        {
+            "label": "American Medical Association — “AMA Calls for Ban on Direct to Consumer Advertising of Prescription Drugs and Medical Devices” (November 17, 2015).",
+            "type": "primary",
+            "url": "https://www.ama-assn.org/press-center/press-releases/ama-calls-ban-direct-consumer-advertising-prescription-drugs-and-medical"
+        },
+        {
+            "label": "Statista — “Direct-to-consumer pharmaceutical advertising spending in the United States from 2018 to 2024” (industry data aggregator).",
+            "type": "data",
+            "url": "https://www.statista.com/statistics/686906/dtc-pharmaceutical-ad-spend-usa/"
+        },
+        {
+            "label": "Health Affairs — Schwartz, L. M., & Woloshin, S., “Medical Marketing in the United States, 1997-2016,” JAMA, 321(1):80-96 (January 1, 2019).",
+            "type": "secondary",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2720029"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1997 FDA draft guidance (finalized 1999) is the canonical regulatory pivot. The Schwartz-Woloshin JAMA paper is the most-cited academic survey of medical-marketing spend across the post-1997 era. The reel's '$40 billion' figure is in the right order of magnitude for total pharma promotional spending; the share spent specifically on TV news direct-to-consumer ads is a smaller fraction of that total."
+}

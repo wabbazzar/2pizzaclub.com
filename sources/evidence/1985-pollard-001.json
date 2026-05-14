@@ -1,0 +1,37 @@
+{
+    "id": "1985-pollard-001",
+    "anchor": "y1985-pollard",
+    "year": 1985,
+    "era": "iii",
+    "themes": [
+        "espionage",
+        "israel",
+        "intelligence",
+        "us-israel"
+    ],
+    "claim": "Jonathan Pollard, a civilian intelligence analyst at the U.S. Naval Investigative Service, was arrested on November 21, 1985 outside the Israeli Embassy in Washington, D.C. while attempting to seek asylum after his espionage activities had been detected. From June 1984 until his arrest, Pollard sold a substantial volume of classified U.S. intelligence to Israel — including, according to the CIA's 1987 damage assessment, the National Security Agency's ten-volume signals-intelligence manual and the names of U.S. intelligence assets abroad. He pleaded guilty to one count of delivering national defense information to a foreign government and was sentenced in 1987 to life in prison. He was paroled in November 2015 after thirty years; in November 2020, the U.S. Department of Justice allowed his five-year parole to expire, and at the end of December 2020 Pollard and his wife flew from the United States to Israel aboard a private jet owned by Republican mega-donor Sheldon Adelson. President Trump pardoned Pollard's Israeli handler Aviem Sella in his final days in office. The 1987 CIA damage assessment was declassified in redacted form in December 2012.",
+    "sources": [
+        {
+            "label": "Central Intelligence Agency — “The Jonathan Jay Pollard Espionage Case: A Damage Assessment” (October 30, 1987), declassified December 14, 2012.",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/document/22074-document-1-cia-counterintelligence-staff-jonathan-jay-pollard"
+        },
+        {
+            "label": "National Security Archive (GWU) — “Jonathan Pollard: Revisiting a Still Sensitive Case” (Briefing Book No. 407, December 14, 2012).",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2012-12-14/jonathan-pollard-spy-case-cias-1987-damage-assessment-declassified"
+        },
+        {
+            "label": "The Washington Post — “Jonathan Pollard, convicted spy, arrives in Israel in Trump parting gift” (December 30, 2020).",
+            "type": "secondary",
+            "url": "https://www.washingtonpost.com/world/middle_east/pollard-israel-spy-trump-netanyahu/2020/12/30/76a52f38-4a59-11eb-97b6-4eb9f72ff46b_story.html"
+        },
+        {
+            "label": "The Times of Israel — “At Israel's request, Trump pardons Israeli handler of spy Jonathan Pollard” (January 2021).",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/at-israels-request-trump-pardons-israeli-handler-of-spy-jonathan-pollard/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1987 CIA damage assessment is the canonical primary record on what Pollard transferred. The reel's reference to Pollard publicly encouraging other American Jews in U.S. intelligence to spy for Israel after his release is consistent with statements he made in Israeli media and at Israeli policy events from 2021 onward."
+}

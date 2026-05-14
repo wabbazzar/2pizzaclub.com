@@ -1,0 +1,38 @@
+{
+    "id": "2025-netanyahu-iran-nuclear-001",
+    "anchor": "y2023",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "iran",
+        "israel",
+        "netanyahu",
+        "nuclear",
+        "wmd"
+    ],
+    "claim": "Benjamin Netanyahu has publicly claimed that Iran is on the verge of acquiring nuclear weapons since 1992, when as a member of the Israeli Knesset he stated that Iran was “three to five years away” from a bomb. He repeated variations of the same claim in his 1995 book Fighting Terrorism (“three to five years”), in his September 2002 testimony to the U.S. House Committee on Government Reform on Iraq (Iran's nuclear program would be “very advanced” soon), at the U.N. General Assembly in 2012 (brandishing a cartoon bomb diagram and saying Iran would have enough enriched uranium “by next spring, at most by next summer” for a weapon), in 2015 in opposition to the Joint Comprehensive Plan of Action, and again in 2018, 2023, and 2025. In June 2025, Israel — backed by U.S. air strikes — attacked Iranian nuclear facilities, with Netanyahu stating that Iran could produce a weapon “in a very short time.” As of mid-2026, the International Atomic Energy Agency has not certified Iranian production of a deliverable nuclear weapon. Leaked Israeli intelligence cables published by Al Jazeera in 2015 had assessed, contemporaneously to one of Netanyahu's earlier warnings, that Iran was not actively developing a weapon.",
+    "sources": [
+        {
+            "label": "Al Jazeera — “The history of Netanyahu's rhetoric on Iran's nuclear ambitions” (June 18, 2025), with a chronological annotated quote list.",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/gallery/2025/6/18/the-history-of-netanyahus-rhetoric-on-irans-nuclear-ambitions"
+        },
+        {
+            "label": "The Intercept — “Benjamin Netanyahu's Long History of Crying Wolf About Iran's Nuclear Weapons” (Murtaza Hussain, March 2, 2015).",
+            "type": "secondary",
+            "url": "https://theintercept.com/2015/03/02/brief-history-netanyahu-crying-wolf-iranian-nuclear-bomb/"
+        },
+        {
+            "label": "Al Jazeera — “The Spy Cables: Mossad contradicted Netanyahu on Iran nuclear programme” (February 23, 2015), reporting on the leaked Mossad cables.",
+            "type": "primary",
+            "url": "https://www.aljazeera.com/news/2015/2/23/the-spy-cables-mossad-contradicted-netanyahu-on-iran-nuclear-programme"
+        },
+        {
+            "label": "International Atomic Energy Agency — Director General reports on the verification and monitoring in the Islamic Republic of Iran in light of UNSC Resolution 2231 (most-recent quarterly).",
+            "type": "primary",
+            "url": "https://www.iaea.org/newscenter/focus/iran/iaea-and-iran"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Al Jazeera 2015 reporting on the leaked Mossad cables is the strongest documentary contradiction of Netanyahu's contemporaneous public claims. The IAEA quarterly reports are the canonical primary source on Iranian nuclear program status. The Intercept compilation is the most-cited Western journalistic assembly of Netanyahu's serial warnings."
+}

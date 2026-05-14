@@ -1,0 +1,38 @@
+{
+    "id": "2003-costs-of-war-001",
+    "anchor": "y2003",
+    "year": 2003,
+    "era": "iii",
+    "themes": [
+        "iraq",
+        "afghanistan",
+        "war-on-terror",
+        "casualties",
+        "spending"
+    ],
+    "claim": "The Watson Institute at Brown University's Costs of War Project, an independent academic accounting initiative founded in 2010, estimates that the post-9/11 wars in Iraq, Afghanistan, Pakistan, Syria, Yemen, and elsewhere have cost the United States approximately $8 trillion in direct budgetary outlays and obligated future veteran-care costs (projected to reach $2.2-2.5 trillion by 2050). Direct deaths from war violence in those theaters between 2001 and 2023 are estimated at more than 940,000, of whom more than 432,000 were civilians. Counting indirect deaths from war-induced famine, disease, infrastructure collapse, and economic shock, the project estimates a total death toll of 4.5 to 4.7 million across the post-9/11 war zones. Approximately 38 million people have been displaced. These totals do not include U.S. service members, of whom approximately 7,000 were killed in action and tens of thousands more died by suicide after returning from deployment.",
+    "sources": [
+        {
+            "label": "Watson Institute, Brown University — Costs of War Project, Findings page (running summary).",
+            "type": "primary",
+            "url": "https://costsofwar.watson.brown.edu/findings"
+        },
+        {
+            "label": "Watson Institute, Brown University — “Costs of the 20-year war on terror: $8 trillion and 900,000 deaths” (September 1, 2021).",
+            "type": "primary",
+            "url": "https://www.brown.edu/news/2021-09-01/costsofwar"
+        },
+        {
+            "label": "Watson Institute, Brown University — “Civilians Killed & Displaced” (Costs of War human-cost subdomain).",
+            "type": "primary",
+            "url": "https://costsofwar.watson.brown.edu/costs/human/civilians-killed-displaced"
+        },
+        {
+            "label": "Watson Institute, Brown University — “Indirect Deaths in Post-9/11 War Zones” (working paper, 2023).",
+            "type": "secondary",
+            "url": "https://costsofwar.watson.brown.edu/papers/2023/IndirectDeaths"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Costs of War Project at Brown is the canonical academic accounting source widely cited by mainstream press. The reel's specific figures (7,000 U.S. soldiers killed, 50,000 wounded, 30,000 veteran suicides, ~1 million killed, 50% civilians, 4 million indirectly affected, 40 million displaced, $8 trillion spent) are in the right order of magnitude across these primary numbers; the veteran-suicide figure varies by source and methodology and is also in the same range when including post-deployment suicides through 2024."
+}

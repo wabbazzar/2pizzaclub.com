@@ -1,0 +1,37 @@
+{
+    "id": "1967-chaos-minaret-001",
+    "anchor": "y1967-chaos-minaret",
+    "year": 1967,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "nsa",
+        "domestic-surveillance",
+        "anti-war"
+    ],
+    "claim": "Two parallel domestic-surveillance programs operated against U.S. anti-war and civil-rights movements in the late 1960s and early 1970s. The CIA's Operation CHAOS (also called MHCHAOS), launched in August 1967 under Director Richard Helms and headed by James Jesus Angleton's deputy Richard Ober, opened files on 7,200 Americans and indexed 300,000 individuals and 1,000 organizations on the premise that domestic anti-war activity might be foreign-directed. The NSA's Project MINARET, operating from approximately 1967 to 1973, intercepted the international communications of 1,650 U.S. citizens on a watch list that included Dr. Martin Luther King Jr., Muhammad Ali, journalist Tom Wicker, and U.S. Senators Frank Church and Howard Baker. Both programs were exposed by Seymour Hersh's December 22, 1974 reporting in The New York Times and the subsequent 1975 Church Committee, and were a principal reason for the 1978 Foreign Intelligence Surveillance Act. NSA itself declassified the MINARET watch lists in 2013 in response to a George Washington University FOIA request.",
+    "sources": [
+        {
+            "label": "U.S. Church Committee — Final Report, Book III (Supplementary Detailed Staff Reports), section on CIA's Operation CHAOS, April 1976.",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/94755_III.pdf"
+        },
+        {
+            "label": "Rockefeller Commission — “Report to the President by the Commission on CIA Activities Within the United States,” Chapter 11 (“Special Operations Group — Operation CHAOS”), June 1975.",
+            "type": "primary",
+            "url": "https://www.aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf"
+        },
+        {
+            "label": "National Security Archive (GWU) — “Newly Declassified Documents Reveal More About 1960s Watch Lists Used by NSA's Project MINARET” (Briefing Book No. 441, September 25, 2013).",
+            "type": "primary",
+            "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB441/"
+        },
+        {
+            "label": "Seymour M. Hersh, “Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces, Other Dissidents in Nixon Years,” The New York Times, December 22, 1974.",
+            "type": "primary",
+            "url": "https://www.nytimes.com/1974/12/22/archives/huge-cia-operation-reported-in-u-s-against-antiwar-forces-other.html"
+        }
+    ],
+    "status": "verified",
+    "notes": "Combining CHAOS and MINARET in one record because they targeted overlapping populations across two agencies in the same period and were exposed together. Sen. Frank Church chaired the committee that ultimately disclosed both programs; he was himself on the MINARET watch list."
+}

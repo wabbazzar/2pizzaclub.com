@@ -1,0 +1,37 @@
+{
+    "id": "2020-netanyahu-corruption-001",
+    "anchor": "y2023",
+    "year": 2020,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "netanyahu",
+        "corruption",
+        "trial"
+    ],
+    "claim": "On November 21, 2019, Israeli Attorney General Avichai Mandelblit formally indicted sitting Prime Minister Benjamin Netanyahu on three counts of corruption — bribery, fraud, and breach of trust — making him the first sitting Israeli Prime Minister to be criminally charged. The indictments stem from three separate investigations: Case 1000 (the “Gifts Affair,” alleging that Netanyahu and his family accepted approximately $230,000 in luxury gifts from billionaire Arnon Milchan and others over several years in exchange for political favors); Case 2000 (alleging a 2008-2014 quid-pro-quo arrangement with Yedioth Ahronoth publisher Arnon Mozes for favorable coverage in exchange for legislation limiting a rival newspaper); and Case 4000 (the most serious, alleging that Netanyahu granted regulatory favors worth approximately $500 million to the Israeli telecom Bezeq in exchange for favorable coverage on the Bezeq-owned news site Walla! — the case that carries a bribery count with a maximum ten-year sentence). The trial opened on May 24, 2020 and has continued through 2026; Netanyahu's own cross-examination began in June 2025. The Israeli judicial-overhaul package his coalition pursued in 2023, which would have limited the Supreme Court's power to review government conduct and the judicial-appointment process, was the political backdrop of the trial.",
+    "sources": [
+        {
+            "label": "Wikipedia — “Trial of Benjamin Netanyahu,” canonical aggregator with case-by-case index and primary-source citations.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu"
+        },
+        {
+            "label": "Al Jazeera — “Benjamin Netanyahu's corruption trial, what you need to know” (December 9, 2024).",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2024/12/9/benjamin-netanyahus-corruption-trial-what-you-need-to-know"
+        },
+        {
+            "label": "Middle East Eye — “Netanyahu corruption trials: What are the charges and will he be pardoned?”",
+            "type": "secondary",
+            "url": "https://www.middleeasteye.net/explainers/netanyahu-corruption-trials-charges-pardon-israeli-president"
+        },
+        {
+            "label": "The Jerusalem Post — running coverage, including “Case 4000 cross-examination ends, prosecution advances to Case 2000.”",
+            "type": "secondary",
+            "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-895917"
+        }
+    ],
+    "status": "verified",
+    "notes": "The trial is ongoing as of mid-2026. Connects to the existing 2023-israel-judicial-protests-001 record: the judicial-overhaul package Netanyahu's coalition pursued in 2023 would have given the governing coalition expanded authority over judicial appointments and constrained the Supreme Court's ability to review government conduct — including, by direct implication, the prosecution then proceeding against the Prime Minister."
+}

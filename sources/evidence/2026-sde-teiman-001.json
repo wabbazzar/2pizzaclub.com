@@ -1,0 +1,37 @@
+{
+    "id": "2026-sde-teiman-001",
+    "anchor": "y2023",
+    "year": 2026,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "idf",
+        "torture",
+        "detention"
+    ],
+    "claim": "On July 5, 2024, a Palestinian detainee was severely assaulted at the IDF's Sde Teiman detention facility in southern Israel — left with broken ribs and an internal rectal injury, according to the Israeli military's own forensic findings. Five IDF reservists were detained on July 29, 2024 in connection with the assault. As they were being arrested, dozens of right-wing demonstrators — including some serving Israeli members of Knesset — broke into the Sde Teiman facility and a separate Israeli army base in an attempt to thwart the arrests. In August 2024, military prosecutors filed indictments charging the five reservists with severe abuse. Prime Minister Netanyahu's office characterized the case at the time as “the blood libel known as the ‘Sde Teiman affair’” — “blood libel” being the historical antisemitic accusation that Jews ritually murdered Christian children, here invoked to characterize the criminal investigation of IDF soldiers as a smear. On March 12, 2026, Israel's Military Advocate General withdrew the indictments on procedural grounds (a leak of the underlying surveillance video), ending the case without trial. The Public Committee Against Torture in Israel and other Israeli human-rights organizations described the dismissal as a whitewash.",
+    "sources": [
+        {
+            "label": "The Times of Israel — “5 IDF reservists indicted for severe abuse of Palestinian detainee at Sde Teiman” (initial indictment coverage).",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/5-idf-reservists-indicted-for-severe-abuse-of-palestinian-detainee-at-sde-teiman/"
+        },
+        {
+            "label": "CNN — “Assault charges against Israeli soldiers dropped in controversial end to a yearlong scandal” (March 12, 2026).",
+            "type": "secondary",
+            "url": "https://www.cnn.com/2026/03/12/middleeast/israel-charges-dismissed-sde-teiman-intl"
+        },
+        {
+            "label": "Lawfare — “End of the Sde Teiman Abuse Case: The IDF MAG Withdraws Indictments” (legal analysis, March 2026).",
+            "type": "secondary",
+            "url": "https://www.lawfaremedia.org/article/end-of-the-sde-teiman-abuse-case--the-idf-mag-withdraws-indictments"
+        },
+        {
+            "label": "Wikipedia — “Sde Teiman detention camp” (canonical aggregator with primary-source citations).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Sde_Teiman_detention_camp"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Lawfare Media analysis is the cleanest legal-procedural account of the indictment withdrawal. The CNN piece is the cleanest mainstream English-language account of the case from arrest through dismissal. The Times of Israel coverage carries the original indictment language and the contemporaneous protest-incursion reporting."
+}

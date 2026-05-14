@@ -1,0 +1,37 @@
+{
+    "id": "2018-israel-apartheid-001",
+    "anchor": "y2018-nation-state-law",
+    "year": 2018,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "palestine",
+        "apartheid",
+        "international-law"
+    ],
+    "claim": "On July 19, 2018, the Israeli Knesset passed Basic Law: Israel as the Nation-State of the Jewish People — a constitutional-status law declaring that “the right to exercise national self-determination in the State of Israel is unique to the Jewish people,” downgrading Arabic from an official language to one with “special status,” and identifying Jewish settlement of the land as a “national value” to be encouraged. Between 2021 and 2022, three major human-rights organizations — B'Tselem (an Israeli organization, January 2021), Human Rights Watch (April 2021, in a 213-page report), and Amnesty International (February 2022) — concluded in formal published findings that Israeli policy in territory under its effective control meets the international legal definition of apartheid as set out in the 1973 U.N. Apartheid Convention and the 1998 Rome Statute. Each organization grounded its finding in specific legal infrastructure: the 1950 Absentee Property Law (which transferred land owned by displaced Palestinians to Israeli state custody), the 1952 Citizenship Law, the 2003 Citizenship and Entry into Israel Law (banning family reunification across the Green Line), and the 2018 Nation-State Law itself. Israel and several allied governments contest the apartheid characterization.",
+    "sources": [
+        {
+            "label": "Knesset official record — Basic Law: Israel as the Nation-State of the Jewish People (full English text, July 19, 2018).",
+            "type": "primary",
+            "url": "https://m.knesset.gov.il/EN/activity/Documents/BasicLawsPDF/BasicLawNationState.pdf"
+        },
+        {
+            "label": "B'Tselem — “A regime of Jewish supremacy from the Jordan River to the Mediterranean Sea: This is apartheid” (position paper, January 12, 2021).",
+            "type": "primary",
+            "url": "https://www.btselem.org/publications/fulltext/202101_this_is_apartheid"
+        },
+        {
+            "label": "Human Rights Watch — “A Threshold Crossed: Israeli Authorities and the Crimes of Apartheid and Persecution” (April 27, 2021, 213 pp.).",
+            "type": "primary",
+            "url": "https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution"
+        },
+        {
+            "label": "Amnesty International — “Israel's apartheid against Palestinians: Cruel system of domination and crime against humanity” (February 1, 2022).",
+            "type": "primary",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 2018 Nation-State Law's official Knesset PDF is the canonical primary text. The three human-rights organization reports are each canonical primary findings under their respective methodologies. The legal-framework citations (1950 Absentee Property Law, 2003 Citizenship and Entry Law) are documented in detail in each report's appendices."
+}

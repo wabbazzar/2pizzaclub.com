@@ -1,0 +1,38 @@
+{
+    "id": "1917-balfour-declaration-001",
+    "anchor": "y1917-balfour",
+    "year": 1917,
+    "era": "i",
+    "themes": [
+        "israel",
+        "palestine",
+        "british-empire",
+        "documents"
+    ],
+    "claim": "On November 2, 1917, British Foreign Secretary Arthur Balfour sent a 67-word letter to Lord Walter Rothschild, head of the British branch of the Rothschild banking family and a prominent figure in the Zionist Federation of Great Britain and Ireland, stating that “His Majesty's Government view with favour the establishment in Palestine of a national home for the Jewish people, and will use their best endeavours to facilitate the achievement of this object.” The letter — known as the Balfour Declaration — was issued during the First World War, while Palestine was still part of the Ottoman Empire, and was published in the British press a week later. The promise of British support for a Jewish national home was given alongside competing British wartime promises of Arab independence (the Hussein-McMahon correspondence, 1915-1916) and Anglo-French partition of the same region (the Sykes-Picot Agreement, 1916). After the Ottoman defeat, the Declaration was incorporated into the 1922 League of Nations Mandate for Palestine, which made British administration of the territory legally binding under international law. The reel's framing — that Britain promised the land “to the Rothschilds” — refers specifically to Lord Rothschild's role as the named recipient of the letter; the Declaration's text speaks to a national home for the Jewish people, not to the Rothschild family as title-holder.",
+    "sources": [
+        {
+            "label": "Avalon Project, Yale Law School — full text of the Balfour Declaration, November 2, 1917.",
+            "type": "primary",
+            "url": "https://avalon.law.yale.edu/20th_century/balfour.asp",
+            "quote": "His Majesty's Government view with favour the establishment in Palestine of a national home for the Jewish people, and will use their best endeavours to facilitate the achievement of this object, it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine"
+        },
+        {
+            "label": "The Rothschild Archive — “Walter Rothschild and the Balfour Declaration,” the family-archive primary record.",
+            "type": "primary",
+            "url": "https://www.rothschildarchive.org/family/family_interests/walter_rothschild_and_the_balfour_declaration"
+        },
+        {
+            "label": "Encyclopædia Britannica — “Balfour Declaration,” secondary aggregator with text and contemporaneous diplomatic context.",
+            "type": "secondary",
+            "url": "https://www.britannica.com/event/Balfour-Declaration"
+        },
+        {
+            "label": "United Nations — “Question of Palestine: Balfour Declaration (UK / Non-UN document)” reference.",
+            "type": "primary",
+            "url": "https://www.un.org/unispal/document/auto-insert-193242/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Avalon Project full-text scan is the canonical primary citation. The Rothschild Archive's own page on Walter Rothschild's role provides the family-side primary source. The Declaration's diplomatic context — Hussein-McMahon and Sykes-Picot — is the key qualifier on the popular framing that Britain made a single clean promise."
+}

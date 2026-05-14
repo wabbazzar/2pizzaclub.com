@@ -1,0 +1,46 @@
+{
+    "id": "DW_wtx6jTP5",
+    "url": "https://www.instagram.com/reel/DW_wtx6jTP5/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@rant.board",
+    "author_display_name": "Cole Soiney",
+    "posted_at": "2026-04-11",
+    "engagement": {
+        "likes": 45000,
+        "comments": 401
+    },
+    "caption": "ISRAEL PT 1 - History, apartheid state, the clean break strategy, up to Oct. 7th\n\nI have an hour breakdown on my podcast if you want a deeper dive! \n\n#fyp #israel #middleeast #war #education",
+    "hashtags": [
+        "fyp",
+        "israel",
+        "middleeast",
+        "war",
+        "education"
+    ],
+    "audio_track_actual": "Two-speaker conversation, podcast format. The dominant speaker walks through Israeli-Palestinian history from the Balfour Declaration through October 7, 2023, and the post-9/11 Wesley Clark seven-countries memo.",
+    "video_overlay_text_observed": "On-screen captions naming key inflection points: BALFOUR 1917, NAKBA 1948, SIX-DAY WAR 1967, OSLO 1993, NATION STATE LAW 2018, CLEAN BREAK 1996, WESLEY CLARK 2007.",
+    "audio_content_summary": "The speaker compresses approximately a century of Israeli-Palestinian history into a single arc: the 1917 Balfour Declaration's promise of a national home in Palestine to Lord Rothschild, the 1948 Nakba (~750,000 Palestinians displaced and 400+ villages destroyed), the 1967 Six-Day War (Israel triples territory and displaces ~300,000 more Palestinians), the 1973 Yom Kippur War and Camp David Accords, the post-1948 statutory architecture (1950 absentee property law, 2003 family-reunification ban, 2018 Nation-State Law) that the major human-rights organizations have characterized as apartheid, Netanyahu's three-decade record of warning that Iran is years away from nuclear weapons, the 1996 Clean Break strategy paper recommending regime change in surrounding states, and Wesley Clark's 2007 account of a Pentagon memo planning to take out seven countries in five years (Iraq, Syria, Lebanon, Libya, Somalia, Sudan, Iran). The speaker closes with cumulative U.S. casualty and spending figures from the post-9/11 wars.",
+    "implied_frame": "The video frames the Israeli-Palestinian conflict and the post-9/11 U.S. wars in the Middle East as a single connected institutional project — anchored historically in the Balfour Declaration and operationalized through the Clean Break paper, the Wesley Clark seven-countries memo, and the Nation-State Law. Each major historical claim the speaker makes is on the public record through primary documents (the Balfour Declaration text at Yale's Avalon Project, the Nakba documentation at the U.N. UNISPAL portal, the Clean Break PDF on Douglas Feith's archive, the Democracy Now! Wesley Clark transcript). The apartheid characterization rests on the 2021 B'Tselem, 2021 Human Rights Watch, and 2022 Amnesty International findings.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~41 MB, vp9 720x1280, 179s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "1917-balfour-declaration-001",
+        "1948-nakba-001",
+        "1967-six-day-war-001",
+        "1996-clean-break-001",
+        "2007-wesley-clark-001",
+        "2018-israel-apartheid-001",
+        "2025-netanyahu-iran-nuclear-001",
+        "2003-costs-of-war-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Balfour_Declaration",
+        "https://en.wikipedia.org/wiki/Nakba",
+        "https://en.wikipedia.org/wiki/Six-Day_War",
+        "https://en.wikipedia.org/wiki/A_Clean_Break:_A_New_Strategy_for_Securing_the_Realm",
+        "https://en.wikipedia.org/wiki/Israeli_apartheid",
+        "https://costsofwar.watson.brown.edu/findings"
+    ]
+}

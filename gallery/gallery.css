@@ -7,19 +7,22 @@
 .gallery-intro {
     background: var(--paper);
     color: var(--ink);
-    border: 1px solid var(--paper-rule);
+    border: 3px solid var(--ink);
     padding: 2.5rem 2.5rem 2rem;
     max-width: var(--content-max);
     margin: 0 auto 3rem;
-    box-shadow: 0 1px 0 var(--chrome-rule), 12px 12px 0 -1px rgba(0,0,0,0.4);
+    box-shadow: 10px 10px 0 var(--bus-yellow), 10px 10px 0 3px var(--ink);
+    border-radius: 8px;
 }
 .gallery-intro h1 {
-    font-family: var(--serif);
-    font-weight: 600;
-    font-size: clamp(2.4rem, 5vw, 3.4rem);
+    font-family: var(--display);
+    font-weight: 400;
+    font-size: clamp(2.8rem, 6vw, 4rem);
     margin: 0 0 1.25rem;
-    line-height: 1.04;
-    letter-spacing: -0.01em;
+    line-height: 1;
+    letter-spacing: 0;
+    color: var(--accent);
+    text-shadow: 3px 3px 0 var(--bus-yellow);
 }
 .gallery-intro .lede {
     margin: 0;
@@ -32,8 +35,9 @@
 .gallery-item {
     background: var(--paper);
     color: var(--ink);
-    border: 1px solid var(--paper-rule);
-    box-shadow: 0 1px 0 var(--chrome-rule);
+    border: 3px solid var(--ink);
+    box-shadow: 6px 6px 0 var(--bus-yellow);
+    border-radius: 6px;
     display: grid;
     grid-template-columns: minmax(260px, 360px) 1fr;
     gap: 0;

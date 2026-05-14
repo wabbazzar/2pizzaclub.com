@@ -1,0 +1,36 @@
+{
+    "id": "2025-space-command-redstone-001",
+    "anchor": "y2022-eskridge",
+    "year": 2025,
+    "era": "iv",
+    "themes": [
+        "space-command",
+        "huntsville",
+        "defense-procurement"
+    ],
+    "claim": "On September 2, 2025, President Trump announced that U.S. Space Command headquarters will relocate from Peterson Space Force Base in Colorado Springs to Redstone Arsenal in Huntsville, Alabama. The decision reverses President Biden's July 2023 decision to keep the headquarters in Colorado, and reinstates the original Air Force site-selection result that had favored Huntsville. The Department of the Army projects roughly 1,400 direct jobs over five years and approximately $426 million in savings over fifteen years from the move. The first operational unit at the new location — the Joint Intelligence Support Element of the J2 Intelligence Directorate — formally stood up at Redstone Arsenal on April 15, 2026.",
+    "sources": [
+        {
+            "label": "Axios — “Trump will move U.S. Space Command from Colorado Springs to Alabama” (September 2, 2025).",
+            "type": "secondary",
+            "url": "https://www.axios.com/2025/09/02/trump-space-comman-huntsville-redstone-arsenal"
+        },
+        {
+            "label": "Alabama Reflector — “Donald Trump says Space Command HQ will move to Huntsville” (September 2, 2025).",
+            "type": "secondary",
+            "url": "https://alabamareflector.com/2025/09/02/donald-trump-says-space-command-hq-will-move-to-huntsville/"
+        },
+        {
+            "label": "U.S. Army News Service — “Space Command unveils sign at future Redstone home.”",
+            "type": "primary",
+            "url": "https://www.army.mil/article/289756/space_command_unveils_sign_at_future_redstone_home"
+        },
+        {
+            "label": "City of Huntsville — “U.S. Space Command Headquarters is moving to Huntsville.”",
+            "type": "primary",
+            "url": "https://www.huntsvilleal.gov/u-s-space-command-headquarters-is-moving-to-huntsville/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The reel ties the Space Command relocation, Redstone Arsenal's deep institutional history (Operation Paperclip and Wernher von Braun's relocation to Huntsville's Marshall Space Flight Center after 1950), and the Eskridge case together as a single Huntsville thread. Operation Paperclip and the von Braun history are well documented elsewhere and could become their own record in a future pass; for now they are kept here as context for the broader Huntsville-as-aerospace-hub framing the reel raises."
+}

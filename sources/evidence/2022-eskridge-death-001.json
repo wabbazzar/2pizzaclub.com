@@ -1,0 +1,39 @@
+{
+    "id": "2022-eskridge-death-001",
+    "anchor": "y2022-eskridge",
+    "year": 2022,
+    "era": "iv",
+    "themes": [
+        "scientist-deaths",
+        "huntsville",
+        "havana-syndrome",
+        "directed-energy"
+    ],
+    "claim": "Amy Eskridge, 34, a plasma physicist and antigravity-research startup founder in Huntsville, Alabama, died on June 11, 2022. The cause was reported as a self-inflicted gunshot wound to the head; the local police and medical examiner did not release a public investigative report. Her father, retired NASA Marshall Space Flight Center engineer Richard Eskridge, has stated publicly that he does not believe the death was suspicious. In separate Senate-side commentary in 2025, Republican Representative Eric Burlison of Missouri described Eskridge as having been “clearly distraught” in the months before her death and as suggesting she was suffering from a condition she compared to Havana syndrome — the cluster of unexplained neurological events affecting U.S. diplomats and intelligence personnel since 2016. Following the July 2025 Tesla-crash death of Joshua LeBlanc, a NASA nuclear-propulsion engineer also based in Huntsville, the U.S. House Committee on Oversight and Government Reform formally requested information from the Departments of Energy and Defense, the FBI, and NASA on the broader cluster of scientist deaths and disappearances.",
+    "sources": [
+        {
+            "label": "Newsweek — “Who Is Amy Eskridge? Scientist's Death Queried Amid US Expert Mysteries.”",
+            "type": "secondary",
+            "url": "https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659",
+            "quote": "Amy Eskridge, 34, died in Huntsville, Alabama, on June 11, 2022."
+        },
+        {
+            "label": "Newsweek — “The Huntsville Mystery: Are Two Dead Scientists in Same Town Connected?”",
+            "type": "secondary",
+            "url": "https://www.newsweek.com/huntsville-mystery-are-two-dead-scientists-same-town-connected-11869617",
+            "quote": "Eskridge and LeBlanc do not appear to have any direct connections, given that they grew up in different states and attended separate universities."
+        },
+        {
+            "label": "Huntsville Business Journal — “Uncovering The Mystery Of Huntsville's Brilliant Anti-gravity Scientist” (2023).",
+            "type": "secondary",
+            "url": "https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/"
+        },
+        {
+            "label": "Fox News — “Trump vows answers on scientists dying under unusual circumstances.”",
+            "type": "secondary",
+            "url": "https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets"
+        }
+    ],
+    "status": "verified",
+    "notes": "Two Newsweek pieces are the cleanest contemporary secondary record. Burlison's quote is reproduced from the first Newsweek article quoting his interview with Benny Johnson. Family position (no foul play, chronic pain) is from the same article. The Huntsville Business Journal piece is the most thorough longitudinal account of Eskridge's career. The broader 11+ scientist-deaths thread is current (mid-2026) and will likely produce follow-on records as the House Oversight inquiry develops."
+}

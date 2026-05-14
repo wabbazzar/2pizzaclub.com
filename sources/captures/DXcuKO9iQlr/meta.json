@@ -1,0 +1,39 @@
+{
+    "id": "DXcuKO9iQlr",
+    "url": "https://www.instagram.com/reel/DXcuKO9iQlr/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@bobcancount",
+    "author_display_name": "Bob Can Count",
+    "posted_at": "2026-04-22",
+    "engagement": {
+        "likes": 122000,
+        "comments": 1667
+    },
+    "caption": "The Anti-Gravity Scientist “Amy Eskridge” Who Committed Su*cide Claims She Was Being Targeted By Direct Energy Weapons After She Discovered A Breakthrough With Element 115. #antigravity #ufo #zeropointenergy #scientist #dew",
+    "hashtags": [
+        "antigravity",
+        "ufo",
+        "zeropointenergy",
+        "scientist",
+        "dew"
+    ],
+    "audio_track_actual": "Single male narrator over a music bed, layered with on-screen captions and stills.",
+    "video_overlay_text_observed": "Headlines and stills referencing Amy Eskridge, Richard Eskridge, NASA Marshall Space Flight Center, Redstone Arsenal, Wernher von Braun, Operation Paperclip, and Die Glocke (the Bell).",
+    "audio_content_summary": "The narrator describes Amy Eskridge as an antigravity researcher in Huntsville, Alabama whose father, Richard Eskridge, worked as a plasma propulsion engineer at NASA's Marshall Space Flight Center. The narrator reports that Amy Eskridge died in 2022 after, in her own pre-death messages, claiming she had been targeted by an Israeli operative connected through shell companies to George Soros's New York office, surveilled via her dental records, found a foreign object between her L3 and L4 vertebrae, was struck by a directed-energy weapon through her window, and was hearing voices in her head urging suicide. The narrator situates the case against the broader history of Wernher von Braun's relocation to Redstone Arsenal under Operation Paperclip after 1945 and the modern decision to move U.S. Space Command headquarters to the same site.",
+    "implied_frame": "The video frames Huntsville, Alabama as the institutional center of an undisclosed U.S. anti-gravity research program — historically rooted in the German scientists relocated under Operation Paperclip and currently consolidated by the Space Command headquarters move — and reads Amy Eskridge's death as targeted suppression rather than the suicide that was officially ruled. The Eskridge death is on the public record (see 2022-eskridge-death-001 below). The Space Command relocation is on the public record (see 2025-space-command-redstone-001 below). The personal-surveillance, directed-energy, Soros-shell-company, and intracranial-implant claims are reported in the video as Eskridge's own pre-death messages and have not been independently corroborated. Her family has stated publicly they do not believe the death was suspicious.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~41 MB, vp9 720x1280, 178s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2022-eskridge-death-001",
+        "2025-space-command-redstone-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Operation_Paperclip",
+        "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+        "https://en.wikipedia.org/wiki/Marshall_Space_Flight_Center",
+        "https://en.wikipedia.org/wiki/Die_Glocke",
+        "https://en.wikipedia.org/wiki/Havana_syndrome"
+    ]
+}

@@ -38,8 +38,9 @@ import { chromium } from "playwright";
 import { spawnSync } from "node:child_process";
 import * as fs from "node:fs";
 import * as path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT = "/home/wabbazzar/code/wabbazzar.github.io/receipts";
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CAPS_DIR = `${ROOT}/sources/captures`;
 const WHISPER = "/tmp/whisper-venv/bin/whisper";
 

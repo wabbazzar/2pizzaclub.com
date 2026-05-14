@@ -29,6 +29,12 @@
         }
         return out;
     }
+    function evidenceLabel(rec) {
+        const claim = (rec.claim || '').replace(/\s+/g, ' ').trim();
+        const year = rec.year ? `${rec.year} · ` : '';
+        const headline = claim.length > 90 ? claim.slice(0, 90).replace(/[\s,;:—-]+$/, '') + '…' : claim;
+        return `${year}${headline}`;
+    }
 
     function renderTags(tags) {
         if (!tags || !tags.length) return '';
@@ -38,10 +44,11 @@
     function renderEvidence(records) {
         if (!records.length) return '<p class="gallery-section-h">No evidence records linked.</p>';
         const items = records.map(r => {
-            if (r.error) {
+            if (r.error || !r.anchor) {
                 return `<li><span style="color:var(--accent)">${esc(r.id)} — load failed</span></li>`;
             }
-            return `<li><a href="../#${esc(r.anchor)}">${esc(r.id)}</a><span class="ev-anchor">→ ${esc(r.anchor || '')}</span></li>`;
+            const label = evidenceLabel(r);
+            return `<li><a href="../#${esc(r.anchor)}" title="${esc(r.claim || r.id)}">${esc(label)}</a></li>`;
         }).join('');
         return `<p class="gallery-section-h">Resulting evidence on the timeline</p><ol class="gallery-evidence">${items}</ol>`;
     }

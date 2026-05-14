@@ -128,9 +128,10 @@
             const links = ranked.map(([otherId]) => {
                 const other = claimsById.get(otherId);
                 const anchor = other?.anchor || '';
-                const labelShort = (other?.label || otherId).replace(/\s+/g, ' ');
-                return `<a href="#${esc(anchor)}" data-jump-to="${esc(otherId)}">${esc(otherId)}</a>`;
-            }).join('');
+                const full = (other?.label || otherId).replace(/\s+/g, ' ').trim();
+                const labelShort = full.length > 70 ? full.slice(0, 70).replace(/[\s,;:—-]+$/, '') + '…' : full;
+                return `<a href="#${esc(anchor)}" data-jump-to="${esc(otherId)}" title="${esc(full)}">${esc(labelShort)}</a>`;
+            }).join('<span class="see-also-sep"> · </span>');
             const div = document.createElement('div');
             div.className = 'see-also';
             div.innerHTML = `<span class="see-also-label">see also</span> ${links}`;

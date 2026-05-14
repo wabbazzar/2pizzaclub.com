@@ -1,0 +1,42 @@
+{
+    "id": "2023-oct7-idf-response-001",
+    "anchor": "y2023",
+    "year": 2023,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "october-7",
+        "idf",
+        "intelligence-failure"
+    ],
+    "claim": "On October 7, 2023, Hamas-led forces breached the Israel-Gaza border at multiple points beginning shortly after 6:29 a.m. local time. The IDF Gaza Division reported the breach at 6:37 a.m. and Israel declared war at 6:45 a.m., but the Division lost control of its forward headquarters by 7:30 a.m., and the first reinforcements from outside the area did not begin arriving until between 8:45 a.m. and 9:45 a.m. The IDF's own internal probes, summarized in February 2025, concluded that the army had no operational plan for an attack of October 7's magnitude, that warning signs in the preceding hours had been identified and discounted, and that fundamental misconceptions about Hamas's intentions had left southern Israel “utterly vulnerable.” Israel's Comptroller, the Knesset Foreign Affairs and Defense Committee, and the IDF General Staff have all opened separate inquiries.",
+    "sources": [
+        {
+            "label": "The Times of Israel — “IDF's Oct. 7 probes show it misread Hamas for years, left southern Israel utterly vulnerable” (Feb 28, 2025).",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/idfs-oct-7-probes-show-it-misread-hamas-for-years-left-southern-israel-utterly-vulnerable/"
+        },
+        {
+            "label": "CNN — “Investigation highlights Israeli intelligence failures in lead-up to Hamas' October 7 attack” (Feb 27, 2025).",
+            "type": "secondary",
+            "url": "https://www.cnn.com/2025/02/27/middleeast/israel-idf-intelligence-failures-hamas-report-intl-latam/index.html"
+        },
+        {
+            "label": "Al Jazeera — “What does the report into Israeli military failures on October 7 say?” (Feb 28, 2025).",
+            "type": "secondary",
+            "url": "https://www.aljazeera.com/news/2025/2/28/what-has-the-report-into-israeli-military-failures-on-october-7-said"
+        },
+        {
+            "label": "Combating Terrorism Center at West Point — “The October 7 Attack: An Assessment of the Intelligence Failings.”",
+            "type": "secondary",
+            "url": "https://ctc.westpoint.edu/the-october-7-attack-an-assessment-of-the-intelligence-failings/"
+        },
+        {
+            "label": "Wikipedia — “October 7 attacks” (canonical aggregated timeline citing IDF, Knesset, and contemporary press).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/October_7_attacks"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 'six-hour stand-down' framing in social-media discussion is a compressed version of a more granular set of failures documented in the IDF's own February 2025 probes: the gap between the breach and the first sustained reinforcement was on the order of two to three hours at most, with full mobilization lagging behind. The CTC West Point and Times of Israel pieces are the cleanest aggregations. No formal stand-down order has been documented; what the IDF's own probe identified was a structural absence of any plan to respond to an attack at this scale."
+}

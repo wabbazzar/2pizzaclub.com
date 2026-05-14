@@ -1,0 +1,33 @@
+{
+    "id": "2016-weiner-laptop-frazzledrip-001",
+    "anchor": "y2019",
+    "year": 2016,
+    "era": "iv",
+    "themes": [
+        "epstein",
+        "clinton",
+        "fbi",
+        "fact-check"
+    ],
+    "claim": "On October 28, 2016, FBI Director James Comey notified members of Congress that, in the course of an unrelated criminal investigation into former Congressman Anthony Weiner, the Bureau had recovered a laptop containing approximately 141,000 emails potentially relevant to its prior investigation of Hillary Clinton's use of a private email server. Comey stated that the FBI would review the new material; he announced its review complete and recommended no charges on November 6, 2016 — two days before the presidential election. The Department of Justice Office of the Inspector General's June 2018 report documented the timeline. From late 2016 onward, an unrelated and separate online conspiracy narrative — known as “Frazzledrip” — alleged that the laptop also contained a video file showing Hillary Clinton and Huma Abedin committing satanic-ritual abuse of a child, and that NYPD officers who viewed it died by suicide. No primary evidence of any such file or such NYPD-officer deaths has been produced. The FBI has not acknowledged the existence of any such file. FactCheck.org and other fact-checking organizations have categorized the claim as false.",
+    "sources": [
+        {
+            "label": "Federal Bureau of Investigation — “FBI Communication on Discovery of Hillary Clinton E-mails on Anthony Weiner's Laptop Computer” (FBI Records Vault, multi-part FOIA release).",
+            "type": "primary",
+            "url": "https://vault.fbi.gov/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer/"
+        },
+        {
+            "label": "U.S. Department of Justice, Office of the Inspector General — “A Review of Various Actions by the Federal Bureau of Investigation and Department of Justice in Advance of the 2016 Election” (June 2018), the Horowitz Report.",
+            "type": "primary",
+            "url": "https://oig.justice.gov/sites/default/files/reports/o1802.pdf"
+        },
+        {
+            "label": "FactCheck.org — “Clinton's Emails, Weiner's Laptop, and a Falsehood” (August 24, 2018), summarizing the Horowitz Report findings.",
+            "type": "secondary",
+            "url": "https://www.factcheck.org/2018/08/clintons-emails-weiners-laptop-and-a-falsehood/",
+            "quote": "On Oct. 28, 2016, Comey told lawmakers in a letter that the FBI had “learned of the existence of emails that appear to be pertinent to the investigation”"
+        }
+    ],
+    "status": "verified",
+    "notes": "The laptop-discovery and Comey-letter facts are entirely on the public record and load-bearing for any account of the 2016 election. The 'Frazzledrip' allegation is an entirely separate online narrative with no primary evidence; it is documented here so the record reflects both the verifiable thread (Weiner laptop, Clinton email-server review) and the unverified thread that downstream actors have attached to it."
+}

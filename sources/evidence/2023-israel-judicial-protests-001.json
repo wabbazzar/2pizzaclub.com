@@ -1,0 +1,37 @@
+{
+    "id": "2023-israel-judicial-protests-001",
+    "anchor": "y2023",
+    "year": 2023,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "protests",
+        "netanyahu",
+        "judicial-reform"
+    ],
+    "claim": "From January through October 2023, hundreds of thousands of Israelis protested weekly against the Netanyahu government's judicial-overhaul package — proposed legislation that would have limited the Israeli Supreme Court's power to strike down government actions and reorganized the judicial-appointments committee in favor of the governing coalition. At their peak, protests in Tel Aviv drew between 100,000 and 200,000 people on Kaplan Street alone, with estimates of 445,000 nationwide on a single day in April 2023. The first part of the package — the “reasonableness clause” bill — passed the Knesset on July 24, 2023. Protests continued for thirty-plus consecutive weeks. The protest movement collapsed within hours of the October 7, 2023 Hamas attack, after which Netanyahu formed an emergency unity government.",
+    "sources": [
+        {
+            "label": "Wikipedia — “2023 Israeli judicial reform protests” (canonical timeline with primary-source citations).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests"
+        },
+        {
+            "label": "NPR — “Hundreds of thousands march in Israel against Netanyahu's judicial overhaul” (July 22, 2023).",
+            "type": "secondary",
+            "url": "https://www.npr.org/2023/07/22/1189627225/israel-protests-netanyahu-judiciary"
+        },
+        {
+            "label": "The Washington Post — “Israeli parliament passes judicial overhaul plan; White House calls move ‘unfortunate’” (July 24, 2023).",
+            "type": "secondary",
+            "url": "https://www.washingtonpost.com/world/2023/07/24/israel-judicial-reform-vote-protests/"
+        },
+        {
+            "label": "Knesset official record — Basic Law: The Judiciary (Amendment No. 3) — Reasonableness, July 24, 2023.",
+            "type": "primary",
+            "url": "https://main.knesset.gov.il/EN/News/PressReleases/Pages/press240723i.aspx"
+        }
+    ],
+    "status": "verified",
+    "notes": "The protest movement was the largest sustained civil-resistance event in Israeli history. It is on the record in mainstream Israeli and international press week by week. Documenting it here is the necessary precondition for the next entry — the IDF-response-time questions on October 7, 2023 — because the protest collapse and the formation of the emergency unity government happened in the same days as the attack."
+}

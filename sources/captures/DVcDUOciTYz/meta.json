@@ -1,0 +1,37 @@
+{
+    "id": "DVcDUOciTYz",
+    "url": "https://www.instagram.com/reel/DVcDUOciTYz/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@bobcancount",
+    "author_display_name": "Bob Can Count",
+    "posted_at": "2026-03-03",
+    "engagement": {
+        "likes": 329000,
+        "comments": 9392
+    },
+    "caption": "Hillary Clinton Panicked When Asked About FrazzleDrip At Her Deposition. #hillaryclinton #billclinton #frazzled #conspiracytheory #epstein",
+    "hashtags": [
+        "hillaryclinton",
+        "billclinton",
+        "frazzled",
+        "conspiracytheory",
+        "epstein"
+    ],
+    "audio_track_actual": "Single male narrator over a music bed, intercut with a clip of a House Oversight Committee hearing exchange and on-screen reproductions of an email.",
+    "video_overlay_text_observed": "On-screen reproductions of an email exchange titled 'Re: Birthday' between Cheryl Mills and Ghislaine Maxwell. Hearing-room footage with chyron identifying speakers.",
+    "audio_content_summary": "The narrator describes two threads. First, an unverified claim that an FBI-discovered Anthony Weiner laptop file labeled 'life insurance' contained a video of Hillary Clinton and Huma Abedin committing satanic-ritual abuse, that nine of twelve NYPD officers who viewed it died by suicide, and that this content circulated online under the name 'Frazzledrip.' Second, the verified disclosure of a December 25, 2002 birthday email exchange between Cheryl Mills, longtime Clinton counsel, and Ghislaine Maxwell — released as part of the 2025 DOJ Epstein document productions — in which Mills writes 'Hate you for being in Palm Beach.'",
+    "implied_frame": "The video presents the Frazzledrip claim and the Mills/Maxwell email side by side, framing the email as corroboration of the broader claim. The Mills/Maxwell email is on the public record as part of the 2025 DOJ Epstein document release. The Frazzledrip allegation is not on any primary record: no FBI confirmation of the existence of any such video, no documented NYPD-officer-suicide cluster, and no fact-checking organization has verified it. Both threads are documented under this entry — the email as a primary-record evidence card, the Frazzledrip allegation as the unverified narrative downstream actors have attached to the verifiable laptop discovery.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~20 MB, vp9 720x1280, 104s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2002-mills-maxwell-email-001",
+        "2016-weiner-laptop-frazzledrip-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Anthony_Weiner_sexting_scandals",
+        "https://oig.justice.gov/sites/default/files/reports/o1802.pdf",
+        "https://vault.fbi.gov/fbi-communication-on-discovery-of-hillary-clinton-e-mails-on-anthony-weiners-laptop-computer/"
+    ]
+}

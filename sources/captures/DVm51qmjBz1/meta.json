@@ -1,0 +1,38 @@
+{
+    "id": "DVm51qmjBz1",
+    "url": "https://www.instagram.com/reel/DVm51qmjBz1/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@adam_tyler_free",
+    "author_display_name": "Adam Free | 𝙏𝙃𝙀 Mens Coach ✞",
+    "posted_at": "2026-03-07",
+    "engagement": {
+        "likes": 27000,
+        "comments": 1034
+    },
+    "caption": "What do YOU think?\n\nPersonally, I think that if you’re NOT allowed to talk about a certain group of people under any circumstances whatsoever… that’s odd.\n\nMore importantly I think it’s time that good men on this planet to hit their knees and beg God for mercy.\n\nAnd I mean literally beg. Pray. Fast. Read the word. Pray more…\n\nNo MAN is coming to save us. \n\n#reels #explore #trending #fyp #charliekirk",
+    "hashtags": [
+        "reels",
+        "explore",
+        "trending",
+        "fyp",
+        "charliekirk"
+    ],
+    "audio_track_actual": "Two-speaker conversation, recorded in a podcast studio. The speaker on screen is addressing a host identified in the audio as 'Patrick' — consistent with an appearance on PBD Podcast (host Patrick Bet-David).",
+    "video_overlay_text_observed": "Lower-third graphics with quotes pulled from the conversation; cuts to news footage of Israeli protest crowds and the Oct 7 attack timeline.",
+    "audio_content_summary": "The speaker describes the months immediately before October 7, 2023, when hundreds of thousands of Israelis were protesting the Netanyahu government's judicial-reform legislation, and argues that the protest movement collapsed within hours of the Hamas attack. The speaker then raises questions about the IDF's response time on October 7 — describing a multi-hour gap between the initial breach and the arrival of reinforcements — and asks whether any stand-down order was given. The speaker characterizes Netanyahu's subsequent emergency-government mandate as enabling the ethnic cleansing of Gaza, citing his own pattern recognition from COVID, the Maui fires, and the Epstein case.",
+    "implied_frame": "The video frames the IDF's delayed October 7 response as evidence that the attack was permitted, deliberately or through institutional negligence, in service of the political objective of the war that followed. The IDF response gap is documented in Israel's own internal February 2025 probes, which identified the absence of any operational plan for an attack at this scale and the discounting of warning signs in the preceding hours; no formal stand-down order has been established in the public record. The collapse of the judicial-reform protest movement is independently observable in the contemporary press. The 'ethnic cleansing of Gaza' characterization is contested terminology used by some human-rights organizations and rejected by Israel.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~23 MB, vp9 720x1280, 126s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2023-israel-judicial-protests-001",
+        "2023-oct7-idf-response-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/2023_Israeli_judicial_reform_protests",
+        "https://en.wikipedia.org/wiki/October_7_attacks",
+        "https://www.timesofisrael.com/idfs-oct-7-probes-show-it-misread-hamas-for-years-left-southern-israel-utterly-vulnerable/",
+        "https://ctc.westpoint.edu/the-october-7-attack-an-assessment-of-the-intelligence-failings/"
+    ]
+}

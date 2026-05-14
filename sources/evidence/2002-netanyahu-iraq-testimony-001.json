@@ -1,0 +1,38 @@
+{
+    "id": "2002-netanyahu-iraq-testimony-001",
+    "anchor": "y2002-netanyahu-iraq",
+    "year": 2002,
+    "era": "iii",
+    "themes": [
+        "iraq",
+        "israel",
+        "congress",
+        "wmd"
+    ],
+    "claim": "On September 12, 2002 — one day after the first anniversary of 9/11 and weeks before the congressional vote that authorized the use of force against Iraq — former Israeli Prime Minister Benjamin Netanyahu testified before the U.S. House Committee on Government Reform at a hearing titled “Conflict with Iraq: An Israeli Perspective,” chaired by Rep. Dan Burton (R-IN). Netanyahu told the committee that “a nuclear-armed Saddam will place the security of our entire world at risk,” that Saddam Hussein was “feverishly trying to acquire nuclear weapons,” and that if the United States removed his regime “it will have enormous positive reverberations on the region.” The Iraq War began March 19, 2003. No weapons-of-mass-destruction stockpiles were found. The Senate Select Committee on Intelligence's 2004 and 2008 reports later found that the pre-war assessments of Iraqi WMD programs had been substantially overstated and, in part, “not supported by the underlying intelligence.”",
+    "sources": [
+        {
+            "label": "U.S. Government Publishing Office — official transcript of “Conflict with Iraq: An Israeli Perspective,” Hearing before the Committee on Government Reform, House of Representatives, 107th Congress, 2nd Session, September 12, 2002 (Serial No. 107-216).",
+            "type": "primary",
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-107hhrg83514/html/CHRG-107hhrg83514.htm",
+            "quote": "On the other hand, if you take out Saddam's regime, I guarantee you that it will have enormous positive reverberations on the region."
+        },
+        {
+            "label": "C-SPAN — archived video of Netanyahu's September 12, 2002 testimony before the House Committee on Government Reform.",
+            "type": "primary",
+            "url": "https://www.c-span.org/clip/house-committee/user-clip-netanyahus-expert-testimony-on-iraq-in-2002/4529120"
+        },
+        {
+            "label": "U.S. Senate Select Committee on Intelligence — Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq (S. Rep. 108-301, July 7, 2004) — the “Roberts Report.”",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/publications/108301.pdf"
+        },
+        {
+            "label": "U.S. Senate Select Committee on Intelligence — Report on Whether Public Statements Regarding Iraq by U.S. Government Officials Were Substantiated by Intelligence Information (S. Rep. 110-345, June 2008) — the “Rockefeller Report.”",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/publications/phaseiiaccuracy.pdf"
+        }
+    ],
+    "status": "verified",
+    "notes": "The govinfo transcript is the canonical primary record. C-SPAN's archived video is the publicly available footage of the testimony itself. The 2004 Roberts and 2008 Rockefeller reports are the official congressional findings on the gap between prewar intelligence and the public case for war. See also 2024-netanyahu-congress-001 — Netanyahu's July 2024 joint-session address to the U.S. Congress, the modern counterpart to this testimony."
+}

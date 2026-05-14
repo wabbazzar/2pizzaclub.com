@@ -1,0 +1,37 @@
+{
+    "id": "DWEtPGrkRCF",
+    "url": "https://www.instagram.com/reel/DWEtPGrkRCF/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@nyc_wtc",
+    "author_display_name": "@nyc_wtc",
+    "posted_at": "2026-03-19",
+    "engagement": {
+        "likes": 1067,
+        "comments": 110
+    },
+    "caption": "Subscribe! Help us to reach 5000 subscribers!\n\n#wtc #911 #truth #neverforget #usa",
+    "hashtags": [
+        "wtc",
+        "911",
+        "truth",
+        "neverforget",
+        "usa"
+    ],
+    "audio_track_actual": "Former Israeli Prime Minister Benjamin Netanyahu speaking before the U.S. House Committee on Government Reform on September 12, 2002. C-SPAN broadcast feed.",
+    "video_overlay_text_observed": "On-screen chyron: \"BENJAMIN NETANYAHU — Former Israeli Prime Minister 1996–99.\" Network ID: C-SPAN. \"LIVE\" indicator visible.",
+    "audio_content_summary": "A 24-second excerpt from Netanyahu's sworn testimony to the U.S. House Committee on Government Reform on September 12, 2002, at the hearing titled \"Conflict with Iraq: An Israeli Perspective.\" In the excerpted passage, Netanyahu argues that the September 11, 2001 attacks opened American eyes to a larger conflict, and that the public will of the United States is moving inexorably to settle that conflict — language used to support his case for a U.S. invasion of Iraq.",
+    "implied_frame": "The video presents Netanyahu's 2002 testimony as evidence that the U.S. invasion of Iraq was sold to Congress in part by foreign-government advocacy on factual premises that did not hold up. The premise on which Netanyahu testified — that Saddam Hussein was on the verge of acquiring nuclear weapons — was not supported by post-invasion findings (no WMD stockpiles were recovered), and the Senate Intelligence Committee's 2004 and 2008 reports later concluded that prewar intelligence assessments were substantially overstated. The video also implies a parallel between the 2002 push for war on Iraq and contemporary advocacy for military action against Iran.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~3 MB, vp9 720x1280, 24s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2002-netanyahu-iraq-testimony-001"
+    ],
+    "supporting_research_links": [
+        "https://www.govinfo.gov/content/pkg/CHRG-107hhrg83514/html/CHRG-107hhrg83514.htm",
+        "https://www.c-span.org/clip/house-committee/user-clip-netanyahus-expert-testimony-on-iraq-in-2002/4529120",
+        "https://en.wikipedia.org/wiki/Iraq_War",
+        "https://www.sanders.senate.gov/press-releases/news-sanders-statement-netanyahu-was-wrong-in-2002-he-is-wrong-now/"
+    ]
+}

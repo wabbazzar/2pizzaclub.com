@@ -1,0 +1,12 @@
+Source: reel.webm
+Audio: opus 48kHz stereo extracted to 16kHz mono WAV
+Transcribed: 2026-05-14, openai-whisper base.en
+
+— FULL TEXT —
+
+Americans to see the great conflict and the great danger that faces us.
+And once opened, then the overpowering will of the majority of the people of the United
+States.
+So the steamroller is inexorably moving to decide this battle.
+
+— END —

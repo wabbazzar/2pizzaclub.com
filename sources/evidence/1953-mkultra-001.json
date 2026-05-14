@@ -1,0 +1,37 @@
+{
+    "id": "1953-mkultra-001",
+    "anchor": "y1953-mkultra",
+    "year": 1953,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "mind-control",
+        "drugs",
+        "human-experimentation"
+    ],
+    "claim": "Project MKULTRA was a CIA mind-control research program authorized by Director Allen Dulles on April 13, 1953. Across 149 sub-projects between 1953 and 1973, CIA personnel and contractors conducted human experiments — many on unwitting subjects — involving LSD, hypnosis, sensory deprivation, isolation, electroshock, verbal and sexual abuse, and other techniques aimed at behavioral modification. The program operated through cut-out funding via universities, hospitals, prisons, and private research foundations. CIA Director Richard Helms ordered most MKULTRA records destroyed in 1973; the program's existence first surfaced in the 1975 Rockefeller Commission report, was further documented by the Church Committee in 1975-76, and received its most extensive public hearing on August 3, 1977 before the Senate Select Committee on Intelligence and the Subcommittee on Health and Scientific Research. The U.S. government has formally acknowledged the program; the surviving documents — the so-called “MKULTRA financial records,” released after a 1977 FOIA request by John Marks — are held by the U.S. National Archives.",
+    "sources": [
+        {
+            "label": "U.S. Senate Select Committee on Intelligence and Subcommittee on Health and Scientific Research — “Project MKULTRA, the CIA's Program of Research in Behavioral Modification,” Joint Hearing, 95th Congress, 1st Session (August 3, 1977).",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+        },
+        {
+            "label": "U.S. Church Committee — Final Report, Book I (Foreign and Military Intelligence), April 1976, on CIA testing of behavioral-modification drugs.",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/94755_I.pdf"
+        },
+        {
+            "label": "John D. Marks, The Search for the “Manchurian Candidate”: The CIA and Mind Control (Times Books, 1979) — written using the MKULTRA financial records he obtained via FOIA in 1977.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "CIA Reading Room (FOIA-released MKULTRA documents).",
+            "type": "primary",
+            "url": "https://www.cia.gov/readingroom/collection/mkultra"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 1977 Senate joint hearing is the canonical primary record (with Stansfield Turner, then DCI, testifying for the agency). The Church Committee's 1976 final report contains the broader institutional findings. CIA's reading-room MKULTRA collection is the digitized FOIA release. Tom O'Neill's CHAOS (2019) makes the most-cited modern claims about possible MKULTRA connections to Charles Manson via Dr. Louis Jolyon West; that downstream-research thread is contested and not folded into this record."
+}

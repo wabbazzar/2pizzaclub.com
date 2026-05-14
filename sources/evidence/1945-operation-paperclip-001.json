@@ -1,0 +1,37 @@
+{
+    "id": "1945-operation-paperclip-001",
+    "anchor": "y1945-paperclip",
+    "year": 1945,
+    "era": "ii",
+    "themes": [
+        "cia",
+        "nazi-scientists",
+        "rocketry",
+        "huntsville"
+    ],
+    "claim": "Operation Paperclip was a U.S. military intelligence program that, between 1945 and roughly 1959, brought more than 1,600 German scientists, engineers, and technicians — many with documented Nazi Party affiliations and a smaller number with documented SS or war-crimes records — into U.S. government employment, principally in rocketry, aerospace medicine, and chemical weapons research. The most prominent was Wernher von Braun, the SS-Sturmbannführer and former technical director of the V-2 missile program at Peenemünde, who was relocated to Fort Bliss in 1945, transferred to Huntsville, Alabama in 1950, and ultimately led NASA's Marshall Space Flight Center, where the Saturn V was developed. The program was authorized by Joint Chiefs of Staff directive JCS 1067 in September 1945 and operated under the Joint Intelligence Objectives Agency. Internal records sanitized many of the participants' wartime records to permit U.S. immigration.",
+    "sources": [
+        {
+            "label": "Annie Jacobsen, Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America (Little, Brown, 2014).",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "U.S. National Archives — Joint Intelligence Objectives Agency records, JCS 1067 series.",
+            "type": "primary",
+            "url": "https://www.archives.gov/research/foreign-policy/related-records/rg-330"
+        },
+        {
+            "label": "U.S. Holocaust Memorial Museum — “Operation Paperclip,” reference essay with declassified-document citations.",
+            "type": "secondary",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/operation-paperclip"
+        },
+        {
+            "label": "National Security Archive (GWU) — declassified Paperclip records and dossiers.",
+            "type": "primary",
+            "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2005-12-22/operation-paperclip-and-american-rearmament"
+        }
+    ],
+    "status": "verified",
+    "notes": "Jacobsen's 2014 book is the most thorough modern secondary; her appendices reference specific Paperclip dossiers held at the National Archives. The NSA briefing book contains the canonical declassified-document collection. Connects directly to the y2022-eskridge entry: Huntsville's institutional aerospace history begins with the relocation of the German rocket team in 1950."
+}

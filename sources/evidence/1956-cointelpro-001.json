@@ -1,0 +1,37 @@
+{
+    "id": "1956-cointelpro-001",
+    "anchor": "y1956-cointelpro",
+    "year": 1956,
+    "era": "ii",
+    "themes": [
+        "fbi",
+        "domestic-surveillance",
+        "civil-rights",
+        "infiltration"
+    ],
+    "claim": "COINTELPRO (Counterintelligence Program) was an FBI domestic-surveillance and disruption program operating from 1956 to 1971 under Director J. Edgar Hoover. The program targeted U.S. political organizations including the Communist Party USA, the Socialist Workers Party, the Black Panther Party, the Student Nonviolent Coordinating Committee, the Southern Christian Leadership Conference, the American Indian Movement, the women's-liberation movement, the Ku Klux Klan, and individual civil-rights leaders, most prominently Dr. Martin Luther King Jr. Tactics included paid informants, infiltration, manufactured rivalries between groups, anonymous letters, IRS audits, false criminal prosecutions, and at least one documented attempt to drive a target to suicide — the so-called “suicide letter” the FBI mailed to Dr. King in November 1964 alongside surveillance audio recordings, urging him to “take it yourself,” released in unredacted form in 2014. COINTELPRO became public after the March 8, 1971 burglary of an FBI field office in Media, Pennsylvania, by the Citizens' Commission to Investigate the FBI; the Church Committee's 1976 final report documented the program in detail.",
+    "sources": [
+        {
+            "label": "U.S. Church Committee — Final Report, Book III (Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans), Section II: COINTELPRO, April 1976.",
+            "type": "primary",
+            "url": "https://www.intelligence.senate.gov/sites/default/files/94755_III.pdf"
+        },
+        {
+            "label": "FBI Records Vault — COINTELPRO files (Black Extremists, Communist Party USA, New Left, White Hate Groups), declassified.",
+            "type": "primary",
+            "url": "https://vault.fbi.gov/cointel-pro"
+        },
+        {
+            "label": "FBI Records Vault — Martin Luther King Jr. file, including the November 1964 anonymous letter (the “suicide letter”) and accompanying audio package.",
+            "type": "primary",
+            "url": "https://vault.fbi.gov/Martin%20Luther%20King%2C%20Jr."
+        },
+        {
+            "label": "Betty Medsger, The Burglary: The Discovery of J. Edgar Hoover's Secret FBI (Knopf, 2014) — the canonical account of the 1971 Media, Pa. break-in that brought COINTELPRO to public light.",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The Church Committee's Book III is the canonical institutional record. FBI's own vault now hosts the released COINTELPRO files. The unredacted version of the King 'suicide letter' was published by Yale historian Beverly Gage in the New York Times in November 2014; the FBI's MLK file at the Records Vault contains the underlying material."
+}

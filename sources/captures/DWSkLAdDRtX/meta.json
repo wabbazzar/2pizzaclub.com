@@ -1,0 +1,42 @@
+{
+    "id": "DWSkLAdDRtX",
+    "url": "https://www.instagram.com/reel/DWSkLAdDRtX/",
+    "platform": "instagram",
+    "captured_at": "2026-05-14",
+    "handle": "@rant.board",
+    "author_display_name": "Cole Soiney",
+    "posted_at": "2026-03-24",
+    "engagement": {
+        "likes": 81000,
+        "comments": 777
+    },
+    "caption": "Here’s what the CIA has been up to for the last 80 years… PART 1\n\n#fyp #mkultra #mockingbird #cia #epstein",
+    "hashtags": [
+        "fyp",
+        "mkultra",
+        "mockingbird",
+        "cia",
+        "epstein"
+    ],
+    "audio_track_actual": "Single male narrator, list/sprint format, walking through documented U.S. domestic intelligence programs roughly chronologically. Cuts away briefly at the end (transcript truncated to 180s).",
+    "video_overlay_text_observed": "On-screen captions identifying each program by name as the narrator introduces it: PAPERCLIP, SHAMROCK, BLUEBIRD, ARTICHOKE, HTLINGUAL, MKNAOMI, MKULTRA, COINTELPRO, MKSEARCH, MKOFTEN, STARGATE, NORTHWOODS, GULF OF TONKIN.",
+    "audio_content_summary": "The narrator runs through a chronological enumeration of declassified U.S. intelligence-community domestic and covert-action programs from 1945 through 1973, using each as a checklist of items already on the public record. Programs named: Paperclip (1945+), Shamrock (1945-1975), Bluebird (1950s), Artichoke (1950s), HTLINGUAL (mail surveillance), MKNAOMI (biological weapons), MKULTRA (1953-1973), MKSEARCH/MKOFTEN/MKCHICK and Stargate (1960s-70s remote-viewing programs), COINTELPRO (1956-1971, including the FBI 'suicide letter' to Dr. King), Operation Northwoods (1962), and the Gulf of Tonkin (1964). The narrator references the Unabomber's possible exposure to a Harvard psychological-experimentation program and Tom O'Neill's CHAOS book on possible MKULTRA connections to Charles Manson via Dr. Louis Jolyon West.",
+    "implied_frame": "The video presents the breadth of declassified domestic and covert programs as a baseline of public-record fact, against which contemporary skepticism toward the intelligence community can be evaluated. The four programs newly documented under this entry — Paperclip, MKULTRA, COINTELPRO, and the Gulf of Tonkin — are each on the record via the Church Committee, NSA declassifications, or formal congressional acknowledgement. The downstream-research claims about Manson and the Unabomber are the editorial threads with the weakest documentary base; they are noted but not folded into the evidence cards.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~38 MB, vp9 720x1280, 180s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "1945-operation-paperclip-001",
+        "1953-mkultra-001",
+        "1956-cointelpro-001",
+        "1964-gulf-of-tonkin-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Operation_Paperclip",
+        "https://en.wikipedia.org/wiki/Project_MKUltra",
+        "https://en.wikipedia.org/wiki/COINTELPRO",
+        "https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident",
+        "https://en.wikipedia.org/wiki/Operation_Shamrock",
+        "https://en.wikipedia.org/wiki/Stargate_Project"
+    ]
+}

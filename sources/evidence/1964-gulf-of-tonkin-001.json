@@ -1,0 +1,37 @@
+{
+    "id": "1964-gulf-of-tonkin-001",
+    "anchor": "y1964-tonkin",
+    "year": 1964,
+    "era": "ii",
+    "themes": [
+        "vietnam",
+        "false-flag",
+        "casus-belli",
+        "intelligence"
+    ],
+    "claim": "On August 2, 1964, the U.S. destroyer USS Maddox engaged North Vietnamese torpedo boats in the Gulf of Tonkin. On August 4, the Maddox and the USS Turner Joy reported a second engagement; the Johnson administration cited that second engagement to Congress as a deliberate, unprovoked North Vietnamese attack. On August 7, Congress passed the Gulf of Tonkin Resolution by a vote of 416-0 in the House and 88-2 in the Senate, authorizing the President to use military force in Southeast Asia. A 2005 declassified U.S. National Security Agency historical study, written by NSA historian Robert J. Hanyok, concluded that the August 4 incident did not occur as reported — that the radar and sonar contacts the destroyers had reported were artifacts of weather and crew error, that no North Vietnamese boats were present, and that NSA personnel at the time deliberately altered signals-intelligence translations to reinforce the case for a second attack. Defense Secretary Robert McNamara acknowledged in his 1995 memoir In Retrospect that the August 4 incident did not happen.",
+    "sources": [
+        {
+            "label": "Robert J. Hanyok, “Skunks, Bogies, Silent Hounds, and the Flying Fish: The Gulf of Tonkin Mystery, 2-4 August 1964,” NSA Cryptologic Quarterly (2000-2001), declassified November 2005.",
+            "type": "primary",
+            "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/relea00012.pdf"
+        },
+        {
+            "label": "National Security Archive (GWU) — “Tonkin Gulf Intelligence ‘Skewed’ According to Official History and Intercepts” (Briefing Book No. 132, December 1, 2005).",
+            "type": "primary",
+            "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/"
+        },
+        {
+            "label": "Robert S. McNamara, In Retrospect: The Tragedy and Lessons of Vietnam (Times Books, 1995).",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "U.S. Congress — H.J. Res. 1145, Public Law 88-408, the Gulf of Tonkin Resolution (August 7, 1964).",
+            "type": "primary",
+            "url": "https://www.archives.gov/milestone-documents/tonkin-gulf-resolution"
+        }
+    ],
+    "status": "verified",
+    "notes": "Hanyok's NSA history is the canonical primary record on the second-incident finding; the NSA's 2005 declassification is its release vehicle. The August 2 engagement was real (and is not contested); the August 4 engagement is what the post-2005 record establishes did not occur. The Resolution itself was repealed in 1971 — but only after escalation of the Vietnam War it had authorized."
+}

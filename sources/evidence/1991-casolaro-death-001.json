@@ -1,0 +1,44 @@
+{
+    "id": "1991-casolaro-death-001",
+    "anchor": "y1991-casolaro",
+    "year": 1991,
+    "era": "iii",
+    "themes": [
+        "journalism",
+        "promis",
+        "inslaw",
+        "iran-contra",
+        "bcci",
+        "scientist-deaths"
+    ],
+    "claim": "Joseph Daniel “Danny” Casolaro, 44, was a freelance investigative journalist working on a book he called The Octopus — a project that attempted to draw a single conspiracy connecting the Inslaw / PROMIS software-theft case, the October Surprise allegations, the collapse of the Bank of Credit and Commerce International (BCCI), the Iran-Contra arms-and-money channel, and a network of U.S. intelligence and organized-crime figures he believed had operated jointly across the 1980s. On August 10, 1991, he was found dead in a bathtub at the Sheraton Hotel in Martinsburg, West Virginia, with his wrists slashed ten to twelve times. The local medical examiner ruled the death a suicide. Casolaro had told his brother Anthony — and his housekeeper, Olga Mokros — in the days before his trip that he had been receiving telephone death threats, and instructed his brother that if anything happened to him on the trip “it won't be an accident.” The briefcase Casolaro reportedly carried — said by his family and several sources to contain his Octopus notes — was missing from the hotel room when his body was discovered. The U.S. House Judiciary Committee's September 1992 Inslaw report (the “Brooks Report”) concluded that Casolaro's investigation merited further inquiry; no federal investigation of his death was opened. The case is the subject of the 2024 Netflix documentary American Conspiracy: The Octopus Murders.",
+    "sources": [
+        {
+            "label": "U.S. House Judiciary Committee — “The Inslaw Affair: Investigative Report,” H. Rep. 102-857, September 10, 1992 (the Brooks Report).",
+            "type": "primary",
+            "url": "https://www.govinfo.gov/content/pkg/CRPT-102hrpt857/pdf/CRPT-102hrpt857.pdf"
+        },
+        {
+            "label": "Wikipedia — “Danny Casolaro,” canonical aggregator with primary-source citations to the Brooks Report, the Martinsburg Police Department records, and contemporary press.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Danny_Casolaro"
+        },
+        {
+            "label": "Ron Rosenbaum, “The Last Days of Danny Casolaro,” Vanity Fair, January 1992 — the canonical contemporary long-form journalism on the case.",
+            "type": "secondary",
+            "url": "http://www.thestacksreader.com/the-strange-death-of-danny-casolaro-ron-rosenbaum/"
+        },
+        {
+            "label": "CovertAction Magazine — “Declassified Documents Call Into Question Official Washington Narrative of Danny Casolaro's Death” (June 17, 2018).",
+            "type": "secondary",
+            "url": "https://covertactionmagazine.com/2018/06/17/declassified-documents-call-into-question-official-washington-narrative-of-danny-casolaros-death/"
+        },
+        {
+            "label": "Netflix — American Conspiracy: The Octopus Murders (2024), four-part documentary.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/American_Conspiracy:_The_Octopus_Murders"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Brooks Report is the canonical congressional primary record on Inslaw and on Casolaro's investigation; it stops short of formally rejecting the official suicide ruling but documents the unresolved questions. The reel's reference to Casolaro investigating “Saturnian frequencies” / NASA is not part of the mainstream Casolaro record and likely conflates a separate strand of conspiratorial commentary; this record sticks to the documented Octopus material. Connects to the existing 1985-iran-contra-001 and 2022-eskridge-death-001 records — the latter via the broader scientist-and-journalist-death cluster theme."
+}

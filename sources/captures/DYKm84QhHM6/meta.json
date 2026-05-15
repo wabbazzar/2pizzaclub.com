@@ -1,0 +1,31 @@
+{
+    "id": "DYKm84QhHM6",
+    "url": "https://www.instagram.com/reel/DYKm84QhHM6/",
+    "platform": "instagram",
+    "captured_at": "2026-05-15",
+    "handle": "@swaggylaggygolfdaddy",
+    "author_display_name": "sienna scibird",
+    "posted_at": "2026-05-10",
+    "engagement": {
+        "likes": 57000,
+        "comments": 596
+    },
+    "caption": "i wish journalists were brave like they were in the 80’s and 90’s",
+    "hashtags": [],
+    "audio_track_actual": "Single female speaker on a golf-driving range, addressing camera. The video uses an inset image of the U.S. Capitol behind storm clouds while she narrates.",
+    "video_overlay_text_observed": "Inset image of the U.S. Capitol behind storm clouds; no on-screen text identifies the subject by name.",
+    "audio_content_summary": "The speaker, identified by handle as @swaggylaggygolfdaddy / sienna scibird, recounts the case of an unnamed journalist (Danny Casolaro) who was investigating what he called a global shadow government, including a stolen spy software (PROMIS) and an attempt to develop signals technology associated with NASA, who told his family that if anything happened to him not to believe it was an accident, and was found dead in a hotel room with his notes ransacked or missing. The speaker closes with a sarcastic deflection — “obviously there is no global shadow government, this is just my driver” — to let the framing hang as the rhetorical point of the post. The speaker's caption — “i wish journalists were brave like they were in the 80's and 90's” — names the era she's pointing at.",
+    "implied_frame": "The video uses Casolaro's case as a one-paragraph example for the broader proposition that mainstream investigative journalism in the 1980s and early 1990s pursued institutional-corruption stories — Inslaw / PROMIS, Iran-Contra, BCCI, the October Surprise — with a directness that has since receded. The Casolaro death itself is on the public record (House Judiciary Brooks Report 1992; ongoing Netflix documentary 2024). The Saturnian-frequency / NASA element of the speaker's account is not in the mainstream Casolaro record and sits outside the documented Octopus material.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~12 MB, vp9 720x1280, 47s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "1991-casolaro-death-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/Danny_Casolaro",
+        "https://en.wikipedia.org/wiki/Inslaw",
+        "https://en.wikipedia.org/wiki/PROMIS_(software)",
+        "https://en.wikipedia.org/wiki/American_Conspiracy:_The_Octopus_Murders"
+    ]
+}

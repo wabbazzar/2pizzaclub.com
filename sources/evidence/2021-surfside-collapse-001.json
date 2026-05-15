@@ -9,7 +9,7 @@
         "florida",
         "nist"
     ],
-    "claim": "On June 24, 2021, at approximately 1:22 a.m. EDT, Champlain Towers South — a 12-story beachfront condominium in Surfside, Florida — partially collapsed, killing 98 people and ranking among the deadliest structural disasters in U.S. history. NIST's preliminary investigation has identified the pool deck as the likely origin of the collapse, with long-term water penetration and corrosion of reinforced concrete in the underground parking structure as contributing factors; problems had been reported in 2018 and described as 'much worse' in April 2021.",
+    "claim": "On June 24, 2021, at approximately 1:22 a.m. EDT, Champlain Towers South — a 12-story beachfront condominium at 8777 Collins Avenue in Surfside, Florida — partially collapsed, killing 98 people and ranking among the deadliest structural disasters in U.S. history. NIST's preliminary investigation has identified the pool deck as the likely origin of the collapse, with long-term water penetration and corrosion of reinforced concrete in the underground parking structure as contributing factors; problems had been reported in 2018 and described as “much worse” in April 2021. The collapse occurred approximately 24 hours after software pioneer John McAfee was found dead in a Spanish prison cell on June 23, 2021. A widely shared screenshot circulating in the days after the collapse purported to show a June 8, 2021 McAfee tweet stating that 31 terabytes of files were stored “in my condo near 88th Street and Collins Avenue just north of Miami Beach” — the address of Champlain Towers South. PolitiFact, Snopes, and Misbar verified by direct review of his Twitter account that the tweet was fabricated, that McAfee posted two unrelated tweets that day, and that Miami-Dade property records show he did not own a unit at Champlain Towers. McAfee did, however, make a separate, real June 2019 “dead man's switch” tweet from Cuba threatening to release 31+ terabytes of incriminating data on government corruption if he were arrested or disappeared — that earlier tweet is documented under the McAfee entry on this page.",
     "sources": [
         {
             "label": "Wikipedia — “Surfside condominium collapse”",
@@ -35,11 +35,21 @@
             "url": "https://www.gao.gov/products/gao-24-106558"
         },
         {
+            "label": "PolitiFact — “Image suggesting John McAfee stored files at collapsed Fla. condo tower is fake” (June 28, 2021).",
+            "type": "secondary",
+            "url": "https://www.politifact.com/factchecks/2021/jun/28/instagram-posts/image-suggesting-john-mcafee-stored-files-collapse/"
+        },
+        {
+            "label": "Snopes — “Did John McAfee Hide Files at Collapsed Miami Building?” (June 28, 2021).",
+            "type": "secondary",
+            "url": "https://www.snopes.com/fact-check/john-mcafee-files-miami-building/"
+        },
+        {
             "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DRoJ9FFiSUv (Nov 28, 2025) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DRoJ9FFiSUv/"
         }
     ],
     "status": "verified",
-    "notes": "Anchor y2021-surfside is new. NIST's ongoing technical investigation has identified pool-deck origin and reinforced-concrete degradation as the leading cause hypothesis; this is the documented structural-engineering record and the counterweight to any framing that the collapse was caused by intentional action."
+    "notes": "NIST's ongoing technical investigation has identified pool-deck origin and reinforced-concrete degradation as the leading cause hypothesis; this is the documented structural-engineering record. The McAfee-Champlain connection narrative is now threaded through both this record and 2021-mcafee-death-001 so a reader landing on either entry sees the full chain: real timing (24-hour gap), real 2019 dead-man's-switch tweet, fabricated June 2021 Champlain-Towers tweet, no property-records connection. The 8777 Collins Avenue address is correct for Champlain Towers South; the fabricated tweet's '88th Street and Collins Avenue' phrasing is geographically adjacent (the tower sits near the corner of 88th Street and Collins Avenue) which is part of what made the fake screenshot superficially plausible."
 }

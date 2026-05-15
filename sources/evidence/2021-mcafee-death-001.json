@@ -9,7 +9,7 @@
         "extradition",
         "contested"
     ],
-    "claim": "On June 23, 2021 — one day before the Champlain Towers South collapse in Florida — software pioneer John McAfee, 75, was found dead in his cell at the Brians 2 prison near Barcelona, Spain, hours after the Spanish National Court approved his extradition to the United States on federal tax-evasion charges. Barcelona's court later ruled the death a suicide by hanging following a full investigation that included prison footage and an autopsy. McAfee's widow Janice publicly disputed the suicide ruling; McAfee himself had posted, in a 2019 tweet, the statement “If I suicide myself, I didn't. I was whackd.”",
+    "claim": "On June 23, 2021 — one day before the Champlain Towers South collapse in Florida — software pioneer John McAfee, 75, was found dead in his cell at the Brians 2 prison near Barcelona, Spain, hours after the Spanish National Court approved his extradition to the United States on federal tax-evasion charges. Barcelona's court later ruled the death a suicide by hanging following a full investigation that included prison footage and an autopsy. McAfee's widow Janice publicly disputed the suicide ruling. McAfee himself had posted, in a 2019 tweet, the statement “If I suicide myself, I didn't. I was whackd.” In a separate June 2019 tweet from Cuba, McAfee threatened to release “31+ terabytes of incriminating data” on government corruption if he were arrested or disappeared — the “dead man's switch” claim that has anchored online speculation about his death ever since. In the days after his death and the next-day Surfside collapse, a screenshot of a purported June 8, 2021 McAfee tweet circulated widely, reading: “If anything ever happens to me, please know that the 31TB of files I have are located on hard drives in my condo near 88th Street and Collins Avenue just north of Miami Beach” — the address of Champlain Towers South. PolitiFact, Snopes, and Misbar each verified that no such tweet exists on his verified Twitter account, that he posted two unrelated tweets on June 8, that he never owned a unit at Champlain Towers, and that the screenshot was fabricated. The 2019 dead-man's-switch tweet is real; the June 2021 Champlain Towers tweet was not.",
     "sources": [
         {
             "label": "Wikipedia — “John McAfee”",
@@ -35,11 +35,27 @@
             "url": "https://www.aa.com.tr/en/europe/barcelona-court-rules-john-mcafee-s-death-in-prison-was-suicide/3004058"
         },
         {
+            "label": "PolitiFact — “Image suggesting John McAfee stored files at collapsed Fla. condo tower is fake” (June 28, 2021).",
+            "type": "secondary",
+            "url": "https://www.politifact.com/factchecks/2021/jun/28/instagram-posts/image-suggesting-john-mcafee-stored-files-collapse/",
+            "quote": "McAfee sent out two tweets on June 8, but neither made reference to computer files or a condo"
+        },
+        {
+            "label": "Snopes — “Did John McAfee Hide Files at Collapsed Miami Building?” (June 28, 2021).",
+            "type": "secondary",
+            "url": "https://www.snopes.com/fact-check/john-mcafee-files-miami-building/"
+        },
+        {
+            "label": "Misbar — “John McAfee Didn't Own a Condo in Collapsed Florida Building” (July 3, 2021).",
+            "type": "secondary",
+            "url": "https://www.misbar.com/amp/en/factcheck/2021/07/03/john-mcafee-didnt-own-a-condo-in-collapsed-florida-building"
+        },
+        {
             "label": "Fight Back Podcast / @jakeshieldspod, Instagram reel DRoJ9FFiSUv (Nov 28, 2025) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DRoJ9FFiSUv/"
         }
     ],
     "status": "verified",
-    "notes": "Anchor y2021-surfside. McAfee's death was the day before the Surfside collapse, not the same day as the reel narration suggests. The reel further claims McAfee had information or property stored at the building that collapsed; no primary reporting documents a connection between McAfee and any Champlain Towers South unit, and no record is filed for that claim here."
+    "notes": "Anchor y2021-surfside. The 24-hour gap between McAfee's death (June 23) and the Champlain Towers South collapse (June 24) is the timing that animates the connection narrative. The 2019 dead-man's-switch tweet and the “If I suicide myself” tweet are both on McAfee's verified Twitter account. The June 2021 Champlain Towers tweet circulating in viral screenshots was fabricated; PolitiFact and Snopes both verified by direct review of his account history that no such tweet exists, and Miami-Dade property records confirm McAfee never owned a unit there. Both halves are kept in the claim so the reader can see what part of the link is real (the timing and the 2019 31TB tweet) and what part is not (the specific Champlain Towers tweet, the unit ownership)."
 }

@@ -1,0 +1,34 @@
+{
+    "id": "1948-einstein-begin-letter-001",
+    "anchor": "y1948-nakba",
+    "year": 1948,
+    "era": "ii",
+    "themes": [
+        "israel",
+        "palestine",
+        "documents",
+        "fascism",
+        "jewish-dissent"
+    ],
+    "claim": "On December 4, 1948, the New York Times published an open letter dated December 2, signed by Albert Einstein, political theorist Hannah Arendt, philosopher Sidney Hook, and twenty-five other prominent American Jewish intellectuals and rabbis, protesting Menachem Begin's planned visit to the United States and denouncing his Tnuat Haherut (Freedom) party as “a political party closely akin in its organization, methods, political philosophy and social appeal to the Nazi and Fascist parties.” The letter cited the April 9, 1948 Deir Yassin massacre — in which paramilitaries from Begin's Irgun Zvai Leumi and Lehi (Stern Gang) killed more than 200 villagers in the Palestinian Arab village of Deir Yassin and, in the letter's own words, “were proud of this massacre, publicized it widely, and invited all the foreign correspondents present in the country to view the heaped corpses and the general havoc at Deir Yassin.” Begin went on to lead the Likud bloc that grew out of Herut and to serve as Prime Minister of Israel from 1977 to 1983; Begin's heir Yitzhak Shamir, also a former Lehi commander, served as Prime Minister from 1983-84 and 1986-92. Likud — the direct political descendant of the Herut party the letter was written to oppose — has been the governing party of Israel for most of the period since 1977, and is the party of current Prime Minister Benjamin Netanyahu.",
+    "sources": [
+        {
+            "label": "Albert Einstein, Hannah Arendt, Sidney Hook, et al., “New Palestine Party. Visit of Menachen Begin and Aims of Political Movement Discussed,” letter to the editor, The New York Times, December 4, 1948 — full text via Marxists Internet Archive (Albert Einstein collection).",
+            "type": "primary",
+            "url": "https://www.marxists.org/reference/archive/einstein/1948/12/02.htm",
+            "quote": "Among the most disturbing political phenomena of our times is the emergence in the newly created state of Israel of the “Freedom Party” (Tnuat Haherut), a political party closely akin in its organization, methods, political philosophy and social appeal to the Nazi and Fascist parties."
+        },
+        {
+            "label": "Internet Archive — scanned New York Times facsimile of the original published letter (December 4, 1948 edition).",
+            "type": "primary",
+            "url": "https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948"
+        },
+        {
+            "label": "Haaretz — “1948: N.Y. Times Publishes Letter by Einstein, Other Jews Accusing Menachem Begin of Fascism” (David B. Green, December 4, 2014).",
+            "type": "secondary",
+            "url": "https://www.haaretz.com/jewish/2014-12-04/ty-article/.premium/1948-n-y-times-letter-by-einstein-slams-begin/0000017f-e28e-d38f-a57f-e6de6e7d0000"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Marxists Internet Archive copy is the most accessible full-text version. The Internet Archive scan reproduces the original New York Times page facsimile. Haaretz's 2014 retrospective is a clean Israeli-press secondary. Connects directly to the existing 2002-netanyahu-iraq-testimony-001, 1996-clean-break-001, 2018-israel-apartheid-001, 2024-netanyahu-congress-001, and 2026-sde-teiman-001 records — Begin's Herut became Likud, which is the governing party of Israel for most of the period documented under those entries."
+}

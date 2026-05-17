@@ -1,0 +1,38 @@
+{
+    "id": "2016-hillel-mosaic-001",
+    "anchor": "y2018-nation-state-law",
+    "year": 2016,
+    "era": "iv",
+    "themes": [
+        "israel",
+        "hillel",
+        "college-campuses",
+        "fara",
+        "diaspora-affairs"
+    ],
+    "claim": "In August 2016, the Israeli Ministry of Diaspora Affairs (then led by Naftali Bennett, later Prime Minister of Israel in 2021-22) launched Mosaic United — a $66 million joint initiative with three partner organizations operating on U.S. college campuses: Hillel International, Olami Worldwide, and Chabad on Campus. The Israeli government's announced contribution was approximately $33 million, with the partner organizations matching the figure to roughly $66 million in total program funding. Hillel International's share was approximately $22 million over five years. The initiative's stated purpose was “strengthening Jewish identity” on U.S. campuses and countering the Boycott, Divestment, and Sanctions movement. None of the three U.S.-side recipient organizations registered as foreign agents under the Foreign Agents Registration Act (FARA, 22 U.S.C. § 611 et seq.), which generally requires U.S. entities receiving funds or direction from foreign governments to disclose those relationships to the Department of Justice. The student-organized Open Hillel campaign formally called on Hillel to reject the Israeli-government funding in November 2016. Hillel continued the partnership.",
+    "sources": [
+        {
+            "label": "Jewish Telegraphic Agency — “Open Hillel calls on Hillel to reject funding by Naftali Bennett project” (November 3, 2016).",
+            "type": "secondary",
+            "url": "https://www.jta.org/2016/11/03/united-states/open-hillel-calls-on-hillel-to-reject-funding-by-naftali-bennett-project"
+        },
+        {
+            "label": "The Forward — “Open Hillel Calls on Hillel To Reject of $22M in Israel Government Funding” (November 4, 2016).",
+            "type": "secondary",
+            "url": "https://forward.com/news/breaking-news/353344/open-hillel-calls-on-hillel-to-reject-of-22m-in-israel-government-funding/"
+        },
+        {
+            "label": "Influence Watch — Hillel International organizational profile, with funding and partnership history.",
+            "type": "secondary",
+            "url": "https://www.influencewatch.org/non-profit/hillel-international/"
+        },
+        {
+            "label": "U.S. Department of Justice — Foreign Agents Registration Act (FARA) registration search portal.",
+            "type": "primary",
+            "url": "https://efile.fara.gov/ords/fara/f?p=1235:10"
+        }
+    ],
+    "status": "verified",
+    "notes": "Connects to existing y2018-nation-state-law records (the Israel-apartheid framework, the anti-BDS state laws). The FARA-registration gap is a documented matter of dispute: the Israeli Ministry of Diaspora Affairs is a foreign government, the funding is a contractual relationship, but Hillel maintains it does not act under foreign 'direction or control' within FARA's meaning. The DOJ has not opened a FARA enforcement action against Hillel through mid-2026."
+}

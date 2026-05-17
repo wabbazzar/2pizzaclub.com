@@ -1,0 +1,43 @@
+{
+    "id": "1913-frank-adl-founding-001",
+    "anchor": "y1913-frank-adl",
+    "year": 1913,
+    "era": "i",
+    "themes": [
+        "bnai-brith",
+        "adl",
+        "leo-frank",
+        "lynching",
+        "civil-rights-institutions"
+    ],
+    "claim": "On April 26, 1913 — Confederate Memorial Day in Atlanta — thirteen-year-old Mary Phagan was found murdered in the basement of the National Pencil Company factory. The factory's superintendent, Leo Frank, a Cornell-educated Jewish manager and the sitting president of B'nai B'rith's Gate City Lodge No. 144 (Atlanta), was arrested, tried, and convicted in August 1913 in a trial widely characterized by historians as deeply influenced by anti-Semitism. Frank's death sentence was commuted to life imprisonment by Georgia Governor John M. Slaton in June 1915; on August 17, 1915, a group of Marietta men calling themselves the Knights of Mary Phagan abducted Frank from the prison farm at Milledgeville and lynched him near Marietta. In direct response to the Frank case, B'nai B'rith founded the Anti-Defamation League (ADL) in October 1913 — initially as an arm of B'nai B'rith specifically focused on combating anti-Jewish prejudice in U.S. media and public life. The same period saw the 1915 revival of the Ku Klux Klan, partly in response to the Frank case and partly catalyzed by the release of D. W. Griffith's The Birth of a Nation. B'nai B'rith itself was founded earlier — on October 13, 1843, by twelve German Jewish immigrants in a saloon on Essex Street, New York City — as a Jewish service and fraternal organization. The ADL was formally separated from B'nai B'rith as an independent legal entity only in 2024, after 111 years as a B'nai B'rith program.",
+    "sources": [
+        {
+            "label": "Anti-Defamation League — official history page on the ADL's October 1913 founding by B'nai B'rith in response to the Leo Frank case.",
+            "type": "primary",
+            "url": "https://www.adl.org/about/history"
+        },
+        {
+            "label": "B'nai B'rith International — official organizational history (founded October 13, 1843 in New York City).",
+            "type": "primary",
+            "url": "https://www.bnaibrith.org/our-history/"
+        },
+        {
+            "label": "Encyclopædia Britannica — “Leo Frank.”",
+            "type": "secondary",
+            "url": "https://www.britannica.com/biography/Leo-Frank"
+        },
+        {
+            "label": "Steve Oney, And the Dead Shall Rise: The Murder of Mary Phagan and the Lynching of Leo Frank (Pantheon, 2003) — the canonical modern historiography.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "The Times of Israel — “The ADL and KKK, born of the same murder, 100 years ago” (David Ian Klein, August 17, 2015), a retrospective tracing both organizations to the Frank case.",
+            "type": "secondary",
+            "url": "https://www.timesofisrael.com/the-adl-and-kkk-born-of-the-same-murder-100-years-ago/"
+        }
+    ],
+    "status": "verified",
+    "notes": "Both B'nai B'rith and the ADL's own organizational histories confirm the founding facts on the public record. Steve Oney's 2003 book is the canonical modern academic treatment of the Frank case itself. The historical consensus that the Frank trial was substantially shaped by anti-Semitism is reflected in the Georgia Board of Pardons and Paroles' 1986 posthumous pardon of Frank (granted on procedural grounds rather than on actual innocence). The reel's claim that 'Leo was re-elected as president of B'nai B'rith Atlanta while in prison' has surfaced in fringe sources but is not in the canonical historical literature; the Gate City Lodge's continued recognition of Frank's case is documented, but a contemporaneous re-election is not."
+}

@@ -1,0 +1,37 @@
+{
+    "id": "1993-adl-spying-001",
+    "anchor": "y1993-adl-spying",
+    "year": 1993,
+    "era": "iii",
+    "themes": [
+        "adl",
+        "domestic-surveillance",
+        "civil-rights",
+        "israel-lobby"
+    ],
+    "claim": "On April 8, 1993, San Francisco police and the FBI executed search warrants on the Anti-Defamation League's San Francisco and Los Angeles offices. The 400-page affidavit supporting the warrants accused the ADL of “misuse of confidential government information and the invasion of privacy of over 1,000 persons.” The investigation centered on two long-running ADL informants: Roy Bullock, who had collected intelligence for the ADL for nearly forty years and had assembled a database of approximately 12,000 individuals and 950 organizations, and Tom Gerard, a former San Francisco Police Department intelligence officer who had taken classified police records home when the unit was disbanded in 1990 and supplied them to Bullock. Targets included Arab-American organizations, the anti-apartheid movement, the National Association for the Advancement of Colored People, ACT-UP, and Greenpeace. Bullock and Gerard had also sold information to the South African government for $16,000 — at a time when Bullock's South African contact was identified as the Pretoria intelligence service. San Francisco District Attorney Arlo Smith ultimately declined to file criminal charges against the ADL itself, citing First Amendment concerns. A 1999 civil class-action settlement required the ADL to purge certain categories of illegally gathered records (driver's license numbers, license-plate numbers, criminal-arrest records, fingerprint cards, mug shots, Social Security numbers, and non-commercial post-office boxes) from its files and to pay attorneys' fees and a small damages amount per class member.",
+    "sources": [
+        {
+            "label": "Middle East Report (MERIP) — “ADL's Spy Ring” (1993) — contemporary investigative summary citing the warrant affidavit.",
+            "type": "secondary",
+            "url": "https://www.merip.org/1993/07/adls-spy-ring/"
+        },
+        {
+            "label": "The Baltimore Sun — “Anti-Defamation League offices raided by police; Spy data sought in San Francisco” (Bill Wallace, April 9, 1993).",
+            "type": "primary",
+            "url": "https://www.baltimoresun.com/news/bs-xpm-1993-04-09-1993099283-story.html"
+        },
+        {
+            "label": "J. Weekly — “ADL ready to settle 1993 class-action suit on spying” (May 14, 1999).",
+            "type": "secondary",
+            "url": "https://jweekly.com/1999/05/14/adl-ready-to-settle-1993-class-action-suit-on-spying/"
+        },
+        {
+            "label": "Washington Report on Middle East Affairs — running 1993 coverage of the ADL Spy Case.",
+            "type": "secondary",
+            "url": "https://www.wrmea.org/1993-june/it-s-now-the-adl-spy-case.html"
+        }
+    ],
+    "status": "verified",
+    "notes": "The 400-page search-warrant affidavit unsealed by the San Francisco Superior Court on April 8, 1993 is the canonical primary record; the contemporary press coverage (Baltimore Sun, San Francisco Chronicle, San Jose Mercury News) tracks the unsealing day by day. The 1999 class-action settlement is on the public record via J. Weekly's reporting. No federal criminal charges were filed against the ADL; the related state-level inquiry against Roy Bullock was pleaded down."
+}

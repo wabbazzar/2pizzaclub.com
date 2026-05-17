@@ -1,0 +1,36 @@
+{
+    "id": "1865-lincoln-assassination-001",
+    "anchor": "y1865-lincoln",
+    "year": 1865,
+    "era": "i",
+    "themes": [
+        "lincoln",
+        "assassination",
+        "civil-war"
+    ],
+    "claim": "On the night of April 14, 1865 — five days after Confederate General Robert E. Lee's surrender at Appomattox Court House — President Abraham Lincoln was shot at Ford's Theatre in Washington, D.C. by stage actor John Wilkes Booth, who fired a single round from a .44-caliber Philadelphia Deringer into the back of Lincoln's head from the rear of the Presidential Box. Lincoln died at 7:22 a.m. on April 15 in the Petersen House across the street. Booth fled on horseback, was located eleven days later at Garrett's farm in Virginia, and was shot and killed by U.S. cavalry on April 26 before he could be brought to trial. Eight co-conspirators were tried by military commission; four (Mary Surratt, Lewis Powell, David Herold, and George Atzerodt) were hanged on July 7, 1865. The Deringer Booth used was recovered on the floor of the Presidential Box that night by theatregoer William T. Kent and is held today at Ford's Theatre. Simon Wolf, a Washington lawyer, B'nai B'rith member, and friend of Lincoln, wrote in his 1918 memoir Presidents I Have Known that he had drinks with Booth at the Willard Hotel earlier on the day of the shooting; that connection is recorded in Wolf's own primary account but does not figure in the official conspiracy-trial record.",
+    "sources": [
+        {
+            "label": "U.S. Library of Congress — Lincoln Assassination collection, including transcripts of the 1865 Military Commission proceedings and the recovered evidence catalog.",
+            "type": "primary",
+            "url": "https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/abraham-lincolns-assassination/"
+        },
+        {
+            "label": "Ford's Theatre — “Booth's Deringer,” official documentation of the murder weapon held in the Ford's Theatre National Historic Site museum collection.",
+            "type": "primary",
+            "url": "https://fords.org/lincolns-assassination/booths-deringer/"
+        },
+        {
+            "label": "U.S. National Archives — Records of the Office of the Judge Advocate General (Army), Case Files of Investigations by the Bureau of Military Justice, 1865 (Lincoln conspiracy trial records).",
+            "type": "primary",
+            "url": "https://www.archives.gov/research/military/civil-war/lincoln-assassination"
+        },
+        {
+            "label": "Simon Wolf, Presidents I Have Known From 1860 to 1918 (Press of Byron S. Adams, Washington, 1918) — Wolf's primary account of meeting John Wilkes Booth at the Willard Hotel on April 14, 1865.",
+            "type": "primary",
+            "url": "https://archive.org/details/presidentsihavek00wolf"
+        }
+    ],
+    "status": "verified",
+    "notes": "The Library of Congress and National Archives hold the canonical primary record (trial transcripts, witness depositions, evidence catalog). Ford's Theatre is the canonical museum custodian for the physical evidence (the Deringer, Booth's diary, the bullet itself is at the National Museum of Health and Medicine). The Wolf-Booth meeting is documented in Wolf's own 1918 memoir; downstream commentary treats it as evidence of a larger conspiracy, but the mainstream historical record locates the conspiracy at the eight co-defendants who were tried in 1865."
+}

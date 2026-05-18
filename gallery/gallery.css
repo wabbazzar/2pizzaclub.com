@@ -239,4 +239,6 @@
     .gallery-item-media video, .gallery-item-media .poster-fallback { max-height: 60vh; }
     .gallery-intro { padding: 2rem 1.25rem 1.5rem; box-shadow: 0 1px 0 var(--chrome-rule), 6px 6px 0 -1px rgba(0,0,0,0.4); }
     .gallery-item-body { padding: 1rem 1rem 0.75rem; }
+    /* leave room for the bottom-pill so last item isn't covered */
+    .gallery-main { padding-bottom: 6rem; }
 }

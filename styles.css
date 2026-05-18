@@ -933,6 +933,37 @@ body.prose-off .narrative-blurb { display: none; }
     }
     .mnav-timeline-list li > a.is-active .t-year { color: var(--accent); }
 
+    /* gallery captures list inside the sheet */
+    .mnav-gallery-list a {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.6rem;
+        padding: 0.7rem 0.5rem;
+        color: var(--ink);
+        text-decoration: none;
+        border-bottom: 1px dashed var(--paper-rule);
+        font-family: var(--serif);
+    }
+    .mnav-gallery-list a:last-child { border-bottom: none; }
+    .mnav-gallery-list a.is-active {
+        background: var(--bus-yellow);
+        font-weight: 700;
+    }
+    .mnav-cap-handle {
+        font-family: var(--display);
+        font-size: 1.15rem;
+        font-weight: 400;
+        color: var(--ink);
+    }
+    .mnav-gallery-list a.is-active .mnav-cap-handle { color: var(--accent); }
+    .mnav-cap-date {
+        font-family: var(--mono);
+        font-size: 0.8rem;
+        color: var(--ink-soft);
+        flex-shrink: 0;
+    }
+
     /* themes inside the sheet */
     .mnav-themes-inner {
         display: flex;

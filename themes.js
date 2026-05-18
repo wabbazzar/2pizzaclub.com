@@ -180,6 +180,24 @@
         writeState();
         applyFilter();
         updateChipStates();
+        scrollToFirstVisible();
+    }
+
+    function scrollToFirstVisible() {
+        if (activeThemes.size === 0) return;
+        // Hiding chapters above the target shifts the page; if we're scrolled far down,
+        // the browser clamps scrollY to maxScrollY (bottom of the now-shorter doc)
+        // before scrollIntoView gets a chance, and the target ends up off-screen.
+        // Reset scroll to top first, then take 2 RAFs for the reflow, then scrollTo
+        // the target's freshly-recomputed position.
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+                const target = document.querySelector('.chapter:not(.filter-hidden)');
+                if (!target) return;
+                target.scrollIntoView({ behavior: 'instant', block: 'start' });
+            });
+        });
     }
 
     function updateChipStates() {

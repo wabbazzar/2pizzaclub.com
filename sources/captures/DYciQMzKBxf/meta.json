@@ -1,0 +1,30 @@
+{
+    "id": "DYciQMzKBxf",
+    "url": "https://www.instagram.com/reel/DYciQMzKBxf/",
+    "platform": "instagram",
+    "captured_at": "2026-05-18",
+    "handle": "@conspiracyintel",
+    "author_display_name": "Conspiracy Theories",
+    "posted_at": "2026-05-17",
+    "engagement": {
+        "likes": 186,
+        "comments": 2
+    },
+    "caption": "🐬 Hidden Ocean Secrets 😳\n\nA man speaks passionately into a microphone, claiming dolphins are far more than highly intelligent marine animals. According to him, they are ancient beings tied to forgotten knowledge and hidden truths beneath the ocean. He alleges dolphins communicate through powerful frequencies, have been involved in classified military underwater operations, and may even interact with humans in ways mainstream science avoids discussing publicly.\n\nAs the speech intensifies, he connects dolphins to lost civilizations, unexplained ocean phenomena, and the idea that humanity has gradually forgotten parts of Earth’s true history. He suggests the oceans may hold secrets far beyond what we currently understand.\n\nSome aspects of these discussions stem from real history, including U.S. Navy dolphin programs dating back to the 1960s, where dolphins were trained for underwater detection and recovery missions. Dolphins are also scientifically recognized for their advanced intelligence, self-awareness, and complex communication abilities. However, claims involving ancient knowledge, hidden civilizations, or secret interactions remain speculative and unproven.\n\nThe topic continues to spread online because it combines real science, mystery, conspiracy theories, and humanity’s endless fascination with the unexplored depths of the ocean.\n\nComment the word \"LIVE\" and I'll send you the link they don't want you to have.\n\nFollow @Conspiracyintel for more conspiracy updates🤝",
+    "hashtags": [],
+    "audio_track_actual": "Two-person conversation, podcast format. The transcript is rough — whisper rendered 'orca' as 'office' in places — and the speakers are riffing rather than presenting a structured argument.",
+    "video_overlay_text_observed": "On-screen captions punctuate the conversation but no specific identifying graphics.",
+    "audio_content_summary": "A short conversational exchange about dolphins. The speakers cover: that dolphins are the most-utilized mammal by the U.S. military for patrols and other roles (this is on the record via the U.S. Navy Marine Mammal Program, founded 1960); that dolphins communicate via ultrasound (true — dolphin echolocation is well-documented in marine biology); that whales can live to 300 (true for the bowhead whale; the documented dolphin lifespan is closer to 40-60 years for bottlenose species); that ancient African birth practices involved dolphins (not documented in any mainstream anthropological record); that dolphins can identify pregnant women (anecdotal viral videos exist; no controlled-study evidence); that dolphins kill great white sharks and 'murder for fun' (dolphins have been documented to attack sharks defensively and to engage in violent intraspecies behavior including infanticide); and that dolphins predate the Cretaceous (cetaceans as a lineage evolved in the Eocene roughly 50 million years ago, after the Cretaceous–Paleogene extinction).",
+    "implied_frame": "The conversation frames dolphins as ancient, semi-mystical witnesses to the planet's history whose communications, if humans could decode them, would unlock a 'lost batch of history.' The single substantive on-the-record thread the speakers point at is the U.S. Navy Marine Mammal Program — covered under this entry. The rest of the conversation is speculative; it is documented in the capture meta for archival completeness but not folded into evidence cards.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~18 MB, vp9 720x1280, 100s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "1960-navy-marine-mammal-program-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/United_States_Navy_Marine_Mammal_Program",
+        "https://en.wikipedia.org/wiki/Cetacean_intelligence",
+        "https://en.wikipedia.org/wiki/Bowhead_whale#Longevity"
+    ]
+}

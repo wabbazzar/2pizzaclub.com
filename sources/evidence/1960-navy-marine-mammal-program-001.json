@@ -1,0 +1,32 @@
+{
+    "id": "1960-navy-marine-mammal-program-001",
+    "anchor": "y1960-nmmp",
+    "year": 1960,
+    "era": "ii",
+    "themes": [
+        "u-s-navy",
+        "marine-mammals",
+        "biotech",
+        "covert-programs"
+    ],
+    "claim": "The U.S. Navy Marine Mammal Program (NMMP) was established in 1960, beginning with the acquisition of a Pacific white-sided dolphin for hydrodynamic studies to improve torpedo design. By 1962 the program had moved to a research facility at Point Mugu, California, and has since 1980 been headquartered in San Diego. The program trains bottlenose dolphins and California sea lions for a documented set of military applications: detecting and marking sea mines using the dolphins' biological sonar, locating and assisting in the recovery of expended test ordnance, and protecting Navy vessels and harbor infrastructure against enemy combat swimmers. NMMP-trained dolphins have been deployed operationally in the 1970-71 Cam Ranh Bay (Vietnam) harbor-protection mission, in Bahrain during the 1987-88 Tanker War, during the 2003 Iraq invasion at Umm Qasr, and in routine deployments since. The program was classified for most of its history; the U.S. Navy declassified the program's existence in the early 1990s, and an annual unclassified summary is now published by the Naval Information Warfare Center Pacific.",
+    "sources": [
+        {
+            "label": "Naval Information Warfare Center Pacific — U.S. Navy Marine Mammal Program official site.",
+            "type": "primary",
+            "url": "https://www.niwcpacific.navy.mil/marine-mammal-program/"
+        },
+        {
+            "label": "Wikipedia — “United States Navy Marine Mammal Program,” canonical aggregator with primary-source citations.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/United_States_Navy_Marine_Mammal_Program"
+        },
+        {
+            "label": "Defense Technical Information Center (DTIC) — “U.S. Navy Marine Mammal Program,” unclassified technical report (1998).",
+            "type": "primary",
+            "url": "https://apps.dtic.mil/sti/tr/pdf/ADA387087.pdf"
+        }
+    ],
+    "status": "verified",
+    "notes": "The NMMP is one of the longer-running U.S. defense programs with continuous operational deployment. The reel's broader claims — that dolphins 'speak in hypersonic tone,' that 'the universe is built on sound frequency,' that ancient African birth practices involved dolphins, and that dolphins predate the Cretaceous — are either not supported by mainstream record or are interpretive/speculative; this record covers only the substantive institutional thread (the NMMP itself)."
+}

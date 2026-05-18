@@ -1,0 +1,48 @@
+{
+    "id": "2021-mcafee-fake-tweet-origin-001",
+    "anchor": "y2021-surfside",
+    "year": 2021,
+    "era": "iv",
+    "themes": [
+        "mcafee",
+        "misinformation",
+        "fabricated-evidence",
+        "qanon",
+        "social-media"
+    ],
+    "claim": "The fabricated June 8, 2021 McAfee tweet — purportedly placing his 31 terabytes of files in a condo at “88th Street and Collins Avenue” — appears to have been assembled in the 24-to-48 hours after McAfee's June 23 death and the Champlain Towers South collapse on June 24, 2021, by overlaying new text onto the visual template of a real McAfee tweet from the same date. Four factors combine to explain why the fake spread quickly and why so many viewers accepted it on first sight. First, there is a real June 8, 2021 McAfee tweet from his verified @officialmcafee account, sent at 11:03 a.m. Eastern Standard Time from “Twitter for Android,” reading: “Now its Jeff Bezos. If space travel improves and becomes fashionable perhaps we can abandon the planet we have so thoroughly mangled and seek fresh ones to trash.” The fabricated screenshot uses the same date (June 8), an almost-identical timestamp (10:03 instead of 11:03), and the same “Twitter for Android” device label — visual continuity that survives a casual scroll-past glance. Second, McAfee had posted a real “dead man's switch” tweet from Cuba on June 9, 2019 threatening to release 31+ terabytes of incriminating data on government corruption if he were arrested or disappeared. The “31TB” phrasing was already familiar to people who had been following McAfee since 2019; the fabricator pulled it from that earlier real tweet and re-mounted it onto the June 2021 template. Third, the Champlain Towers South building's actual street address is 8777 Collins Avenue, in Surfside, immediately north of Miami Beach — which puts the corner of 88th Street and Collins Avenue within the building's block. Someone with a Miami street map could write the fabricated tweet's location text and have it land in the right geographic area without owning anything there. Fourth, McAfee's verified Instagram account posted a large letter “Q” around 4 p.m. Eastern on June 23 — within hours of his death — which activated QAnon-affiliated Telegram channels and message boards. When the Champlain Towers collapse hit the news the next morning, that audience was already primed to look for a connection. The fabricated screenshot first reached wide circulation on Twitter on June 24 (hours after the collapse) and on Instagram (the specific post PolitiFact fact-checked is at instagram.com/p/CQi5m_ZnlM1, dated June 25). Fact-checks from PolitiFact, Snopes, Check Your Fact, Lead Stories, BOOM Live, and Misbar followed June 28 through July 3, 2021.",
+    "sources": [
+        {
+            "label": "Check Your Fact (Daily Caller News Foundation) — “Did John McAfee Send This Tweet About Files He Has In His Condo Near Miami Beach?” (June 28, 2021) — identifies the real June 8 11:03 a.m. EST McAfee tweet about Jeff Bezos that appears to have served as the visual template.",
+            "type": "secondary",
+            "url": "https://checkyourfact.com/2021/06/28/fact-check-john-mcafee-tweet-files-miami/"
+        },
+        {
+            "label": "The Daily Beast — “‘Q’ Post on John McAfee Instagram Page Unleashes Conspiracy Wave” (June 23, 2021) — documents the 4 p.m. ET Q image posted to McAfee's Instagram account hours after his death.",
+            "type": "secondary",
+            "url": "https://www.thedailybeast.com/q-post-on-john-mcafee-instagram-page-unleashes-conspiracy-wave/"
+        },
+        {
+            "label": "PolitiFact — “Image suggesting John McAfee stored files at collapsed Fla. condo tower is fake” (June 28, 2021) — identifies the June 25 Instagram post (instagram.com/p/CQi5m_ZnlM1) flagged by Facebook's misinformation review.",
+            "type": "secondary",
+            "url": "https://www.politifact.com/factchecks/2021/jun/28/instagram-posts/image-suggesting-john-mcafee-stored-files-collapse/"
+        },
+        {
+            "label": "Internet Archive Wayback Machine — snapshot of @officialmcafee on June 20, 2021 (twelve days after the alleged June 8 fabricated tweet, four days before the collapse) — the canonical primary check that the alleged tweet is not on his timeline.",
+            "type": "primary",
+            "url": "https://web.archive.org/web/20210620102404/https://twitter.com/officialmcafee"
+        },
+        {
+            "label": "BOOM Live — “John McAfee's Doctored Tweet Misleadingly Linked To Miami Condo Collapse” (July 2, 2021) — independent verification using the same June 20 Wayback snapshot.",
+            "type": "secondary",
+            "url": "https://www.boomlive.in/world/fake-news-john-mcafee-tweet-miami-condo-collapse-13735"
+        },
+        {
+            "label": "Newsweek — “John McAfee 'Q' Instagram Post Sparks Dead Man's Switch Conspiracy” (June 24, 2021) — documents the QAnon Telegram amplification of the dead-man's-switch narrative immediately after the Q image surfaced.",
+            "type": "secondary",
+            "url": "https://www.newsweek.com/john-mcafee-suicide-q-instagram-dead-mans-switch-1603638"
+        }
+    ],
+    "status": "verified",
+    "notes": "This record is a misinformation-forensics piece, not a record of an event. The reason it lives on the site under y2021-surfside: the McAfee-Champlain-Towers narrative has been repeatedly cited in reels submitted to the project as if the tweet were real, and the only honest editorial response is to document precisely how the fake was constructed and why it spread. The four factors named in the claim (template-tweet visual continuity, real 2019 31TB tweet, geographic plausibility of the address, QAnon priming via the June 23 Q image) together account for the durability of the narrative — none of them on their own would have been sufficient to make the fake stick. Connects directly to 2021-mcafee-death-001 and 2021-surfside-collapse-001, both of which now carry the Wayback Machine citation as well."
+}

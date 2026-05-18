@@ -711,8 +711,271 @@ body.prose-off .narrative-blurb { display: none; }
     .evidence { padding: 0 1rem 1rem; }
     .placeholder { margin: 0 0 0.75rem; }
     .poll-options li { grid-template-columns: 1fr 5rem 2.5rem; }
+
+    /* hide top theme-bar + collapsed timeline on mobile — replaced by bottom-pill + sheet */
+    .theme-bar { display: none; }
+    .timeline { display: none; }
+
+    /* leave room at the bottom for the mobile-nav pill so last chapter isn't covered */
+    .chapters { padding-bottom: 6rem; }
+}
+
+/* ---------------- mobile-nav (bottom pill + bottom sheet) ---------------- */
+
+.mnav-pill,
+.mnav-sheet,
+.mnav-backdrop { display: none; }
+
+/* [hidden] must always win over the @media display rules below */
+.mnav-backdrop[hidden],
+.mnav-sheet[hidden] { display: none !important; }
+
+@media (max-width: 880px) {
+    .mnav-pill {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        position: fixed;
+        left: 0.75rem;
+        right: 0.75rem;
+        bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+        background: var(--bus-yellow);
+        color: var(--ink);
+        border: 3px solid var(--ink);
+        border-radius: 999px;
+        padding: 0.7rem 1.1rem;
+        font-family: var(--mono);
+        font-size: 0.95rem;
+        line-height: 1.1;
+        cursor: pointer;
+        box-shadow: 4px 4px 0 var(--ink);
+        z-index: 20;
+        text-align: left;
+    }
+    .mnav-pill:hover,
+    .mnav-pill:focus-visible {
+        background: var(--bus-yellow);
+        outline: none;
+    }
+    .mnav-pill-prefix {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        letter-spacing: 0.05em;
+        color: var(--ink-soft);
+        text-transform: uppercase;
+        flex-shrink: 0;
+    }
+    .mnav-pill-label {
+        flex: 1;
+        font-family: var(--display);
+        font-size: 1.25rem;
+        font-weight: 400;
+        color: var(--accent);
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .mnav-pill-caret {
+        flex-shrink: 0;
+        font-size: 0.85rem;
+        color: var(--ink);
+    }
+
+    .mnav-backdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        background: rgba(10, 10, 9, 0.55);
+        opacity: 0;
+        transition: opacity 0.2s ease;
+        z-index: 21;
+    }
+    .mnav-backdrop.is-open { opacity: 1; }
+
+    .mnav-sheet {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 78vh;
+        max-height: 78vh;
+        background: var(--paper);
+        color: var(--ink);
+        border-top: 4px solid var(--ink);
+        border-radius: 18px 18px 0 0;
+        box-shadow: 0 -8px 24px rgba(0,0,0,0.25);
+        transform: translateY(100%);
+        transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.3, 1);
+        z-index: 22;
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+    }
+    .mnav-sheet.is-open { transform: translateY(0); }
+
+    .mnav-sheet-handle {
+        width: 44px;
+        height: 4px;
+        background: var(--ink);
+        opacity: 0.25;
+        border-radius: 2px;
+        margin: 0.5rem auto 0.25rem;
+        flex-shrink: 0;
+    }
+    .mnav-sheet-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.5rem 0.75rem 0.5rem 1rem;
+        border-bottom: 2px solid var(--ink);
+        flex-shrink: 0;
+    }
+    .mnav-tabs { display: flex; gap: 0.4rem; }
+    .mnav-tab {
+        font-family: var(--display);
+        font-weight: 400;
+        font-size: 1.35rem;
+        background: transparent;
+        color: var(--ink-soft);
+        border: none;
+        padding: 0.35rem 0.5rem;
+        cursor: pointer;
+        line-height: 1;
+        letter-spacing: 0.01em;
+    }
+    .mnav-tab.is-active {
+        color: var(--accent);
+        text-shadow: 2px 2px 0 var(--bus-yellow);
+    }
+    .mnav-close {
+        font-family: var(--mono);
+        font-size: 1.05rem;
+        background: transparent;
+        color: var(--ink);
+        border: 2px solid var(--ink);
+        border-radius: 999px;
+        width: 32px;
+        height: 32px;
+        cursor: pointer;
+        line-height: 1;
+        flex-shrink: 0;
+    }
+
+    .mnav-tab-panel {
+        display: none;
+        flex: 1;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 0.5rem 1rem 1rem;
+    }
+    .mnav-tab-panel.is-active { display: block; }
+
+    /* timeline list inside the sheet — must beat the .timeline-list { display: none } collapse rule */
+    .mnav-timeline-list {
+        display: block;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .mnav-timeline-list ol {
+        display: block;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .mnav-timeline-list .t-era {
+        margin-top: 0.85rem;
+        padding-top: 0.6rem;
+        border-top: 1px dashed var(--paper-rule);
+    }
+    .mnav-timeline-list .t-era:first-child {
+        border-top: none;
+        margin-top: 0.25rem;
+        padding-top: 0;
+    }
+    .mnav-timeline-list .t-era-label {
+        display: block;
+        font-family: var(--mono);
+        font-size: 0.85rem;
+        letter-spacing: 0.06em;
+        color: var(--ink-soft);
+        text-transform: uppercase;
+        margin: 0 0 0.4rem;
+    }
+    .mnav-timeline-list li > a {
+        display: flex;
+        align-items: baseline;
+        gap: 0.7rem;
+        padding: 0.55rem 0.4rem;
+        color: var(--ink);
+        text-decoration: none;
+        border-radius: 4px;
+        font-family: var(--serif);
+        font-size: 1.05rem;
+    }
+    .mnav-timeline-list li > a:hover,
+    .mnav-timeline-list li > a:focus-visible {
+        background: rgba(0,0,0,0.04);
+        outline: none;
+    }
+    .mnav-timeline-list li > a.is-active {
+        background: var(--bus-yellow);
+        color: var(--ink);
+        font-weight: 700;
+    }
+    .mnav-timeline-list .t-year {
+        font-family: var(--mono);
+        font-size: 0.82rem;
+        color: var(--ink-soft);
+        font-weight: 700;
+        min-width: 3.5em;
+        flex-shrink: 0;
+    }
+    .mnav-timeline-list li > a.is-active .t-year { color: var(--accent); }
+
+    /* themes inside the sheet */
+    .mnav-themes-inner {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
+        align-items: center;
+    }
+    .mnav-themes-inner .theme-label {
+        display: none; /* the tab header is the label */
+    }
+    .mnav-themes-inner .theme-chip,
+    .mnav-themes-inner .theme-more {
+        cursor: pointer;
+        font-family: var(--mono);
+        font-size: 0.85rem;
+        background: transparent;
+        color: var(--ink);
+        border: 2px solid var(--ink);
+        padding: 0.4rem 0.7rem;
+        border-radius: 999px;
+        line-height: 1.1;
+    }
+    .mnav-themes-inner .theme-chip.is-active {
+        background: var(--bus-yellow);
+        color: var(--ink);
+        font-weight: 700;
+    }
+    .mnav-themes-inner .theme-clear {
+        cursor: pointer;
+        font-family: var(--mono);
+        font-size: 0.82rem;
+        background: transparent;
+        color: var(--accent);
+        border: none;
+        padding: 0.4rem 0.55rem;
+        text-decoration: underline;
+    }
+
+    /* prevent background scroll while sheet is open */
+    body.mnav-locked { overflow: hidden; }
 }
 
 @media (prefers-reduced-motion: reduce) {
     .timeline-toggle .caret { transition: none; }
+    .mnav-sheet, .mnav-backdrop { transition: none; }
 }

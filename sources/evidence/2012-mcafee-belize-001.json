@@ -1,0 +1,44 @@
+{
+    "id": "2012-mcafee-belize-001",
+    "anchor": "y2012-mcafee-belize",
+    "year": 2012,
+    "era": "iii",
+    "themes": [
+        "mcafee",
+        "belize",
+        "extortion",
+        "tech",
+        "central-america"
+    ],
+    "claim": "On April 30, 2012, the Belize Gang Suppression Unit — a paramilitary-style police unit established in 2010 with training and equipment support documented to have come in part from the Israeli government — raided the Orange Walk District compound of software entrepreneur John McAfee, founder of the antivirus company that bore his name. The GSU's press release cited unlicensed manufacture of drugs and possession of an unlicensed firearm. McAfee was detained for fourteen hours and released without charge after intervention by the U.S. Embassy. His dog, Caramelo, was shot and killed during the raid. McAfee had been living in Belize since 2008 and, since 2010, had been operating QuorumEx — an antibiotics-research startup co-founded with biologist Allison Adonizio that pursued plant-derived antibacterial compounds targeting bacterial quorum-sensing pathways. McAfee publicly stated that the raid was retaliation for his refusal to make political donations demanded by a United Democratic Party politician in Orange Walk. He fled Belize in November 2012 after being named a “person of interest” in the murder of his neighbor Gregory Faull, eventually traveling overland to Guatemala, where he was detained for visa violations. Belize never charged McAfee in the Faull case. McAfee subsequently spent years claiming to hold compromising material on Belizean officials gathered, by his own account, through spyware-equipped laptops he had distributed; that claim has not been independently corroborated.",
+    "sources": [
+        {
+            "label": "Wikipedia — “John McAfee,” section on the Belize period (with citations to contemporary press).",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/John_McAfee",
+            "quote": "On 30 April 2012, McAfee's property in Orange Walk Town was raided by the Gang Suppression Unit (GSU) of the Belize Police Department."
+        },
+        {
+            "label": "The San Pedro Sun — “John McAfee arrested by GSU Police for illegal firearms; claims political vendetta” (May 4, 2012).",
+            "type": "primary",
+            "url": "https://www.sanpedrosun.com/crime-and-violence/2012/05/04/john-mcafee-arrested-by-gsu-police-for-illegal-firearms-claims-political-vendetta/"
+        },
+        {
+            "label": "The San Pedro Sun — “John McAfee ‘demands’ an apology for GSU raid” (May 10, 2012).",
+            "type": "primary",
+            "url": "https://www.sanpedrosun.com/crime-and-violence/2012/05/10/john-mcafee-demands-an-apology-for-gsu-raid/"
+        },
+        {
+            "label": "Wikipedia — “Gang Suppression Unit” (Belize Police Department), with the unit's 2010 establishment and partnership history.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/Gang_Suppression_Unit"
+        },
+        {
+            "label": "Vice — Joshua Davis and Robert King's documentary reporting on McAfee's Belize period (2013-2016 series).",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The 2012 raid is on the contemporary public record via Belizean press (San Pedro Sun, 7 News Belize) and the wire services that picked it up. The Gregory Faull case — McAfee was a person of interest, never charged in Belize; the Faull family later won a default judgment against McAfee in a Florida wrongful-death suit. Connects directly to the existing 2021-mcafee-death-001 record (which already covers his June 23, 2021 death and the McAfee-Champlain-Towers narrative chain). The reel's framing of Israeli involvement in arming and training the Belize GSU is supported by general open-source reporting on Israeli arms exports to Latin America; the specific claim that the GSU acted at Israeli direction in raiding McAfee's compound is the reel's interpretive overlay, not on the documentary record."
+}

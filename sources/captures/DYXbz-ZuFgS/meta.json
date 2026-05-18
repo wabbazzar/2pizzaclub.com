@@ -1,0 +1,33 @@
+{
+    "id": "DYXbz-ZuFgS",
+    "url": "https://www.instagram.com/reel/DYXbz-ZuFgS/",
+    "platform": "instagram",
+    "captured_at": "2026-05-18",
+    "handle": "@thepaceanator",
+    "author_display_name": "John Pace",
+    "posted_at": "2026-05-15",
+    "engagement": {
+        "likes": 51000,
+        "comments": 817
+    },
+    "caption": "“McAfee didn’t **** himself !!” 👨🏻‍💻🫣😳",
+    "hashtags": [],
+    "audio_track_actual": "Single female narrator over voiceover-style edit, retelling the John McAfee story from his 1980s antivirus pioneering through his 2021 death and the Champlain Towers South collapse the following day.",
+    "video_overlay_text_observed": "On-screen captions and stills throughout: McAfee in his Belize compound, the 2012 GSU raid coverage, the 'WHACKED' tattoo, the Champlain Towers South collapse footage, the IDF Home Front Command rescue delegation.",
+    "audio_content_summary": "The narrator walks through McAfee's biography: the first commercial antivirus product (1987-89), the $80M valuation by 2010, the move to Belize in 2008 and the founding of an antibiotics-research startup (QuorumEx), the April 30, 2012 raid on his Orange Walk compound by the Belize Gang Suppression Unit — characterized in the reel as Israeli-trained — that killed his dog and resulted in his flight from Belize, his eight years on the run, his October 2020 arrest at Barcelona airport, the U.S. tax-evasion charges, the June 23, 2021 death in Spanish prison, his pre-death 'WHACKED' tattoo, and the June 24, 2021 Champlain Towers South collapse. The narrator repeats the fabricated 'McAfee tweeted that his 31 TB of files were in a condo at a certain address' claim that surfaced after the collapse.",
+    "implied_frame": "The video frames McAfee's death and the Surfside collapse as a single coordinated event, with the 2012 Belize raid as the original institutional confrontation that put him on the run. The 2012 raid and the 2021 death are on the public record. The McAfee-Champlain-Towers tweet linking his files to the Surfside address was verified by PolitiFact, Snopes, and Misbar to be fabricated; the underlying 2019 31TB dead-man's-switch tweet is real and is documented under the McAfee entry. The framing of the Belize GSU as 'Israeli-trained' is consistent with general reporting on Israeli arms exports to Latin America, though the specific claim that the GSU acted at Israeli direction in raiding McAfee is the reel's interpretation, not on the documentary record.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~36 MB, vp9 720x1280, 178s.",
+    "audio_transcription_status": "Transcribed with openai-whisper.",
+    "evidence_records": [
+        "2012-mcafee-belize-001",
+        "2021-mcafee-death-001",
+        "2021-surfside-collapse-001",
+        "2021-idf-surfside-rescue-001"
+    ],
+    "supporting_research_links": [
+        "https://en.wikipedia.org/wiki/John_McAfee",
+        "https://en.wikipedia.org/wiki/Gang_Suppression_Unit",
+        "https://en.wikipedia.org/wiki/Champlain_Towers_South_collapse"
+    ]
+}

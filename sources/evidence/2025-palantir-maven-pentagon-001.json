@@ -4,12 +4,9 @@
     "year": 2025,
     "era": "iv",
     "themes": [
-        "palantir",
-        "maven",
-        "dod",
-        "ai-defense",
-        "thiel",
-        "program-of-record"
+        "big-tech",
+        "defense",
+        "ai"
     ],
     "claim": "Palantir Technologies' Maven Smart System — an AI-enabled targeting platform — has been formalized as a Department of Defense Program of Record. The initial Maven contract was awarded to Palantir at a ceiling of $480 million in May 2024; in May 2025 the ceiling was raised to approximately $1.3 billion. On March 9, 2026, Deputy Secretary of Defense Steve Feinberg signed a memorandum designating Maven Smart System as a Program of Record, locking in multi-year funding and confirming the platform's role across every U.S. combatant command. Separately, in July 2025 the Army signed an enterprise framework agreement with Palantir worth up to $10 billion over a decade, consolidating 75 existing Palantir contracts.",
     "sources": [

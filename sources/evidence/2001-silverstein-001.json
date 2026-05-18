@@ -4,19 +4,18 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
-        "wtc",
-        "real-estate"
+        "september-11",
+        "finance"
     ],
-    "claim": "Larry Silverstein signed the 99-year net lease for World Trade Center Towers 1, 2, 4, and 5 with the Port Authority of New York and New Jersey on July 24, 2001 \u2014 approximately seven weeks before the September 11 attacks. The bid had been accepted in partnership with Westfield America, Inc. on April 26, 2001.",
+    "claim": "Larry Silverstein signed the 99-year net lease for World Trade Center Towers 1, 2, 4, and 5 with the Port Authority of New York and New Jersey on July 24, 2001 — approximately seven weeks before the September 11 attacks. The bid had been accepted in partnership with Westfield America, Inc. on April 26, 2001.",
     "sources": [
         {
-            "label": "Snopes \u2014 \u201cDid a WTC Leaseholder Buy Terrorism Insurance Just Before 9/11?\u201d (fact-check)",
+            "label": "Snopes — “Did a WTC Leaseholder Buy Terrorism Insurance Just Before 9/11?” (fact-check)",
             "type": "secondary",
             "url": "https://www.snopes.com/fact-check/wtc-terrorism-insurance/"
         },
         {
-            "label": "Wikipedia \u2014 Larry Silverstein",
+            "label": "Wikipedia — Larry Silverstein",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/Larry_Silverstein",
             "quote": "he signed the lease on July 24, 2001",
@@ -24,11 +23,11 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Lease date is widely reported (Snopes accepts the date as accurate; the conspiratorial framing \u2014 that the late timing implies foreknowledge \u2014 is what Snopes rates 'mixture' on). Primary record is the Port Authority lease filing; URL pending. The chronological proximity to 9/11 is a documented fact; the inference of foreknowledge from it is not."
+    "notes": "Lease date is widely reported (Snopes accepts the date as accurate; the conspiratorial framing — that the late timing implies foreknowledge — is what Snopes rates 'mixture' on). Primary record is the Port Authority lease filing; URL pending. The chronological proximity to 9/11 is a documented fact; the inference of foreknowledge from it is not."
 }

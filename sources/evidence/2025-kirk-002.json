@@ -4,21 +4,19 @@
     "year": 2025,
     "era": "iv",
     "themes": [
-        "assassination",
-        "kirk",
-        "doj",
         "prosecution",
-        "dna-evidence"
+        "evidence",
+        "kirk"
     ],
     "claim": "On September 12, 2025, Tyler James Robinson, 22, was charged in Utah County with aggravated murder, felony discharge of a firearm, two counts of obstruction of justice, two counts of witness tampering, three counts of victim-targeting enhancement, and violence committed in the presence of a child. The recovered murder weapon was a bolt-action .30-06 rifle found near the scene; on September 15, 2025 the FBI announced that Robinson's DNA matched DNA on the rifle's trigger, on a towel wrapped around the rifle, and on a screwdriver recovered from the roof of the firing position. Utah prosecutors announced they would seek the death penalty.",
     "sources": [
         {
-            "label": "Utah County Attorney \u2014 Charging Information (TJR), State of Utah v. Tyler James Robinson",
+            "label": "Utah County Attorney — Charging Information (TJR), State of Utah v. Tyler James Robinson",
             "type": "court",
             "url": "https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf"
         },
         {
-            "label": "Wikipedia \u2014 \u201cAssassination of Charlie Kirk\u201d",
+            "label": "Wikipedia — “Assassination of Charlie Kirk”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
             "quote": "matched that found on a towel that was wrapped around the suspected rifle",
@@ -26,21 +24,21 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "PBS NewsHour \u2014 \u201cAs officials searched for Charlie Kirk's shooter, suspect confessed to his partner, prosecutor says\u201d",
+            "label": "PBS NewsHour — “As officials searched for Charlie Kirk's shooter, suspect confessed to his partner, prosecutor says”",
             "type": "secondary",
             "url": "https://www.pbs.org/newshour/nation/as-officials-searched-for-charlie-kirks-shooter-suspect-confessed-to-his-partner-prosecutor-says"
         },
         {
-            "label": "CNN \u2014 \u201cTyler Robinson: What we know about Kirk shooting suspect\u201d (Sep 12, 2025)",
+            "label": "CNN — “Tyler Robinson: What we know about Kirk shooting suspect” (Sep 12, 2025)",
             "type": "secondary",
             "url": "https://www.cnn.com/2025/09/12/us/tyler-robinson-charlie-kirk-shooting-suspect-invs"
         },
         {
-            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) \u2014 surfacing source",
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
         }
     ],
     "status": "verified",
-    "notes": "Anchored to y2025. The Utah County Attorney's charging document (PDF) is the primary court record; Wikipedia URL fetched and verbatim DNA-match phrasing confirmed. The reel disputes that Robinson committed the killing (claims an exploding lavalier microphone was the actual mechanism, triggered by a 'palm gun guy in brown shirt'). The official forensic record \u2014 long-range rifle, DNA match on trigger and towel, charging-document \u2014 is unambiguous on the prosecution's theory. Whether that theory survives trial is open; this record documents the charges as filed."
+    "notes": "Anchored to y2025. The Utah County Attorney's charging document (PDF) is the primary court record; Wikipedia URL fetched and verbatim DNA-match phrasing confirmed. The reel disputes that Robinson committed the killing (claims an exploding lavalier microphone was the actual mechanism, triggered by a 'palm gun guy in brown shirt'). The official forensic record — long-range rifle, DNA match on trigger and towel, charging-document — is unambiguous on the prosecution's theory. Whether that theory survives trial is open; this record documents the charges as filed."
 }

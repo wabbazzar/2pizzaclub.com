@@ -4,11 +4,10 @@
     "year": 2025,
     "era": "v",
     "themes": [
-        "ai-bubble",
-        "data-centers",
-        "private-credit",
-        "bond-ratings",
-        "yield-mismatch"
+        "ai",
+        "big-tech",
+        "inequality",
+        "economic-crisis"
     ],
     "claim": "Bond-market reporting in late 2025 and early 2026 has highlighted a recurring pattern in private-equity-backed data-center financings: investment-grade ratings paired with yields that historically sit in the speculative-grade (high-yield, or 'junk') range. Specifically, the Corporate Gossip podcast cites a Morningstar/S&P-rated bond issued to fund a private-equity data-center investment, assigned an A+ rating but trading at a 6.58 percent yield — a yield range typically associated with non-investment-grade paper. The historical parallel cited by the podcast is the structuring of mortgage-backed securities in the run-up to 2008, where investment-grade tranches contained underlying loans of varying credit quality.",
     "sources": [

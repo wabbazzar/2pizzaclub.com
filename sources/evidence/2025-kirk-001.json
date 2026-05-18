@@ -4,15 +4,12 @@
     "year": 2025,
     "era": "iv",
     "themes": [
-        "assassination",
-        "political-violence",
-        "kirk",
-        "turningpointusa"
+        "kirk"
     ],
-    "claim": "On September 10, 2025, Charlie Kirk \u2014 the 31-year-old co-founder of Turning Point USA \u2014 was fatally shot in the neck by a single bullet at Utah Valley University in Orem, Utah, during an outdoor campus debate attended by approximately 3,000 people. The bullet was fired from a rooftop approximately 142 yards (130 m) from the event. Utah Governor Spencer Cox publicly characterized the killing as a 'political assassination.'",
+    "claim": "On September 10, 2025, Charlie Kirk — the 31-year-old co-founder of Turning Point USA — was fatally shot in the neck by a single bullet at Utah Valley University in Orem, Utah, during an outdoor campus debate attended by approximately 3,000 people. The bullet was fired from a rooftop approximately 142 yards (130 m) from the event. Utah Governor Spencer Cox publicly characterized the killing as a 'political assassination.'",
     "sources": [
         {
-            "label": "Wikipedia \u2014 \u201cAssassination of Charlie Kirk\u201d",
+            "label": "Wikipedia — “Assassination of Charlie Kirk”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
             "quote": "Charlie Kirk, an American right-wing political activist, was assassinated at Utah Valley University in Orem, Utah",
@@ -20,17 +17,17 @@
             "clip_status": "ok-cross-node"
         },
         {
-            "label": "FBI \u2014 \u201cUtah Valley Shooting Updates\u201d (Federal Bureau of Investigation press releases)",
+            "label": "FBI — “Utah Valley Shooting Updates” (Federal Bureau of Investigation press releases)",
             "type": "primary",
             "url": "https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates"
         },
         {
-            "label": "KUER (NPR Utah) \u2014 \u201cConservative activist Charlie Kirk is fatally shot at Utah Valley University rally\u201d (Sep 10, 2025)",
+            "label": "KUER (NPR Utah) — “Conservative activist Charlie Kirk is fatally shot at Utah Valley University rally” (Sep 10, 2025)",
             "type": "secondary",
             "url": "https://www.kuer.org/news/2025-09-10/charlie-kirk-utah-valley-university-shooting"
         },
         {
-            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) \u2014 surfacing source",
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
         }

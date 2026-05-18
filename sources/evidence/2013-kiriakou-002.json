@@ -5,15 +5,14 @@
     "era": "iii",
     "themes": [
         "cia",
-        "doj",
-        "iipa",
-        "whistleblower",
-        "prosecution"
+        "prosecution",
+        "documents",
+        "whistleblower"
     ],
-    "claim": "On October 23, 2012, John Kiriakou pleaded guilty in the U.S. District Court for the Eastern District of Virginia to one count of intentionally disclosing information identifying a covert agent \u2014 an offense under the Intelligence Identities Protection Act (50 U.S.C. \u00a7 421). On January 25, 2013 he was sentenced to 30 months in federal prison. He was the first CIA officer ever sentenced for leaking classified information to the press.",
+    "claim": "On October 23, 2012, John Kiriakou pleaded guilty in the U.S. District Court for the Eastern District of Virginia to one count of intentionally disclosing information identifying a covert agent — an offense under the Intelligence Identities Protection Act (50 U.S.C. § 421). On January 25, 2013 he was sentenced to 30 months in federal prison. He was the first CIA officer ever sentenced for leaking classified information to the press.",
     "sources": [
         {
-            "label": "U.S. Department of Justice, U.S. Attorney's Office, Eastern District of Virginia: \u201cFormer CIA Officer John Kiriakou Pleads Guilty to Disclosing Classified Information About CIA Officer\u201d (Oct 23, 2012)",
+            "label": "U.S. Department of Justice, U.S. Attorney's Office, Eastern District of Virginia: “Former CIA Officer John Kiriakou Pleads Guilty to Disclosing Classified Information About CIA Officer” (Oct 23, 2012)",
             "type": "primary",
             "url": "https://www.justice.gov/archive/usao/vae/news/2012/10/20121023kirakounr.html",
             "quote": "Kiriakou pleaded guilty today to one count of intentionally disclosing information identifying a covert agent",
@@ -21,12 +20,12 @@
             "clip": "clips/2013-kiriakou-002-00.png"
         },
         {
-            "label": "Reporters Committee for Freedom of the Press: \u201cFormer CIA officer Kiriakou sentenced to 30 months in prison for leaking information to reporters\u201d",
+            "label": "Reporters Committee for Freedom of the Press: “Former CIA officer Kiriakou sentenced to 30 months in prison for leaking information to reporters”",
             "type": "secondary",
             "url": "https://www.rcfp.org/former-cia-officer-kiriakou-sentenced-30-months-prison-leaking-infor/"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }

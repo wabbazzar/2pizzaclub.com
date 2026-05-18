@@ -4,12 +4,9 @@
     "year": 2026,
     "era": "v",
     "themes": [
-        "openai",
-        "altman",
-        "farrow",
-        "new-yorker",
-        "investigative-journalism",
-        "ai-race"
+        "big-tech",
+        "journalism",
+        "ai"
     ],
     "claim": "In April 2026, the New Yorker published a 16,000-word investigation by Ronan Farrow and Andrew Marantz based on eighteen months of reporting, interviews with more than one hundred sources, and review of internal OpenAI documents. The article describes what one internal memo characterizes as “a consistent pattern of lying” by CEO Sam Altman, including: an accusation against Anthropic co-founders Dario and Daniela Amodei of plotting a coup that Altman later denied making; OpenAI's late-2025 deal with Amazon for stateful AI agents that Microsoft engineers say cannot be implemented without touching technology covered by their existing exclusivity agreement; and a sales pitch to U.S. intelligence officials about a Chinese “AGI Manhattan Project” for which Altman, when pressed, said only that he had 'heard things' and never followed up. A senior Microsoft executive is quoted comparing Altman to Bernie Madoff and Sam Bankman-Fried.",
     "sources": [

@@ -4,9 +4,8 @@
     "year": 1913,
     "era": "i",
     "themes": [
-        "money",
-        "banking",
-        "debt",
+        "finance",
+        "inequality",
         "architecture"
     ],
     "claim": "When a commercial bank makes a loan, it does not lend out pre-existing deposits. It creates a new deposit equal to the loan amount, expanding the money supply by the principal. It does not create the interest. Total debt in the system therefore exceeds total money in circulation, and continued credit expansion is required to service existing debt. The Bank of England documented this mechanic in plain language in its 2014 Quarterly Bulletin; the Bundesbank's 2017 monthly report says the same thing.",

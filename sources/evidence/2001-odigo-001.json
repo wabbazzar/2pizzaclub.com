@@ -4,15 +4,14 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
+        "september-11",
         "israel",
-        "anomaly",
-        "warning"
+        "contested"
     ],
-    "claim": "Odigo, an Israeli instant-messaging company, reported that two of its employees in its Herzliya, Israel office received English-language instant messages approximately two hours before the September 11 attacks, warning that 'something big' was going to happen \u2014 messages reportedly ending in an antisemitic slur. Odigo provided the originating IP address to the FBI.",
+    "claim": "Odigo, an Israeli instant-messaging company, reported that two of its employees in its Herzliya, Israel office received English-language instant messages approximately two hours before the September 11 attacks, warning that 'something big' was going to happen — messages reportedly ending in an antisemitic slur. Odigo provided the originating IP address to the FBI.",
     "sources": [
         {
-            "label": "Ha'aretz \u2014 \u201cOdigo Says Workers Were Warned of Attack\u201d (Sep 26, 2001)",
+            "label": "Ha'aretz — “Odigo Says Workers Were Warned of Attack” (Sep 26, 2001)",
             "type": "primary",
             "url": "https://www.haaretz.com/2001-09-26/ty-article/odigo-says-workers-were-warned-of-attack/0000017f-dbc4-df62-a9ff-dfd7beff0000",
             "quote": "two of its workers received messages two hours before the Twin Towers attack on September 11 predicting the attack would happen",
@@ -20,21 +19,21 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "Ha'aretz \u2014 \u201cTwo Odigo Workers Received Messages Predicting WTC Attack\u201d (Sep 25, 2001)",
+            "label": "Ha'aretz — “Two Odigo Workers Received Messages Predicting WTC Attack” (Sep 25, 2001)",
             "type": "primary",
             "url": "https://www.haaretz.com/2001-09-25/ty-article/two-odigo-workers-received-messages-predicting-wtc-attack/0000017f-db6d-df9c-a17f-ff7d411c0000"
         },
         {
-            "label": "Computerworld \u2014 \u201cFBI probes advance IM warnings on attacks\u201d",
+            "label": "Computerworld — “FBI probes advance IM warnings on attacks”",
             "type": "secondary",
             "url": "https://www.computerworld.com/article/1344074/fbi-probes-advance-im-warnings-on-attacks.html"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Ha'aretz coverage is the contemporaneous primary news report. URLs not yet directly fetched in this pass. The FBI investigation outcome is not in the public record. The conspiratorial framing \u2014 that the warning constitutes Israeli foreknowledge \u2014 is contested; the existence of the messages and the company's report to the FBI are documented."
+    "notes": "Ha'aretz coverage is the contemporaneous primary news report. URLs not yet directly fetched in this pass. The FBI investigation outcome is not in the public record. The conspiratorial framing — that the warning constitutes Israeli foreknowledge — is contested; the existence of the messages and the company's report to the FBI are documented."
 }

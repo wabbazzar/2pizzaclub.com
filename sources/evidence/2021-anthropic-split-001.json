@@ -4,11 +4,8 @@
     "year": 2021,
     "era": "v",
     "themes": [
-        "anthropic",
-        "amodei",
-        "openai",
-        "ai-safety",
-        "ai-race"
+        "big-tech",
+        "ai"
     ],
     "claim": "Anthropic was incorporated in 2021 as a public-benefit corporation by a group of senior OpenAI researchers who departed in December 2020 — including Dario Amodei (then VP of Research at OpenAI) and his sister Daniela Amodei (then VP of Safety & Policy), along with Chris Olah, Jared Kaplan, and several others. The publicly stated reason was a difference in approach to scaling — what Dario Amodei has described as a responsible-scaling approach prioritizing trust both in the system and in the people building it.",
     "sources": [

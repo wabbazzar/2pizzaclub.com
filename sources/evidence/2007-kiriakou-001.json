@@ -5,14 +5,13 @@
     "era": "iii",
     "themes": [
         "cia",
-        "torture",
-        "9-11",
+        "september-11",
         "whistleblower"
     ],
     "claim": "On December 10, 2007, former CIA analyst and case officer John Kiriakou became the first U.S. intelligence officer to publicly confirm on television that the CIA had used waterboarding on a high-value al-Qaeda detainee, in an interview with ABC News reporters Brian Ross and Richard Esposito.",
     "sources": [
         {
-            "label": "ABC News, \u201cComing in From the Cold: CIA Spy Calls Waterboarding Necessary But Torture,\u201d Brian Ross & Richard Esposito (Dec 10, 2007)",
+            "label": "ABC News, “Coming in From the Cold: CIA Spy Calls Waterboarding Necessary But Torture,” Brian Ross & Richard Esposito (Dec 10, 2007)",
             "type": "primary",
             "url": "https://abcnews.com/Blotter/story?id=3978231&page=1",
             "quote": "The threat information he provided disrupted a number of attacks, maybe dozens of attacks",
@@ -20,7 +19,7 @@
             "clip": "clips/2007-kiriakou-001-00.png"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }

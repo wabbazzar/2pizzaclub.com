@@ -4,12 +4,9 @@
     "year": 2026,
     "era": "v",
     "themes": [
-        "ai-bubble",
-        "data-centers",
-        "infrastructure-capex",
-        "priestley",
-        "diary-of-a-ceo",
-        "2029-prediction"
+        "ai",
+        "big-tech",
+        "infrastructure-capex"
     ],
     "claim": "Entrepreneur and business strategist Daniel Priestley, in a March 2026 appearance on The Diary of a CEO with Steven Bartlett, predicted a major financial meltdown in 2029 driven by AI data-center capital expenditure. Priestley argued: that historically, when infrastructure spending exceeds 3 percent of GDP it has been followed by a roughly decade-long bust (citing UK and US railway booms, electrification, and highway buildouts); that current AI infrastructure spending is running at approximately $650 billion per year globally; that data-center hardware — GPUs and compute stacks — has a useful life of 3–4 years, versus 100 years for railroads, 50+ for highways, and 30 for fiber-optic networks; and that the user-side monetization gap, in which a small minority of AI users pay for premium services, makes the current capex trajectory financially unsustainable. He explicitly framed 2029 as the centennial of the Great Depression.",
     "sources": [

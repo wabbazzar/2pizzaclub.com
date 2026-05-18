@@ -4,11 +4,10 @@
     "year": 2025,
     "era": "v",
     "themes": [
-        "ai-bubble",
-        "data-centers",
+        "ai",
+        "big-tech",
         "infrastructure-capex",
-        "hyperscaler",
-        "private-credit"
+        "inequality"
     ],
     "claim": "Mainstream financial-research firms are publishing AI infrastructure-spending forecasts at scale unprecedented in U.S. economic history. Goldman Sachs' baseline model estimates $765 billion in annual U.S. AI capital expenditure in 2026, rising to $1.6 trillion annually by 2031, with AI-related capex already representing approximately 5 percent of U.S. GDP. Dell'Oro Group projects global data-center capex to grow at a 21 percent CAGR, reaching $1.2 trillion worldwide by 2029. Citi forecasts that Amazon, Apple, Google, Meta, Microsoft, and Oracle collectively will spend $382 billion in 2026, $432 billion in 2027, and $539 billion in 2029 on capex. The Bank for International Settlements has documented that lending by private credit funds to AI-related sectors has grown from near zero to over $200 billion outstanding, with projections of $300–600 billion by 2030.",
     "sources": [

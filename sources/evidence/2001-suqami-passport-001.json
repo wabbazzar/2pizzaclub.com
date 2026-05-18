@@ -4,20 +4,19 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
-        "hijackers",
+        "september-11",
         "fbi",
-        "anomaly"
+        "contested"
     ],
-    "claim": "A passport belonging to Satam al-Suqami \u2014 one of the five hijackers aboard American Airlines Flight 11 (which struck WTC 1 at 8:46 a.m.) \u2014 was recovered in lower Manhattan and given to NYPD Detective Yuk H. Chin by an unidentified passerby (a male in a business suit, ~30 years old) moments before WTC 2 collapsed at 9:59 a.m. The detective handed the passport to the FBI on 9/11. In her January 2004 testimony to the 9/11 Commission, lead counsel Susan Ginsburg stated the passport had been 'manipulated in a fraudulent manner' in a pattern associated with al-Qaeda travel-document forgery.",
+    "claim": "A passport belonging to Satam al-Suqami — one of the five hijackers aboard American Airlines Flight 11 (which struck WTC 1 at 8:46 a.m.) — was recovered in lower Manhattan and given to NYPD Detective Yuk H. Chin by an unidentified passerby (a male in a business suit, ~30 years old) moments before WTC 2 collapsed at 9:59 a.m. The detective handed the passport to the FBI on 9/11. In her January 2004 testimony to the 9/11 Commission, lead counsel Susan Ginsburg stated the passport had been 'manipulated in a fraudulent manner' in a pattern associated with al-Qaeda travel-document forgery.",
     "sources": [
         {
-            "label": "The 9/11 Commission, \u201cFinal Report of the National Commission on Terrorist Attacks Upon the United States\u201d (2004), pp. 1 and 451; Staff Statement and testimony of Susan Ginsburg (Jan 26, 2004)",
+            "label": "The 9/11 Commission, “Final Report of the National Commission on Terrorist Attacks Upon the United States” (2004), pp. 1 and 451; Staff Statement and testimony of Susan Ginsburg (Jan 26, 2004)",
             "type": "primary",
             "url": null
         },
         {
-            "label": "Wikipedia \u2014 \u201cSatam al-Suqami\u201d",
+            "label": "Wikipedia — “Satam al-Suqami”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/Satam_al-Suqami",
             "quote": "Al-Suqami's passport was found by a passerby in the vicinity of Vesey Street",
@@ -25,16 +24,16 @@
             "clip_status": "ok-head60"
         },
         {
-            "label": "Wikipedia \u2014 \u201cPENTTBOM\u201d",
+            "label": "Wikipedia — “PENTTBOM”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/PENTTBOM"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }
     ],
     "status": "primary-link-pending",
-    "notes": "9/11 Commission Report is the primary government record on the passport recovery and Ginsburg's testimony about document manipulation. URL pending \u2014 canonical at govinfo.gov or 9-11commission.gov. The reel's framing treats the passport's survival as too convenient; the recovery is documented but the inference of plant/conspiracy is contested. Three other hijackers' passports also wholly or partially survived (Jarrah, Saeed al-Ghamdi at Flight 93 site; Abdulaziz al-Omari in luggage that didn't make Flight 11)."
+    "notes": "9/11 Commission Report is the primary government record on the passport recovery and Ginsburg's testimony about document manipulation. URL pending — canonical at govinfo.gov or 9-11commission.gov. The reel's framing treats the passport's survival as too convenient; the recovery is documented but the inference of plant/conspiracy is contested. Three other hijackers' passports also wholly or partially survived (Jarrah, Saeed al-Ghamdi at Flight 93 site; Abdulaziz al-Omari in luggage that didn't make Flight 11)."
 }

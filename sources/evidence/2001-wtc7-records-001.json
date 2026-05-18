@@ -4,17 +4,16 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
-        "wtc",
+        "september-11",
         "sec",
-        "secret-service",
+        "intelligence",
         "finance",
-        "investigation-records"
+        "documents"
     ],
-    "claim": "7 World Trade Center, which collapsed at 5:20 p.m. on September 11, 2001, housed: the SEC's New York field office (with files for several hundred active investigations including post-IPO cases involving major brokerage firms \u2014 estimates of total active-case files lost range from ~3,000 to ~4,000); the Secret Service's largest field office (whose investigative case files were destroyed, per a Secret Service agent quoted as saying 'All the evidence that we stored at 7 World Trade, in all our cases, went down with the building'); IRS regional offices; and Salomon Smith Barney (a Citigroup subsidiary), whose later-subpoenaed emails relevant to the WorldCom investigation were lost in the collapse.",
+    "claim": "7 World Trade Center, which collapsed at 5:20 p.m. on September 11, 2001, housed: the SEC's New York field office (with files for several hundred active investigations including post-IPO cases involving major brokerage firms — estimates of total active-case files lost range from ~3,000 to ~4,000); the Secret Service's largest field office (whose investigative case files were destroyed, per a Secret Service agent quoted as saying 'All the evidence that we stored at 7 World Trade, in all our cases, went down with the building'); IRS regional offices; and Salomon Smith Barney (a Citigroup subsidiary), whose later-subpoenaed emails relevant to the WorldCom investigation were lost in the collapse.",
     "sources": [
         {
-            "label": "SEC Historical Society \u2014 \u201cThe Enforcement Division: A History \u2014 9/11 and Enron Bring New Resources\u201d",
+            "label": "SEC Historical Society — “The Enforcement Division: A History — 9/11 and Enron Bring New Resources”",
             "type": "primary",
             "url": "https://www.sechistorical.org/museum/galleries/enf/enf06d_911-enron.php",
             "quote": "its New York offices at 7 World Trade Center were destroyed in the attacks",
@@ -22,22 +21,22 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "CBS News \u2014 \u201cMystery surrounds loss of records, art on 9/11\u201d",
+            "label": "CBS News — “Mystery surrounds loss of records, art on 9/11”",
             "type": "secondary",
             "url": "https://www.cbsnews.com/news/mystery-surrounds-loss-of-records-art-on-9-11/"
         },
         {
-            "label": "ABC News \u2014 \u201cLaw Enforcement Lost Evidence in Rubble\u201d",
+            "label": "ABC News — “Law Enforcement Lost Evidence in Rubble”",
             "type": "secondary",
             "url": "https://abcnews.go.com/WNT/story?id=130645&page=1"
         },
         {
-            "label": "Wikipedia \u2014 \u201cList of tenants in 7 World Trade Center (1987\u20132001)\u201d",
+            "label": "Wikipedia — “List of tenants in 7 World Trade Center (1987–2001)”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/List_of_tenants_in_7_World_Trade_Center"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }

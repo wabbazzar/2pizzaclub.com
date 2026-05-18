@@ -5,11 +5,8 @@
     "era": "iv",
     "themes": [
         "fbi",
-        "patel",
         "surveillance",
-        "data-brokers",
-        "fourth-amendment",
-        "senate-intelligence"
+        "intelligence"
     ],
     "claim": "On March 18, 2026, during a Senate Intelligence Committee Worldwide Threats hearing, FBI Director Kash Patel testified under oath that the Bureau purchases commercially available data — including data on U.S. persons — from private data brokers. Asked by Senator Ron Wyden whether the FBI would commit to ceasing such purchases of Americans' location data, Patel declined to commit and stated: 'We do purchase commercially available information that's consistent with the Constitution and the laws under the Electronic Communications Privacy Act.' The testimony confirmed an FBI practice that Patel's predecessor Christopher Wray had previously sought to obscure and that civil-liberties advocates have characterized as the 'data broker loophole' — the use of commercial purchases to obtain data the government would otherwise need a warrant to acquire.",
     "sources": [

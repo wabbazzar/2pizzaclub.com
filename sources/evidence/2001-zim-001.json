@@ -4,20 +4,19 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
-        "wtc",
+        "september-11",
         "israel",
-        "anomaly"
+        "contested"
     ],
-    "claim": "Zim-American Israeli Shipping Co., the U.S. subsidiary of the Israeli national shipping line, vacated its offices on the 16th\u201317th floors of WTC 1 (North Tower) approximately one week before September 11, 2001 \u2014 breaking its lease (which ran through year-end) at a reported $50,000 cost \u2014 and relocated its North American headquarters to Norfolk, Virginia.",
+    "claim": "Zim-American Israeli Shipping Co., the U.S. subsidiary of the Israeli national shipping line, vacated its offices on the 16th–17th floors of WTC 1 (North Tower) approximately one week before September 11, 2001 — breaking its lease (which ran through year-end) at a reported $50,000 cost — and relocated its North American headquarters to Norfolk, Virginia.",
     "sources": [
         {
-            "label": "Crain's New York Business \u2014 \u201cZim-American Israeli ships itself out of NY\u201d (Apr 9, 2001)",
+            "label": "Crain's New York Business — “Zim-American Israeli ships itself out of NY” (Apr 9, 2001)",
             "type": "secondary",
             "url": "https://www.crainsnewyork.com/article/20010409/SUB/104090714/zim-american-israeli-ships-itself-out-of-ny"
         },
         {
-            "label": "Virginia Economic Development Partnership \u2014 \u201cGovernor Gilmore Welcomes Zim-American Israeli Shipping Co. To Norfolk\u201d (Oct 2001)",
+            "label": "Virginia Economic Development Partnership — “Governor Gilmore Welcomes Zim-American Israeli Shipping Co. To Norfolk” (Oct 2001)",
             "type": "primary",
             "url": "https://www.vedp.org/press-release/2001-10/norfolk-zim-american-israeli-shipping",
             "quote": "The firm completed its move to Norfolk from New York City's World Trade Center two weeks before the September 11th terrorist attacks.",
@@ -25,11 +24,11 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Crain's article (April 2001) is the contemporaneous announcement; VEDP press release confirms the Norfolk arrival. Move timing relative to 9/11 (~1 week before) is consistently reported but I have not yet fetched and verbatim-confirmed either URL \u2014 flagged as primary-link-pending. The reel's framing implies foreknowledge; the underlying real-estate move and date are well-documented but the inference of foreknowledge is not."
+    "notes": "Crain's article (April 2001) is the contemporaneous announcement; VEDP press release confirms the Norfolk arrival. Move timing relative to 9/11 (~1 week before) is consistently reported but I have not yet fetched and verbatim-confirmed either URL — flagged as primary-link-pending. The reel's framing implies foreknowledge; the underlying real-estate move and date are well-documented but the inference of foreknowledge is not."
 }

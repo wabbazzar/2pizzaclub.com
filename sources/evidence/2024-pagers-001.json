@@ -6,15 +6,14 @@
     "themes": [
         "israel",
         "mossad",
-        "hezbollah",
-        "lebanon",
-        "supply-chain-attack",
-        "covert-operation"
+        "war",
+        "weapons",
+        "intelligence"
     ],
-    "claim": "On September 17\u201318, 2024, thousands of handheld pagers and hundreds of walkie-talkies in use by Hezbollah members exploded simultaneously across Lebanon and Syria \u2014 a covert Israeli operation later acknowledged by Prime Minister Benjamin Netanyahu on November 10, 2024. Per the Lebanese government, the attacks killed 42 people including 12 civilians, and injured approximately 4,000. The devices had been manufactured with PETN explosive concealed in their batteries and sold to Hezbollah over the preceding months via a Mossad shell company; the operation was reportedly nicknamed 'Grim Beeper.'",
+    "claim": "On September 17–18, 2024, thousands of handheld pagers and hundreds of walkie-talkies in use by Hezbollah members exploded simultaneously across Lebanon and Syria — a covert Israeli operation later acknowledged by Prime Minister Benjamin Netanyahu on November 10, 2024. Per the Lebanese government, the attacks killed 42 people including 12 civilians, and injured approximately 4,000. The devices had been manufactured with PETN explosive concealed in their batteries and sold to Hezbollah over the preceding months via a Mossad shell company; the operation was reportedly nicknamed 'Grim Beeper.'",
     "sources": [
         {
-            "label": "Wikipedia \u2014 \u201c2024 Lebanon electronic device attacks\u201d",
+            "label": "Wikipedia — “2024 Lebanon electronic device attacks”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks",
             "quote": "On 10 November 2024, Netanyahu admitted that Israel was responsible for the attacks",
@@ -22,26 +21,26 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "CNN \u2014 \u201cIsrael concealed explosives inside batteries of pagers sold to Hezbollah, Lebanese officials say\u201d (Sep 27, 2024)",
+            "label": "CNN — “Israel concealed explosives inside batteries of pagers sold to Hezbollah, Lebanese officials say” (Sep 27, 2024)",
             "type": "primary",
             "url": "https://www.cnn.com/2024/09/27/middleeast/israel-pager-attack-hezbollah-lebanon-invs-intl"
         },
         {
-            "label": "Washington Post \u2014 \u201cMossad's pager operation: Inside Israel's penetration of Hezbollah\u201d (Oct 5, 2024)",
+            "label": "Washington Post — “Mossad's pager operation: Inside Israel's penetration of Hezbollah” (Oct 5, 2024)",
             "type": "primary",
             "url": "https://www.washingtonpost.com/world/2024/10/05/israel-mossad-hezbollah-pagers-nasrallah/"
         },
         {
-            "label": "CBS News 60 Minutes \u2014 \u201cIsrael's spy agency, Mossad, spent years orchestrating Hezbollah walkie-talkie, pager plots\u201d",
+            "label": "CBS News 60 Minutes — “Israel's spy agency, Mossad, spent years orchestrating Hezbollah walkie-talkie, pager plots”",
             "type": "secondary",
             "url": "https://www.cbsnews.com/news/israeli-mossad-pager-walkie-talkie-hezbollah-plot-60-minutes/"
         },
         {
-            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) \u2014 surfacing source (rhetorical precedent)",
+            "label": "BIBLE Companion / @bible.app_, Instagram reel DTQb5oiAMHb (Jan 8, 2026) — surfacing source (rhetorical precedent)",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DTQb5oiAMHb/"
         }
     ],
     "status": "verified",
-    "notes": "Anchored to y2024 by year alignment; could thematically also live under y2023 (Gaza \u00b7 the lobby) since it is part of the post-Oct-7 regional escalation. The reel invokes the pager attacks as the precedent for its own 'exploding lavalier mic' theory in the Kirk killing ('first we had exploding pagers, now we have exploding mics'); this record documents only the pager attacks themselves, which are real, official, and acknowledged by Netanyahu. The rhetorical leap to micro-explosives-in-mics is not supported by any documented forensic evidence in the Kirk case."
+    "notes": "Anchored to y2024 by year alignment; could thematically also live under y2023 (Gaza · the lobby) since it is part of the post-Oct-7 regional escalation. The reel invokes the pager attacks as the precedent for its own 'exploding lavalier mic' theory in the Kirk killing ('first we had exploding pagers, now we have exploding mics'); this record documents only the pager attacks themselves, which are real, official, and acknowledged by Netanyahu. The rhetorical leap to micro-explosives-in-mics is not supported by any documented forensic evidence in the Kirk case."
 }

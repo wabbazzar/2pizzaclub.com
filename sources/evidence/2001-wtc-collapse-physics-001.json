@@ -4,12 +4,8 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "wtc",
-        "collapse-physics",
-        "free-fall",
-        "nist",
-        "momentum-conservation",
-        "engineering-dispute"
+        "september-11",
+        "engineering"
     ],
     "claim": "The North Tower of the World Trade Center collapsed in approximately 10–12 seconds from initiation to ground; an absolute free-fall time for the same height under gravity alone would be approximately 9.2 seconds. World Trade Center 7 collapsed in approximately 6.5 seconds, with NIST acknowledging in its final report (NCSTAR 1A, 2008) that the building experienced an approximately 2.25-second period of pure free-fall acceleration during its collapse. Critics — including the architects-and-engineers organization AE911Truth and the late physicist Steven Jones — have argued that achieving observed collapse speeds while simultaneously breaking apart the structure below would violate conservation of momentum and conservation of energy without an additional energy input not accounted for in the official fire-induced-collapse model. NIST's position is that the energy released by the upper-section impact so greatly exceeded the strength capacity of the lower structure that observed acceleration is consistent with conventional physics.",
     "sources": [

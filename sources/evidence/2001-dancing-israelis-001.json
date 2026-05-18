@@ -4,21 +4,21 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
+        "september-11",
         "israel",
         "mossad",
         "fbi",
-        "anomaly"
+        "contested"
     ],
-    "claim": "Five Israeli nationals working for Urban Moving Systems Inc. \u2014 Sivan Kurzberg, Paul Kurzberg, Omer Marmari, Yaron Shmuel, and Oded Ellner \u2014 were detained by New Jersey police on September 11, 2001 after being observed in a Weehawken parking lot photographing and apparently celebrating while WTC 1 burned. A search of their van turned up approximately $4,700 in cash, multiple foreign passports, and a box cutter. They were held for over two months before being deported to Israel on immigration violations. Urban Moving Systems' owner, Dominik Suter, fled to Israel before further FBI questioning. The five later appeared on Israeli television and Oded Ellner stated their purpose 'was to document the event.'",
+    "claim": "Five Israeli nationals working for Urban Moving Systems Inc. — Sivan Kurzberg, Paul Kurzberg, Omer Marmari, Yaron Shmuel, and Oded Ellner — were detained by New Jersey police on September 11, 2001 after being observed in a Weehawken parking lot photographing and apparently celebrating while WTC 1 burned. A search of their van turned up approximately $4,700 in cash, multiple foreign passports, and a box cutter. They were held for over two months before being deported to Israel on immigration violations. Urban Moving Systems' owner, Dominik Suter, fled to Israel before further FBI questioning. The five later appeared on Israeli television and Oded Ellner stated their purpose 'was to document the event.'",
     "sources": [
         {
-            "label": "ABC News 20/20 \u2014 \u201cWere Israelis Detained on Sept. 11 Spies?\u201d (Jun 21, 2002)",
+            "label": "ABC News 20/20 — “Were Israelis Detained on Sept. 11 Spies?” (Jun 21, 2002)",
             "type": "secondary",
             "url": "https://abcnews.com/2020/story?id=123885&page=1"
         },
         {
-            "label": "Wikipedia \u2014 \u201cSeptember 11 attacks advance-knowledge conspiracy theories\u201d",
+            "label": "Wikipedia — “September 11 attacks advance-knowledge conspiracy theories”",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/September_11_attacks_advance-knowledge_conspiracy_theories",
             "quote": "Police found the van and a search revealed $4,700 in cash hidden, along with foreign passports",
@@ -26,16 +26,16 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "Ha'aretz \u2014 Yossi Melman, \u201cFive Israelis Detained for 'Puzzling Behavior' After WTC Tragedy\u201d (Sep 17, 2001)",
+            "label": "Ha'aretz — Yossi Melman, “Five Israelis Detained for 'Puzzling Behavior' After WTC Tragedy” (Sep 17, 2001)",
             "type": "primary",
             "url": null
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Underlying events (arrest, $4,700 cash, deportation, Suter fleeing, Israeli-TV statement) are well-documented across mainstream and partisan sources. ABC 20/20 (2002) is the most-cited mainstream primary news source. The Ha'aretz article URL pending. The conspiratorial framing \u2014 that the men had foreknowledge or were intelligence assets \u2014 is contested; the underlying arrest and statements are documented."
+    "notes": "Underlying events (arrest, $4,700 cash, deportation, Suter fleeing, Israeli-TV statement) are well-documented across mainstream and partisan sources. ABC 20/20 (2002) is the most-cited mainstream primary news source. The Ha'aretz article URL pending. The conspiratorial framing — that the men had foreknowledge or were intelligence assets — is contested; the underlying arrest and statements are documented."
 }

@@ -4,30 +4,30 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "9-11",
+        "september-11",
         "sec",
         "finance",
-        "investigation"
+        "documents"
     ],
-    "claim": "In the days before September 11, 2001, put-option trading on the parent companies of United Airlines (Sep 6) and American Airlines (Sep 10) ran approximately 25\u2013100 times normal volumes. The SEC, FBI, and other agencies analyzed 9.5 million securities transactions across 103 companies in six industry groups across seven markets. The 9/11 Commission concluded that 95% of the UAL put activity was attributable to a single U.S.-based institutional investor with no ties to al-Qaeda (whose strategy also involved buying 115,000 shares of AMR on Sep 10), and that the bulk of unusual AMR put activity traced to a U.S.-based options newsletter that had recommended the trade in a Sep 9 fax to subscribers. The SEC's published conclusion: 'We have not developed any evidence suggesting that those who had advance knowledge of the September 11 attacks traded on the basis of that information.'",
+    "claim": "In the days before September 11, 2001, put-option trading on the parent companies of United Airlines (Sep 6) and American Airlines (Sep 10) ran approximately 25–100 times normal volumes. The SEC, FBI, and other agencies analyzed 9.5 million securities transactions across 103 companies in six industry groups across seven markets. The 9/11 Commission concluded that 95% of the UAL put activity was attributable to a single U.S.-based institutional investor with no ties to al-Qaeda (whose strategy also involved buying 115,000 shares of AMR on Sep 10), and that the bulk of unusual AMR put activity traced to a U.S.-based options newsletter that had recommended the trade in a Sep 9 fax to subscribers. The SEC's published conclusion: 'We have not developed any evidence suggesting that those who had advance knowledge of the September 11 attacks traded on the basis of that information.'",
     "sources": [
         {
-            "label": "National Commission on Terrorist Attacks Upon the United States (9/11 Commission) \u2014 Staff Monograph, \u201cThe Financing of the 9/11 Plot\u201d (Appendix A)",
+            "label": "National Commission on Terrorist Attacks Upon the United States (9/11 Commission) — Staff Monograph, “The Financing of the 9/11 Plot” (Appendix A)",
             "type": "primary",
             "url": "https://govinfo.library.unt.edu/911/staff_statements/911_TerrFin_App.pdf"
         },
         {
-            "label": "Snopes \u2014 \u201cWere Stocks of Airlines Suspiciously Shorted Just Before 9/11?\u201d",
+            "label": "Snopes — “Were Stocks of Airlines Suspiciously Shorted Just Before 9/11?”",
             "type": "secondary",
             "url": "https://www.snopes.com/fact-check/put-paid/"
         },
         {
-            "label": "Unredacted (National Security Archive blog) \u2014 \u201cDocument Friday: 'Terrorist-Insider-Trading?' The SEC's Pre-September 11, 2001 Trading Review\u201d",
+            "label": "Unredacted (National Security Archive blog) — “Document Friday: 'Terrorist-Insider-Trading?' The SEC's Pre-September 11, 2001 Trading Review”",
             "type": "secondary",
             "url": "https://unredacted.com/2010/04/30/document-friday-terrorist-insider-trading-the-secs-pre-september-11-2001-trading-review/"
         },
         {
-            "label": "Wikipedia \u2014 \u201cSeptember 11 attacks advance-knowledge conspiracy theories\u201d (put options section)",
+            "label": "Wikipedia — “September 11 attacks advance-knowledge conspiracy theories” (put options section)",
             "type": "secondary",
             "url": "https://en.wikipedia.org/wiki/September_11_attacks_advance-knowledge_conspiracy_theories",
             "quote": "Exhaustive investigations by the Securities and Exchange Commission, FBI, and other agencies have uncovered no evidence that anyone with advance knowledge of the attacks profited through securities transactions.",
@@ -35,7 +35,7 @@
             "clip_status": "ok-exact"
         },
         {
-            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) \u2014 surfacing source",
+            "label": "Haley Press / @strategichaley, Instagram reel DVOtv6QCTFf (Feb 26, 2026) — surfacing source",
             "type": "reel",
             "url": "https://www.instagram.com/reel/DVOtv6QCTFf/"
         }

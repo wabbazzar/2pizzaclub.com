@@ -26,8 +26,8 @@
     const fetchJSON = (url) => fetch(url, { cache: 'no-cache' }).then((r) => r.ok ? r.json() : null).catch(() => null);
 
     async function build() {
-        const evidenceManifest = await fetchJSON('sources/evidence/manifest.json') || { records: [] };
-        const capturesManifest = await fetchJSON('sources/captures/manifest.json') || { captures: [] };
+        const evidenceManifest = await fetchJSON('/sources/evidence/manifest.json') || { records: [] };
+        const capturesManifest = await fetchJSON('/sources/captures/manifest.json') || { captures: [] };
 
         const nodes = new Map(); // id -> node
         const edges = [];
@@ -36,7 +36,7 @@
 
         // captures + their evidence links
         for (const cid of capturesManifest.captures || []) {
-            const meta = await fetchJSON(`sources/captures/${cid}/meta.json`);
+            const meta = await fetchJSON(`/sources/captures/${cid}/meta.json`);
             if (!meta) continue;
             addNode({
                 id: `capture:${cid}`,
@@ -57,7 +57,7 @@
         // evidence records
         for (const fname of evidenceManifest.records || []) {
             const id = fname.replace(/\.json$/, '');
-            const rec = await fetchJSON(`sources/evidence/${fname}`);
+            const rec = await fetchJSON(`/sources/evidence/${fname}`);
             if (!rec) continue;
             addNode({
                 id: `claim:${id}`,

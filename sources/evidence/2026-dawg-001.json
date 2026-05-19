@@ -1,0 +1,53 @@
+{
+    "id": "2026-dawg-001",
+    "anchor": "y2026-dawg",
+    "year": 2026,
+    "era": "v",
+    "themes": [
+        "defense",
+        "ai",
+        "weapons"
+    ],
+    "claim": "On April 29, 2026, Secretary of Defense Pete Hegseth, testifying before the House Armed Services Committee on the Department of War's fiscal-year 2027 posture, announced: \"We will shortly announce a sub-unified command for autonomous warfare.\" A sub-unified command is a standing joint organization established by a combatant commander with the SecDef's approval; the designation signals an enduring, high-priority mission. The announcement accompanied the unveiling of the FY2027 budget request, which proposes $54.6 billion in RDT&E funding for the Defense Autonomous Warfare Group (DAWG) — an organization that was stood up inside the Pentagon in late 2025 with a $225.9 million budget. The FY2027 request is a roughly 24,000-percent year-over-year increase and is a larger single line than the entire Marine Corps budget request ($52.8 billion). When all DoW drone and counter-drone budget lines in the FY2027 request are aggregated, the total approaches $74 billion — characterized by Pentagon officials as the largest investment in autonomous and counter-autonomous systems in U.S. history. Just days before Hegseth's testimony, U.S. Southern Command stood up its own SOUTHCOM Autonomous Warfare Command (SAWC); SOUTHCOM has not described SAWC as a sub-unified command and the Pentagon has declined to clarify whether SAWC is the entity Hegseth referenced.",
+    "sources": [
+        {
+            "label": "U.S. House Committee on Armed Services — Secretary of Defense Pete Hegseth, FY2027 posture testimony (April 29, 2026). The official hearing record.",
+            "type": "primary",
+            "url": "https://armedservices.house.gov/uploadedfiles/2026-04-29_fy27_posture_hegseth_testimony.pdf"
+        },
+        {
+            "label": "DefenseScoop — \"Hegseth: Autonomous warfare sub-unified command coming soon\" (April 29, 2026). First-day reporting that captures Hegseth's verbatim statement.",
+            "type": "secondary",
+            "url": "https://defensescoop.com/2026/04/29/hegseth-autonomous-warfare-sub-unified-command/",
+            "quote": "We will shortly announce a sub-unified command for autonomous warfare"
+        },
+        {
+            "label": "Aviation Week — \"Debrief: Pentagon's Little-known DAWG Fetches $54.6B In Spending Plan.\" Defense-industry trade reporting on the budget line.",
+            "type": "secondary",
+            "url": "https://aviationweek.com/defense/budget-policy-operations/debrief-pentagons-little-known-dawg-fetches-546b-spending-plan"
+        },
+        {
+            "label": "Covington & Burling — Inside Government Contracts blog, \"The Pentagon's New Sub-Unified Command for Autonomous Warfare: What It Means and Where It Might Land\" (May 2026). Legal-analysis writeup with the SOUTHCOM SAWC context and the $74 billion aggregated drone/counter-drone figure.",
+            "type": "secondary",
+            "url": "https://www.insidegovernmentcontracts.com/2026/05/the-pentagons-new-sub-unified-command-for-autonomous-warfare-what-it-means-and-where-it-might-land/",
+            "quote": "When all DoW drone and counter-drone related budget lines in the FY 2027 budget request are aggregated, the total approaches $74 billion"
+        },
+        {
+            "label": "GlobalSecurity.org — \"Defense Autonomous Warfare Group Budget — Fiscal Year 2027.\" Compiled DAWG funding-line summary from the FY2027 budget documents.",
+            "type": "secondary",
+            "url": "https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm"
+        },
+        {
+            "label": "The Cipher Brief — \"The Pentagon's $54 Billion Bet on Autonomous Warfare.\" Analytical writeup of the FY2027 DAWG line in strategic context.",
+            "type": "secondary",
+            "url": "https://www.thecipherbrief.com/pentagons-bet-on-autonomous-warfare"
+        },
+        {
+            "label": "Office of the Under Secretary of Defense (Comptroller) — DoD/DoW budget materials portal, where the FY2027 budget request line items, including the DAWG line, are published.",
+            "type": "primary",
+            "url": "https://comptroller.defense.gov/Budget-Materials/"
+        }
+    ],
+    "status": "verified",
+    "notes": "The reel @after_the_uniform_ DXwaSCiu-1I (April 30, 2026) is the trigger for this record. Every numerical claim the speaker makes — the April 29 testimony date, the House Armed Services Committee venue, the verbatim Hegseth quote, the $54.6B FY2027 figure, the ~$226M prior-year figure, the 24,000% increase math, the comparison to the Marine Corps budget — is confirmed against the DefenseScoop first-day reporting and the Covington legal analysis, both of which trace to the April 29 hearing record. The Comptroller portal is included as the primary path for verifying the DAWG line directly in the FY2027 budget books. The Pentagon was renamed the \"Department of War\" earlier in 2026 — note that the official portal URL is still comptroller.defense.gov; the reel's reference to \"comptroller.war.gov\" reflects the post-rename branding."
+}

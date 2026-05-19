@@ -1,0 +1,42 @@
+{
+    "id": "2026-dawg-002",
+    "anchor": "y2026-dawg",
+    "year": 2026,
+    "era": "v",
+    "themes": [
+        "defense",
+        "ai",
+        "weapons"
+    ],
+    "claim": "Foundation Future Industries — a San Francisco humanoid-robotics startup whose chief strategy adviser is Eric Trump — was awarded $24 million in SBIR Phase 3 Pentagon research contracts with the U.S. Army, Navy, and Air Force to test its Phantom MK-1 combat humanoid. The Phantom MK-1 is 5 feet 9 inches tall, weighs 176 pounds, has 19 upper-body degrees of freedom and five-fingered hands, costs approximately $150,000 per unit to buy or $100,000 per year to lease, and is the first humanoid robot deployed by any country to an active combat theatre: two units were sent to Ukraine in February 2026 for frontline logistics and reconnaissance testing. Foundation has stated public production targets of 40 Phantom units in 2025, 10,000 in 2026, and 50,000 by the end of 2027. Foundation has also announced a planned U.S. Marine Corps evaluation in which the Phantom would be trained at the Marines' \"Methods of Entry\" course to place breaching explosives on doors. The Marine Corps testing program is a planned use case rather than the contract holder; the $24 million Pentagon award itself was structured across the Army, Navy, and Air Force.",
+    "sources": [
+        {
+            "label": "The Next Web — \"Foundation Future Industries wins $24M Pentagon contracts for humanoid robot soldiers, backed by Eric Trump and tested in Ukraine.\" Reporting on the SBIR Phase 3 contract structure, Phantom MK-1 specs, Ukraine deployment, and production targets.",
+            "type": "secondary",
+            "url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon",
+            "quote": "Two units were sent to Ukraine in February for frontline testing in logistics and reconnaissance"
+        },
+        {
+            "label": "Semafor — \"Pentagon taps humanoid robot startups\" (April 3, 2026). Industry-context reporting on the Pentagon humanoid-robot procurement push, including Foundation Future Industries.",
+            "type": "secondary",
+            "url": "https://www.semafor.com/article/04/03/2026/pentagon-taps-humanoid-robot-startups"
+        },
+        {
+            "label": "Mezha (Ukraine) — \"Foundation sent Phantom humanoid robots to Ukraine for frontline testing.\" Ukrainian-language tech-press confirmation of the February 2026 deployment from the receiving end.",
+            "type": "secondary",
+            "url": "https://mezha.net/eng/bukvy/foundation_sent_phantom_humanoid/"
+        },
+        {
+            "label": "Time / Yahoo News — \"Two humanoid soldier robots delivered to Ukraine by US company.\" Additional independent confirmation of the February 2026 Ukraine deployment.",
+            "type": "secondary",
+            "url": "https://www.yahoo.com/news/articles/two-humanoid-soldier-robots-delivered-151200272.html"
+        },
+        {
+            "label": "Newsweek — \"Could This Humanoid Robot Become the Army's Ultimate Warrior?\" Profile of Foundation Future Industries and the Phantom platform.",
+            "type": "secondary",
+            "url": "https://www.newsweek.com/could-this-humanoid-robot-become-the-armys-ultimate-warrior-11063424"
+        }
+    ],
+    "status": "verified",
+    "notes": "The reel @after_the_uniform_ DXwaSCiu-1I describes Phantom as \"six feet tall\" and the $24M contract as being \"with the Marine Corps\" — both are minor compressions. Phantom MK-1's specced height is 5'9\" (176 lb); the $24M is an SBIR Phase 3 award across Army/Navy/Air Force, with the Marine Corps Methods of Entry course being a separate planned evaluation under that award envelope. The deployment-to-Ukraine, the Eric Trump advisory role, and the 50,000-by-end-of-2027 production target are all directly confirmed. Companion record [[2026-dawg-001]] covers the structural DAWG announcement and the FY2027 budget line that this contract sits inside."
+}

@@ -1,0 +1,40 @@
+{
+    "id": "DXwaSCiu-1I",
+    "url": "https://www.instagram.com/reel/DXwaSCiu-1I/",
+    "platform": "instagram",
+    "captured_at": "2026-05-19",
+    "handle": "@after_the_uniform_",
+    "author_display_name": "Tommy “Nutz”",
+    "posted_at": "2026-04-30",
+    "engagement": {
+        "likes": 14000,
+        "comments": 1116
+    },
+    "caption": "They said the robot video was AI. Here are the receipts.\n\nOn April 29th, Secretary of Defense Hegseth testified before Congress that a sub-unified command for autonomous warfare is being created. The FY2027 Pentagon budget requests $54.6 BILLION for the Defense Autonomous Warfare Group — a 24,000% increase from last year. That single line item is larger than the entire Marine Corps budget.\n\nA company called Foundation Future Industries already has a $24M Pentagon contract to test humanoid robots called the Phantom MK-1 with the Marine Corps. Two were already tested on the front lines in Ukraine in February. They plan to produce 50,000 by 2027. That’s next year.\n\nThis is not science fiction. This is Congressional testimony, official .gov budget documents, and Pentagon contracts. All public record. The question isn’t whether this is happening. It already is. The question is what are we going to do about it.\n\nWake up.\n\n#veterans #veteran #wakeup #aftertheuniform #autonomouswarfare",
+    "hashtags": [
+        "veterans",
+        "veteran",
+        "wakeup",
+        "aftertheuniform",
+        "autonomouswarfare"
+    ],
+    "audio_track_actual": "A single male voice speaking directly to the camera, no music bed. Speaker identifies via the account brand as a U.S. military veteran addressing viewers as 'guys' and 'people' in a rapid, urgent register.",
+    "video_overlay_text_observed": "Selfie-style head-and-shoulders framing of the speaker, indoors, no on-screen text overlays, document inserts, or B-roll. The visual content is a single static shot for the duration of the clip.",
+    "audio_content_summary": "The speaker argues — against viewers who have dismissed earlier humanoid-robot videos as AI-generated — that the U.S. is openly funding and standing up military autonomous-warfare programs, citing three specific receipts. (1) On April 29, 2026, Secretary of Defense Pete Hegseth testified before the House Armed Services Committee that the U.S. is creating a sub-unified command for autonomous warfare. (2) The FY2027 Pentagon budget requests $54.6 billion for the Defense Autonomous Warfare Group, a 24,000-percent year-over-year increase larger than the entire Marine Corps budget request. (3) Foundation Future Industries received a $24 million Pentagon contract to test six-foot AI-powered humanoid robots called the Phantom MK-1, two of which were sent to Ukraine in February for frontline testing, and the company has stated a 50,000-unit production target for 2027. The April 29 testimony, the $54.6B DAWG line and its 24,000-percent jump from $225.9 million, the comparison to the Marine Corps budget, the $24 million Foundation contract, the Ukraine deployment, and the 50,000-unit production target are independently confirmed against the House Armed Services Committee testimony record, the FY2027 budget materials, and contemporaneous trade-press reporting. Two minor compressions in the speaker's framing: Phantom MK-1's specced height is 5'9\" rather than six feet, and the $24 million Pentagon award is an SBIR Phase 3 contract structured across the Army, Navy, and Air Force — the Marine Corps Methods-of-Entry testing is a planned use case under that award envelope rather than the contract holder itself.",
+    "implied_frame": "The video's editorial proposition is that the apparent sci-fi unreality of humanoid combat robots is not grounds to dismiss footage of them, because the underlying programs, contracts, and budget lines are all published in primary U.S. government documents. The closing imperative — what are we going to do about it — pivots viewer attention from skepticism about the existence of the programs to civic response to their funding.",
+    "capture_method": "Headless browser recording of the in-page <video> element via MediaRecorder over captureStream(), viewport 1280x800.",
+    "video_download_status": "Captured: ~25 MB, vp9 720x1280, 127s.",
+    "audio_transcription_status": "Transcribed with openai-whisper base.en.",
+    "evidence_records": [
+        "2026-dawg-001",
+        "2026-dawg-002"
+    ],
+    "supporting_research_links": [
+        "https://armedservices.house.gov/uploadedfiles/2026-04-29_fy27_posture_hegseth_testimony.pdf",
+        "https://defensescoop.com/2026/04/29/hegseth-autonomous-warfare-sub-unified-command/",
+        "https://aviationweek.com/defense/budget-policy-operations/debrief-pentagons-little-known-dawg-fetches-546b-spending-plan",
+        "https://comptroller.defense.gov/Budget-Materials/",
+        "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon",
+        "https://www.semafor.com/article/04/03/2026/pentagon-taps-humanoid-robot-startups"
+    ]
+}

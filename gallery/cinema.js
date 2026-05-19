@@ -194,60 +194,19 @@
     let video = null;
     let order = [];
     let idx = 0;
-    let audioCtx = null;       // single AudioContext reused across captures
-    let audioSourceNode = null;// MediaElementSource for the cinema <video>
-    let audioCompressor = null;
-    let audioGain = null;
-
-    // Web Audio chain: src -> Compressor -> HighShelf cut -> WaveShaper soft-clip -> Gain -> destination.
+    // Web Audio chain deliberately removed.
     //
-    // The Instagram opus captures are not only hot — many were already digitally clipped at the
-    // source (square-wave tops baked into the waveform). EBU R128 loudnorm at ingest reduces the
-    // level so the speaker doesn't drive into its own clipping, but cannot reconstruct the lost
-    // peaks. This heavier playback chain (1) ratio-16 compression with very fast attack to ride
-    // peaks down hard, (2) a small high-shelf cut at 4.5kHz to soften the high-frequency
-    // distortion that baked-in clipping radiates, (3) a tanh soft-clipper with 4x oversampling
-    // to round any remaining sharp transients, and (4) ~0.72 output gain so the whole chain
-    // sits below 0dBFS even after make-up.
-    function ensureAudioChain() {
-        if (audioCtx) return;
-        try {
-            const AC = window.AudioContext || window.webkitAudioContext;
-            if (!AC) return;
-            audioCtx = new AC();
-            audioSourceNode = audioCtx.createMediaElementSource(video);
-
-            audioCompressor = audioCtx.createDynamicsCompressor();
-            audioCompressor.threshold.setValueAtTime(-30, audioCtx.currentTime);
-            audioCompressor.knee.setValueAtTime(30, audioCtx.currentTime);
-            audioCompressor.ratio.setValueAtTime(16, audioCtx.currentTime);
-            audioCompressor.attack.setValueAtTime(0.001, audioCtx.currentTime);
-            audioCompressor.release.setValueAtTime(0.2, audioCtx.currentTime);
-
-            const shelf = audioCtx.createBiquadFilter();
-            shelf.type = 'highshelf';
-            shelf.frequency.setValueAtTime(4500, audioCtx.currentTime);
-            shelf.gain.setValueAtTime(-3, audioCtx.currentTime);
-
-            const shaper = audioCtx.createWaveShaper();
-            const curve = new Float32Array(2048);
-            for (let i = 0; i < 2048; i++) {
-                const x = (i / 1024) - 1;
-                curve[i] = Math.tanh(x * 2.5) / Math.tanh(2.5);
-            }
-            shaper.curve = curve;
-            shaper.oversample = '4x';
-
-            audioGain = audioCtx.createGain();
-            audioGain.gain.setValueAtTime(0.72, audioCtx.currentTime);
-
-            audioSourceNode.connect(audioCompressor);
-            audioCompressor.connect(shelf);
-            shelf.connect(shaper);
-            shaper.connect(audioGain);
-            audioGain.connect(audioCtx.destination);
-        } catch (_) { /* if Web Audio is unavailable, fall back to default playback */ }
-    }
+    // Earlier versions of this file ran the cinema <video> through a DynamicsCompressor +
+    // high-shelf + WaveShaper to "tame" peak clipping. Quantitative A/B on five of the
+    // hottest captures (DYKm84QhHM6, DSvKzhhFCTr, DYaHLXji1vS, DWyiPW5jM0b, DWxV_gPD_DH)
+    // showed the chain was *introducing* the artifact it was meant to fix — harsh
+    // sample-to-sample jumps went from 1-11 on bypass to 32-96 through the chain, and
+    // longest flat-runs (the square-wave signature of clipping) more than doubled. The
+    // waveshaper's tanh saturation was manufacturing flat-tops at its own knee.
+    //
+    // The webm files are loudnorm-normalized at ingest (-16 LUFS / -1.5 dBTP), so default
+    // <video> playback is already clean. Don't add processing the data says hurts.
+    function ensureAudioChain() { /* no-op — see comment above */ }
 
     function startCinema(playOrder, startIdx) {
         order = playOrder;
@@ -279,6 +238,7 @@
                     <button class="cinema-prev" type="button" aria-label="Previous">◀ prev</button>
                     <button class="cinema-next" type="button" aria-label="Next">next ▶</button>
                 </div>
+                <button class="cinema-play" type="button" aria-label="Play / pause">⏸</button>
             </div>
         `;
         document.body.appendChild(overlay);
@@ -290,6 +250,12 @@
         overlay.querySelector('.cinema-prev').addEventListener('click', () => playAt(idx - 1));
         overlay.querySelector('.cinema-next').addEventListener('click', () => playAt(idx + 1));
         overlay.querySelector('.cinema-share').addEventListener('click', shareCurrent);
+        const playBtn = overlay.querySelector('.cinema-play');
+        playBtn.addEventListener('click', (e) => { e.stopPropagation(); togglePlay(); });
+        const syncPlayBtn = () => { playBtn.textContent = video.paused ? '▶' : '⏸'; };
+        video.addEventListener('play',  syncPlayBtn);
+        video.addEventListener('pause', syncPlayBtn);
+        syncPlayBtn();
         document.addEventListener('keydown', cinemaKey);
         document.addEventListener('fullscreenchange', () => {
             if (!document.fullscreenElement && overlay) exitCinema();
@@ -375,6 +341,15 @@
         }
     }
 
+    function togglePlay() {
+        if (!video) return;
+        if (video.paused) {
+            video.play().catch(() => {});
+        } else {
+            video.pause();
+        }
+    }
+
     function cancelHold() {
         clearTimeout(holdTimer); holdTimer = null;
         if (ffActive && !ffLocked) {
@@ -441,7 +416,6 @@
         video.src = cur.video;
         // honor an FF-lock across reel transitions; otherwise normal speed
         video.playbackRate = ffLocked ? FF_SPEED : 1;
-        if (audioCtx && audioCtx.state === 'suspended') audioCtx.resume().catch(() => {});
         const p = video.play();
         if (p && p.catch) p.catch(() => {/* autoplay blocked; user can hit play */});
     }

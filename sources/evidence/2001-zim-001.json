@@ -5,8 +5,7 @@
     "era": "iii",
     "themes": [
         "september-11",
-        "israel",
-        "contested"
+        "israel"
     ],
     "claim": "Zim-American Israeli Shipping Co., the U.S. subsidiary of the Israeli national shipping line, vacated its offices on the 16th–17th floors of WTC 1 (North Tower) approximately one week before September 11, 2001 — breaking its lease (which ran through year-end) at a reported $50,000 cost — and relocated its North American headquarters to Norfolk, Virginia.",
     "sources": [
@@ -30,5 +29,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Crain's article (April 2001) is the contemporaneous announcement; VEDP press release confirms the Norfolk arrival. Move timing relative to 9/11 (~1 week before) is consistently reported but I have not yet fetched and verbatim-confirmed either URL — flagged as primary-link-pending. The reel's framing implies foreknowledge; the underlying real-estate move and date are well-documented but the inference of foreknowledge is not."
+    "notes": "Crain's article (April 2001) is the contemporaneous announcement; VEDP press release confirms the Norfolk arrival. Move timing relative to 9/11 (~1 week before) is consistently reported but I have not yet fetched and verbatim-confirmed either URL — flagged as primary-link-pending. The reel's framing implies foreknowledge; the underlying real-estate move and date are well-documented but the inference of foreknowledge is not. [meta tags removed from themes array, kept here for record state: contested]"
 }

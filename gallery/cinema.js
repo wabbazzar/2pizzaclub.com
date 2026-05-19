@@ -92,6 +92,14 @@
     // primary theme has the largest group, then at each step pick the unplayed capture
     // with the largest shared-themes set with the just-played one (Jaccard-style tie-break
     // by posted date). This yields smooth thematic transitions instead of hard cuts.
+    // Defensive: cinema groups by subject, not by record state. If a meta-tag
+    // (record-state signal like 'contested' or vacuous like 'evidence') ever
+    // sneaks into a record's themes[] array, drop it here so it can't drive
+    // grouping. Source-of-truth for the project taxonomy is sources/SCHEMA.md;
+    // the rule for inclusion in this set is: would this tag tell a viewer what
+    // the reel is ABOUT? If no, it's meta — strip it.
+    const META_TAGS = new Set(['contested', 'evidence', 'alt-theory', 'documents']);
+
     function buildPlayOrder() {
         const items = Array.from(document.querySelectorAll('.gallery-item'));
         const dag = window.RECEIPTS_DAG;
@@ -106,7 +114,11 @@
                 const themes = new Set();
                 for (const eid of (n.evidence_records || [])) {
                     const claim = claimById.get(`claim:${eid}`);
-                    if (claim && claim.themes) for (const t of claim.themes) themes.add(t);
+                    if (claim && claim.themes) {
+                        for (const t of claim.themes) {
+                            if (!META_TAGS.has(t)) themes.add(t);
+                        }
+                    }
                 }
                 const captureId = n.id.replace(/^capture:/, '');
                 themesByCapture.set(captureId, Array.from(themes).sort());

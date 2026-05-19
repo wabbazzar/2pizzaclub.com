@@ -4,8 +4,7 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "september-11",
-        "contested"
+        "september-11"
     ],
     "claim": "Multiple flight instructors who worked with Hani Hanjour — the alleged pilot of American Airlines Flight 77 (which struck the Pentagon) — publicly stated that his piloting and English skills were 'well below standard.' The 9/11 Commission Report notes Hanjour was repeatedly advised to discontinue training. In February 2001, an Arizona flight school alerted the Federal Aviation Administration that Hanjour's skills did not match the commercial pilot certificate he already held. In August 2001, instructors at Freeway Airport in Maryland refused to rent him a Cessna after three test flights.",
     "sources": [
@@ -39,5 +38,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "The flight-instructor concerns are documented in the 9/11 Commission Report and contemporaneous NYT coverage. URLs for the 9/11 Commission Report and the NYT piece are stable but not yet fetched and verbatim-confirmed in this pass. The reel uses this fact (instructor concerns about Hanjour's piloting) to advance the 'remote-controlled planes' conspiracy frame; the underlying instructor reports are documented, but they do not corroborate the remote-control claim."
+    "notes": "The flight-instructor concerns are documented in the 9/11 Commission Report and contemporaneous NYT coverage. URLs for the 9/11 Commission Report and the NYT piece are stable but not yet fetched and verbatim-confirmed in this pass. The reel uses this fact (instructor concerns about Hanjour's piloting) to advance the 'remote-controlled planes' conspiracy frame; the underlying instructor reports are documented, but they do not corroborate the remote-control claim. [meta tags removed from themes array, kept here for record state: contested]"
 }

@@ -6,8 +6,7 @@
     "themes": [
         "september-11",
         "journalism",
-        "engineering",
-        "contested"
+        "engineering"
     ],
     "claim": "In the September 2002 PBS documentary America Rebuilds, World Trade Center leaseholder Larry Silverstein recounted a phone call from the fire-department commander on September 11, 2001, regarding the burning WTC 7. Silverstein stated on camera: 'I remember getting a call from the, er, fire department commander, telling me that they were not sure they were gonna be able to contain the fire, and I said, \"We've had such terrible loss of life, maybe the smartest thing to do is pull it.\" And they made that decision to pull and we watched the building collapse.' A subsequent spokesperson statement on Silverstein's behalf clarified that by 'pull it' Silverstein had meant pulling the firefighters out of the building, not pulling the building down via controlled demolition. The NIST WTC 7 final report (NCSTAR 1A, 2008) concluded that the building's collapse was the result of fire-induced thermal expansion and chain-of-failure structural collapse, not controlled demolition.",
     "sources": [
@@ -36,5 +35,5 @@
         }
     ],
     "status": "verified",
-    "notes": "The on-camera statement is real and verifiable from the PBS broadcast. The contested element is the semantics of 'pull it': in the demolition industry, the phrase typically refers to a cable-pull controlled collapse; Silverstein's subsequent clarification ascribed it to a firefighter-evacuation order. The reel cites the John Kerry response that has circulated on alt-media, in which Kerry reportedly accepted the controlled-demolition interpretation of 'pull it'; that Kerry exchange is not in the established mainstream record. The official NIST WTC 7 finding remains fire-induced thermal expansion as the cause; AE911Truth and similar organizations maintain the controlled-demolition interpretation."
+    "notes": "The on-camera statement is real and verifiable from the PBS broadcast. The contested element is the semantics of 'pull it': in the demolition industry, the phrase typically refers to a cable-pull controlled collapse; Silverstein's subsequent clarification ascribed it to a firefighter-evacuation order. The reel cites the John Kerry response that has circulated on alt-media, in which Kerry reportedly accepted the controlled-demolition interpretation of 'pull it'; that Kerry exchange is not in the established mainstream record. The official NIST WTC 7 finding remains fire-induced thermal expansion as the cause; AE911Truth and similar organizations maintain the controlled-demolition interpretation. [meta tags removed from themes array, kept here for record state: contested]"
 }

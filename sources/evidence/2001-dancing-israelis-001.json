@@ -7,8 +7,7 @@
         "september-11",
         "israel",
         "mossad",
-        "fbi",
-        "contested"
+        "fbi"
     ],
     "claim": "Five Israeli nationals working for Urban Moving Systems Inc. — Sivan Kurzberg, Paul Kurzberg, Omer Marmari, Yaron Shmuel, and Oded Ellner — were detained by New Jersey police on September 11, 2001 after being observed in a Weehawken parking lot photographing and apparently celebrating while WTC 1 burned. A search of their van turned up approximately $4,700 in cash, multiple foreign passports, and a box cutter. They were held for over two months before being deported to Israel on immigration violations. Urban Moving Systems' owner, Dominik Suter, fled to Israel before further FBI questioning. The five later appeared on Israeli television and Oded Ellner stated their purpose 'was to document the event.'",
     "sources": [
@@ -37,5 +36,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Underlying events (arrest, $4,700 cash, deportation, Suter fleeing, Israeli-TV statement) are well-documented across mainstream and partisan sources. ABC 20/20 (2002) is the most-cited mainstream primary news source. The Ha'aretz article URL pending. The conspiratorial framing — that the men had foreknowledge or were intelligence assets — is contested; the underlying arrest and statements are documented."
+    "notes": "Underlying events (arrest, $4,700 cash, deportation, Suter fleeing, Israeli-TV statement) are well-documented across mainstream and partisan sources. ABC 20/20 (2002) is the most-cited mainstream primary news source. The Ha'aretz article URL pending. The conspiratorial framing — that the men had foreknowledge or were intelligence assets — is contested; the underlying arrest and statements are documented. [meta tags removed from themes array, kept here for record state: contested]"
 }

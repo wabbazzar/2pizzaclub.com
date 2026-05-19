@@ -4,8 +4,7 @@
     "year": 2000,
     "era": "iii",
     "themes": [
-        "september-11",
-        "contested"
+        "september-11"
     ],
     "claim": "In March 2000, the Vienna-based art collective Gelitin (also spelled 'Gelatin') installed an unauthorized wooden balcony on the 91st floor of WTC 1 (North Tower). The collective gained access through a Lower Manhattan Cultural Council artist-residency program, removed the putty around a window pane and detached the glass, and four members in costume briefly stepped onto the balcony while a helicopter was commissioned to document the action. The project, titled 'The B-Thing,' was published as a book in 2001. The LMCC issued a memo denying that any such installation had occurred.",
     "sources": [
@@ -39,5 +38,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "The reel's lines about 'we'd make you a little art project' and 'group photo on the last day' map onto the Gelitin B-Thing. The art project's existence is documented in the artists' own book and ongoing art-press coverage; the unauthorized access via LMCC residency is also documented. URLs not directly fetched in this pass. Note: 91st floor of the North Tower was the boundary above which no occupants survived."
+    "notes": "The reel's lines about 'we'd make you a little art project' and 'group photo on the last day' map onto the Gelitin B-Thing. The art project's existence is documented in the artists' own book and ongoing art-press coverage; the unauthorized access via LMCC residency is also documented. URLs not directly fetched in this pass. Note: 91st floor of the North Tower was the boundary above which no occupants survived. [meta tags removed from themes array, kept here for record state: contested]"
 }

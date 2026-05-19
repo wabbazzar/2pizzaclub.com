@@ -4,9 +4,7 @@
     "year": 2001,
     "era": "iii",
     "themes": [
-        "september-11",
-        "contested",
-        "documents"
+        "september-11"
     ],
     "claim": "On September 11, 2001, CBS News and CNN reported that NYPD had stopped a van loaded with explosives on the George Washington Bridge. NYPD Commissioner Bernard Kerik publicly contradicted these accounts at a press conference the same day, stating no explosives had been recovered. The initial reports were retracted; the FBI has stated it has no records pertaining to this specific incident.",
     "sources": [
@@ -30,5 +28,5 @@
         }
     ],
     "status": "contested-initial-reports-retracted",
-    "notes": "What is documented: CBS and CNN ran the explosives-van story on 9/11 itself; Kerik denied it the same day; no van/explosives confirmed in any subsequent official record. What the reel does: treats the initial reports as the truth and the retraction as the cover-up. Both layers are real; which one to believe is the editorial question this record presents."
+    "notes": "What is documented: CBS and CNN ran the explosives-van story on 9/11 itself; Kerik denied it the same day; no van/explosives confirmed in any subsequent official record. What the reel does: treats the initial reports as the truth and the retraction as the cover-up. Both layers are real; which one to believe is the editorial question this record presents. [meta tags removed from themes array, kept here for record state: contested]"
 }

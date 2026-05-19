@@ -5,8 +5,7 @@
     "era": "iii",
     "themes": [
         "september-11",
-        "fbi",
-        "contested"
+        "fbi"
     ],
     "claim": "A passport belonging to Satam al-Suqami — one of the five hijackers aboard American Airlines Flight 11 (which struck WTC 1 at 8:46 a.m.) — was recovered in lower Manhattan and given to NYPD Detective Yuk H. Chin by an unidentified passerby (a male in a business suit, ~30 years old) moments before WTC 2 collapsed at 9:59 a.m. The detective handed the passport to the FBI on 9/11. In her January 2004 testimony to the 9/11 Commission, lead counsel Susan Ginsburg stated the passport had been 'manipulated in a fraudulent manner' in a pattern associated with al-Qaeda travel-document forgery.",
     "sources": [
@@ -35,5 +34,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "9/11 Commission Report is the primary government record on the passport recovery and Ginsburg's testimony about document manipulation. URL pending — canonical at govinfo.gov or 9-11commission.gov. The reel's framing treats the passport's survival as too convenient; the recovery is documented but the inference of plant/conspiracy is contested. Three other hijackers' passports also wholly or partially survived (Jarrah, Saeed al-Ghamdi at Flight 93 site; Abdulaziz al-Omari in luggage that didn't make Flight 11)."
+    "notes": "9/11 Commission Report is the primary government record on the passport recovery and Ginsburg's testimony about document manipulation. URL pending — canonical at govinfo.gov or 9-11commission.gov. The reel's framing treats the passport's survival as too convenient; the recovery is documented but the inference of plant/conspiracy is contested. Three other hijackers' passports also wholly or partially survived (Jarrah, Saeed al-Ghamdi at Flight 93 site; Abdulaziz al-Omari in luggage that didn't make Flight 11). [meta tags removed from themes array, kept here for record state: contested]"
 }

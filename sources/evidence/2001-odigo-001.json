@@ -5,8 +5,7 @@
     "era": "iii",
     "themes": [
         "september-11",
-        "israel",
-        "contested"
+        "israel"
     ],
     "claim": "Odigo, an Israeli instant-messaging company, reported that two of its employees in its Herzliya, Israel office received English-language instant messages approximately two hours before the September 11 attacks, warning that 'something big' was going to happen — messages reportedly ending in an antisemitic slur. Odigo provided the originating IP address to the FBI.",
     "sources": [
@@ -35,5 +34,5 @@
         }
     ],
     "status": "primary-link-pending",
-    "notes": "Ha'aretz coverage is the contemporaneous primary news report. URLs not yet directly fetched in this pass. The FBI investigation outcome is not in the public record. The conspiratorial framing — that the warning constitutes Israeli foreknowledge — is contested; the existence of the messages and the company's report to the FBI are documented."
+    "notes": "Ha'aretz coverage is the contemporaneous primary news report. URLs not yet directly fetched in this pass. The FBI investigation outcome is not in the public record. The conspiratorial framing — that the warning constitutes Israeli foreknowledge — is contested; the existence of the messages and the company's report to the FBI are documented. [meta tags removed from themes array, kept here for record state: contested]"
 }

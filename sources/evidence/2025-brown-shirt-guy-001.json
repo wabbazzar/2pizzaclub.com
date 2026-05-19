@@ -5,9 +5,7 @@
     "era": "iv",
     "themes": [
         "prosecution",
-        "alt-theory",
         "big-tech",
-        "contested",
         "kirk"
     ],
     "claim": "In the days following the Charlie Kirk shooting, a viral social-media thread identified an unnamed man wearing a brown shirt and sunglasses in the audience footage and proposed that he was the actual operator — either of a remote detonator or of a concealed 'palm gun.' The man has been variously identified as Rick Cutler in independent videos. The FBI's own person-of-interest images, released on September 11, 2025, showed a different individual wearing a dark blue cap and a black T-shirt with an American flag and bald eagle, photographed on a campus stairwell. That person was subsequently identified as Tyler Robinson; the 'brown shirt' man named in the viral thread has not been named in any official law-enforcement statement on the case.",
@@ -42,5 +40,5 @@
         }
     ],
     "status": "contested-meme",
-    "notes": "The 'brown shirt' / 'palm gun' figure is the subject of a substantial TikTok and YouTube ecosystem of speculation, but the only formal law-enforcement person-of-interest images released on September 11, 2025 depict a different individual (later identified as Tyler Robinson). The YouTube debunk linked above traces the brown-shirt man back to an attendee named Rick Cutler and argues the hand gesture interpreted as a detonator-press is not a detonator. This record documents both layers — the viral identification and the official record — and leaves the inference to the reader."
+    "notes": "The 'brown shirt' / 'palm gun' figure is the subject of a substantial TikTok and YouTube ecosystem of speculation, but the only formal law-enforcement person-of-interest images released on September 11, 2025 depict a different individual (later identified as Tyler Robinson). The YouTube debunk linked above traces the brown-shirt man back to an attendee named Rick Cutler and argues the hand gesture interpreted as a detonator-press is not a detonator. This record documents both layers — the viral identification and the official record — and leaves the inference to the reader. [meta tags removed from themes array, kept here for record state: alt-theory, contested]"
 }

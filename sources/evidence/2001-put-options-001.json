@@ -6,8 +6,7 @@
     "themes": [
         "september-11",
         "sec",
-        "finance",
-        "documents"
+        "finance"
     ],
     "claim": "In the days before September 11, 2001, put-option trading on the parent companies of United Airlines (Sep 6) and American Airlines (Sep 10) ran approximately 25–100 times normal volumes. The SEC, FBI, and other agencies analyzed 9.5 million securities transactions across 103 companies in six industry groups across seven markets. The 9/11 Commission concluded that 95% of the UAL put activity was attributable to a single U.S.-based institutional investor with no ties to al-Qaeda (whose strategy also involved buying 115,000 shares of AMR on Sep 10), and that the bulk of unusual AMR put activity traced to a U.S.-based options newsletter that had recommended the trade in a Sep 9 fax to subscribers. The SEC's published conclusion: 'We have not developed any evidence suggesting that those who had advance knowledge of the September 11 attacks traded on the basis of that information.'",
     "sources": [

@@ -4,10 +4,7 @@
     "year": 2025,
     "era": "iv",
     "themes": [
-        "evidence",
-        "alt-theory",
         "journalism",
-        "contested",
         "kirk"
     ],
     "claim": "Jon Aaron Bray, a researcher with a background in body-armor development, has publicly argued that Charlie Kirk was killed not by a rifle bullet but by a microshaped charge concealed inside the battery compartment of his Shure wireless lavalier microphone — a device he says was modeled on the Israeli pager and walkie-talkie operation against Hezbollah in September 2024. Bray's analysis, presented in an interview with Stew Peters and elaborated in follow-on streams, applies a modified version of an MIT Media Lab optical-flow algorithm to multiple camera angles of the shooting in order to identify what he describes as an epicenter of energy on Kirk's upper sternum.",
@@ -47,5 +44,5 @@
         }
     ],
     "status": "contested-public-claim",
-    "notes": "Bray's methodology and conclusions are publicly available and trace to identifiable presentations. The exploding-microphone hypothesis does not appear in the prosecution's charging document for Tyler Robinson or in any U.S. government forensic statement on the case. AAP FactCheck rated the underlying viral claim false. This record documents the existence of the public theory and links both the originating analysis and the published rebuttal; it does not endorse either side."
+    "notes": "Bray's methodology and conclusions are publicly available and trace to identifiable presentations. The exploding-microphone hypothesis does not appear in the prosecution's charging document for Tyler Robinson or in any U.S. government forensic statement on the case. AAP FactCheck rated the underlying viral claim false. This record documents the existence of the public theory and links both the originating analysis and the published rebuttal; it does not endorse either side. [meta tags removed from themes array, kept here for record state: alt-theory, contested]"
 }

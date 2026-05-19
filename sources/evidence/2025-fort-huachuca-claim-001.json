@@ -5,9 +5,7 @@
     "era": "iv",
     "themes": [
         "defense",
-        "evidence",
         "journalism",
-        "contested",
         "kirk"
     ],
     "claim": "Mitch Snow, a retired U.S. Army staff sergeant, has publicly stated that on the afternoon of September 8, 2025 — two days before the Charlie Kirk shooting at Utah Valley University — he saw individuals in the lobby of the Candlewood Suites near Fort Huachuca, Arizona he was 'between 95 and 99 percent sure' included Erika Kirk and Cabot Phillips. He has separately stated that the following morning, September 9, he saw Brian Harpool (Charlie Kirk's head of security) exiting what he described as a high-level meeting at Fort Huachuca itself connected to Joint Task Force Southern Border (JTF-SB). The claim was given a national audience by commentator Candace Owens on her podcast and amplified by the Project Constitution X account. Cabot Phillips has publicly rebutted the identification, telling Newsweek 'The following morning, I was at work as usual,' and releasing photographs and surveillance footage from his place of work. Turning Point USA representative Andrew Kolvet has separately disputed elements of the Erika Kirk alibi timeline that Owens has aired.",
@@ -42,5 +40,5 @@
         }
     ],
     "status": "contested-with-named-rebuttal",
-    "notes": "The named witness (Mitch Snow) is a real person with documented military service. The originating Project Constitution X post (Apr 5, 2026) places three named individuals in the area: Erika Kirk and Cabot Phillips in the Candlewood Suites lobby on Sep 8, and Brian Harpool (Kirk's head of security, here spelled 'Harpool' per the post, vs 'Harpole' in earlier amplifications) at a Fort Huachuca JTF-SB meeting on Sep 9. Cabot Phillips's named rebuttal is published (Newsweek). Whether Erika Kirk was at Fort Huachuca on the date in question remains the contested element with no independently documented record placing her there. Erika Kirk's published timeline shows her becoming CEO of Turning Point USA on September 18, 2025; her specific public schedule for September 8 is not on the published record either way."
+    "notes": "The named witness (Mitch Snow) is a real person with documented military service. The originating Project Constitution X post (Apr 5, 2026) places three named individuals in the area: Erika Kirk and Cabot Phillips in the Candlewood Suites lobby on Sep 8, and Brian Harpool (Kirk's head of security, here spelled 'Harpool' per the post, vs 'Harpole' in earlier amplifications) at a Fort Huachuca JTF-SB meeting on Sep 9. Cabot Phillips's named rebuttal is published (Newsweek). Whether Erika Kirk was at Fort Huachuca on the date in question remains the contested element with no independently documented record placing her there. Erika Kirk's published timeline shows her becoming CEO of Turning Point USA on September 18, 2025; her specific public schedule for September 8 is not on the published record either way. [meta tags removed from themes array, kept here for record state: contested]"
 }

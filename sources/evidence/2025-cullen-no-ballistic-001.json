@@ -4,9 +4,6 @@
     "year": 2025,
     "era": "iv",
     "themes": [
-        "evidence",
-        "alt-theory",
-        "contested",
         "kirk"
     ],
     "claim": "John Cullen, a former commercial pilot and independent investigator, has publicly argued that the round which killed Charlie Kirk was never recovered and therefore has no ballistic match to the bolt-action .30-06 rifle found in the wooded area near Utah Valley University. Cullen further argues, in his ongoing YouTube and X publications on the case, that the publicly available audio and video evidence are inconsistent with a single rooftop shooter at 142 yards.",
@@ -33,5 +30,5 @@
         }
     ],
     "status": "contested-public-claim",
-    "notes": "Cullen's central factual claim — that no recovered round has been ballistically matched to the recovered rifle — is testable against the Utah County Attorney's charging document and the FBI's public statements. As of the charging-document filing in September 2025, the prosecution's case rests on DNA evidence on the rifle, the towel, and the trigger (see 2025-kirk-002); the charging document does not reference a recovered projectile. Whether that absence is forensically significant is the contested question. This record documents the public claim and the cited primary sources; readers can compare against 2025-kirk-002 directly."
+    "notes": "Cullen's central factual claim — that no recovered round has been ballistically matched to the recovered rifle — is testable against the Utah County Attorney's charging document and the FBI's public statements. As of the charging-document filing in September 2025, the prosecution's case rests on DNA evidence on the rifle, the towel, and the trigger (see 2025-kirk-002); the charging document does not reference a recovered projectile. Whether that absence is forensically significant is the contested question. This record documents the public claim and the cited primary sources; readers can compare against 2025-kirk-002 directly. [meta tags removed from themes array, kept here for record state: alt-theory, contested]"
 }

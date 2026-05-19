@@ -5,9 +5,7 @@
     "era": "iii",
     "themes": [
         "september-11",
-        "fbi",
-        "evidence",
-        "contested"
+        "fbi"
     ],
     "claim": "On the morning of September 11, 2001, Mohamed Atta and a companion took an early flight from Portland International Jetport in Maine to Boston Logan International Airport. Because the Portland-to-Boston connection was delayed, two checked bags Atta had originated at Portland did not make the transfer onto American Airlines Flight 11. Recovered at Logan after the attacks, the bags contained airline uniforms, flight manuals, a copy of Atta's last will and testament, and a handwritten three-page document in Arabic — later titled by U.S. authorities 'The Last Night' — containing spiritual and operational instructions applicable to (but not specific to) a martyrdom mission. One bag also contained materials FBI investigators have publicly described as 'the Rosetta stone' of the September 11 investigation: the hijackers' names, their respective flight assignments, and their al-Qaeda connections.",
     "sources": [
@@ -46,5 +44,5 @@
         }
     ],
     "status": "verified",
-    "notes": "The bag and its contents are matters of established FBI and 9/11 Commission record. The reel raises the convenience question — that a single piece of luggage, missed by the flight transfer, contained the documentary roadmap to the entire operation including hijacker identities — and frames it alongside the Suqami passport recovery (2001-suqami-passport-001). Both items are independently documented; the inference that their combined recovery is too convenient to be coincidence is the contested editorial proposition. The Atta Portland trip itself remains the subject of the ic911.org Consensus Panel's Point H-1 discussion."
+    "notes": "The bag and its contents are matters of established FBI and 9/11 Commission record. The reel raises the convenience question — that a single piece of luggage, missed by the flight transfer, contained the documentary roadmap to the entire operation including hijacker identities — and frames it alongside the Suqami passport recovery (2001-suqami-passport-001). Both items are independently documented; the inference that their combined recovery is too convenient to be coincidence is the contested editorial proposition. The Atta Portland trip itself remains the subject of the ic911.org Consensus Panel's Point H-1 discussion. [meta tags removed from themes array, kept here for record state: contested]"
 }

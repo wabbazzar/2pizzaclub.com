@@ -1,7 +1,7 @@
 {
     "name": "2pizzaclub.com",
     "short_name": "2pizzaclub",
-    "description": "A sourced editorial timeline.",
+    "description": "Just the receipts.",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",

@@ -12,11 +12,11 @@ This means, anywhere a reader can see it:
 
 - No `TODO:` markers, no `// FIXME`, no "left as a follow-on pass."
 - No second-person address ("you", "if you want"). No "Per the user…" or "the user explicitly asked…".
-- No references to internal repo structure ("see meta.json `field_X`", "in receipts/sources/…", evidence-record IDs in prose).
+- No references to internal repo structure ("see meta.json `field_X`", "in sources/…", evidence-record IDs in prose).
 - No first-person ("I clipped this", "I traced…"). Editorial framing reads in the third person ("the reel claims…", "Maher concluded…", "AAP rated this false").
 - Tools, models, and capture methods may appear in dedicated metadata fields (e.g. `capture_method`, `audio_transcription_status`), but they should read as neutral archival metadata, not as a workflow log.
 
-Where to put backstage notes: inside an evidence record's `notes` field (the gallery and the main page do NOT render `notes`), or in a sidecar markdown file under `receipts/sources/captures/<id>/` not named `transcript.txt` (the gallery only renders `transcript.txt`).
+Where to put backstage notes: inside an evidence record's `notes` field (the gallery and the main page do NOT render `notes`), or in a sidecar markdown file under `sources/captures/<id>/` not named `transcript.txt` (the gallery only renders `transcript.txt`).
 
 Gallery-rendered fields, as of this SOP:
 - `caption`, `handle`, `posted_at`, `engagement`, `hashtags` — populated from og:* meta, OK as-is.
@@ -35,20 +35,20 @@ Fields NOT rendered to consumers (safe place for internal notes):
 
 ```bash
 cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-node /home/wabbazzar/code/wabbazzar.github.io/receipts/tools/ingest-reel.mjs <SHORTCODE>
+node /home/wabbazzar/code/2pizzaclub/tools/ingest-reel.mjs <SHORTCODE>
 ```
 
 Accepts a full IG URL too (`https://www.instagram.com/reel/<SHORTCODE>/`). Default model is `base.en`. Override with `--model=small.en` for higher-stakes transcription. Use `--skip-capture` to reuse an existing `reel.webm`. Use `--skip-transcribe` to skip whisper.
 
 What this writes:
-- `receipts/sources/captures/<SHORTCODE>/reel.webm` — full video, vp9/opus
-- `receipts/sources/captures/<SHORTCODE>/reel-audio.wav` — 16k mono for whisper
-- `receipts/sources/captures/<SHORTCODE>/reel-audio.{txt,srt,vtt,json}` — whisper output
-- `receipts/sources/captures/<SHORTCODE>/frames/f###.png` — frames @ 0.5fps for visual scan
-- `receipts/sources/captures/<SHORTCODE>/meta.json` — skeleton with caption/handle/posted/engagement filled, TODO fields explicit
-- `receipts/sources/captures/<SHORTCODE>/transcript.txt` — wrapped transcript with editorial notes section
-- `receipts/sources/captures/<SHORTCODE>/_meta_raw.json` — raw og:* dump for re-parsing if needed
-- Adds `<SHORTCODE>` to `receipts/sources/captures/manifest.json`
+- `sources/captures/<SHORTCODE>/reel.webm` — full video, vp9/opus
+- `sources/captures/<SHORTCODE>/reel-audio.wav` — 16k mono for whisper
+- `sources/captures/<SHORTCODE>/reel-audio.{txt,srt,vtt,json}` — whisper output
+- `sources/captures/<SHORTCODE>/frames/f###.png` — frames @ 0.5fps for visual scan
+- `sources/captures/<SHORTCODE>/meta.json` — skeleton with caption/handle/posted/engagement filled, TODO fields explicit
+- `sources/captures/<SHORTCODE>/transcript.txt` — wrapped transcript with editorial notes section
+- `sources/captures/<SHORTCODE>/_meta_raw.json` — raw og:* dump for re-parsing if needed
+- Adds `<SHORTCODE>` to `sources/captures/manifest.json`
 
 ## Editorial pass (mine)
 
@@ -71,17 +71,17 @@ After ingest:
 4. **For each Group A item:**
    1. Search the web for 1–2 candidate primary URLs (`WebSearch`).
    2. Fetch the strongest URL (`WebFetch`) and extract a verbatim 15–25 word quote.
-   3. Write `receipts/sources/evidence/<id>.json` per `receipts/sources/SCHEMA.md`. Include the reel as a `type: "reel"` surfacing source.
+   3. Write `sources/evidence/<id>.json` per `sources/SCHEMA.md`. Include the reel as a `type: "reel"` surfacing source.
    4. Add the quote to the strongest primary source on the record.
 
 5. **Append the new evidence IDs** to:
-   - `receipts/sources/evidence/manifest.json` `records[]`
+   - `sources/evidence/manifest.json` `records[]`
    - `meta.json` `evidence_records[]`
 
 6. **Run clip-evidence** to generate inline screenshots:
    ```bash
    cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-   node /home/wabbazzar/code/wabbazzar.github.io/receipts/tools/clip-evidence.mjs <id1> <id2> ...
+   node /home/wabbazzar/code/2pizzaclub/tools/clip-evidence.mjs <id1> <id2> ...
    ```
    Tool tries: exact in-node → cross-node Range fallback → head60 → cross-node60 → head30 → cross-node30. Logs which method matched. Sets `clip_status` on each source: `ok-<method>`, `http-<status>`, `quote-not-found`, or `error: ...`.
 

@@ -47,7 +47,7 @@ To let readers see the source without leaving the site, populate a `quote` field
 
 ```
 cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-npx tsx /home/wabbazzar/code/2pizzaclub.com/tools/clip-evidence.mjs <evidence-id>
+npx tsx /home/wabbazzar/code/2pizzaclub/tools/clip-evidence.mjs <evidence-id>
 # or --all to walk every record in the manifest
 ```
 

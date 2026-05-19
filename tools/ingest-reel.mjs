@@ -1,13 +1,13 @@
 #!/usr/bin/env node
-// receipts/tools/ingest-reel.mjs
+// tools/ingest-reel.mjs
 //
 // One-shot ingest of an Instagram reel into the receipts pipeline.
 //
 // Usage:
-//   node receipts/tools/ingest-reel.mjs <SHORTCODE>           # full pipeline
-//   node receipts/tools/ingest-reel.mjs <SHORTCODE> --skip-capture   # reuse existing reel.webm
-//   node receipts/tools/ingest-reel.mjs <SHORTCODE> --skip-transcribe
-//   node receipts/tools/ingest-reel.mjs <URL>                 # accepts full URL too
+//   node tools/ingest-reel.mjs <SHORTCODE>           # full pipeline
+//   node tools/ingest-reel.mjs <SHORTCODE> --skip-capture   # reuse existing reel.webm
+//   node tools/ingest-reel.mjs <SHORTCODE> --skip-transcribe
+//   node tools/ingest-reel.mjs <URL>                 # accepts full URL too
 //
 // Steps performed:
 //   1. Playwright headless capture (MediaRecorder over <video>.captureStream())
@@ -18,21 +18,21 @@
 //   5. whisper base.en → transcript.{txt,srt,vtt,json}
 //   6. Write meta.json skeleton with everything we know so far + editorial slots to fill
 //   7. Write transcript.txt with header + body + accuracy-note section
-//   8. Add capture id to receipts/sources/captures/manifest.json
+//   8. Add capture id to sources/captures/manifest.json
 //
 // What this DOES NOT do (left to editorial pass):
 //   - decompose claims and write evidence records
 //   - search for primary sources
 //   - run clip-evidence.mjs (call separately once you've added `quote` fields)
 //
-// Dependencies (machine-local, see receipts/sources/SCHEMA.md):
+// Dependencies (machine-local, see sources/SCHEMA.md):
 //   - playwright (used via the dev-browser plugin's node_modules)
 //   - ffmpeg + ffprobe in PATH
 //   - whisper installed at /tmp/whisper-venv (`python3 -m venv /tmp/whisper-venv && /tmp/whisper-venv/bin/pip install openai-whisper`)
 //
 // Invoke from the dev-browser plugin dir for playwright resolution:
 //   cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-//   node /home/wabbazzar/code/wabbazzar.github.io/receipts/tools/ingest-reel.mjs <SHORTCODE>
+//   node /home/wabbazzar/code/2pizzaclub/tools/ingest-reel.mjs <SHORTCODE>
 
 import { chromium } from "playwright";
 import { spawnSync } from "node:child_process";
@@ -314,10 +314,10 @@ async function main() {
     console.log(`  edit: ${outDir}/meta.json   (TODO fields are explicit)`);
     console.log(`\nNext steps (editorial pass):`);
     console.log("  1. Read transcript.txt; sketch claims into Group A/B/C (verifiable / disputed / invented).");
-    console.log("  2. For each Group A claim, write receipts/sources/evidence/<id>.json with sourced URLs.");
+    console.log("  2. For each Group A claim, write sources/evidence/<id>.json with sourced URLs.");
     console.log("  3. Add a `quote` field to the strongest primary source on each new record.");
     console.log("  4. Run clip-evidence.mjs against the new ids to generate inline clip screenshots.");
-    console.log("  5. Update receipts/sources/evidence/manifest.json and the meta.json `evidence_records[]`.");
+    console.log("  5. Update sources/evidence/manifest.json and the meta.json `evidence_records[]`.");
 }
 
 main().catch((e) => { console.error("FATAL:", e.message); process.exit(1); });

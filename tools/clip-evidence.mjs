@@ -1,20 +1,22 @@
-// receipts/tools/clip-evidence.mjs
+// tools/clip-evidence.mjs
 //
 // Open each source URL in an evidence record, find the `quote` text on the page,
 // inject a yellow highlight, screenshot a cropped region centered on the quote,
-// save the image to receipts/sources/clips/<evidence-id>-<n>.png, and write back
+// save the image to sources/clips/<evidence-id>-<n>.png, and write back
 // a `clip` reference into the record.
 //
 // Run with the dev-browser plugin's playwright install:
 //   cd /home/wabbazzar/.claude/plugins/cache/dev-browser-marketplace/dev-browser/66682fb0513a/skills/dev-browser
-//   node /home/wabbazzar/code/wabbazzar.github.io/receipts/tools/clip-evidence.mjs <evidence-id> [<id2> ...]
+//   node /home/wabbazzar/code/2pizzaclub/tools/clip-evidence.mjs <evidence-id> [<id2> ...]
 //
-// Use --all to process every record listed in receipts/sources/evidence/manifest.json.
+// Use --all to process every record listed in sources/evidence/manifest.json.
 
 import { chromium } from "playwright";
 import * as fs from "node:fs";
+import * as path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const ROOT = "/home/wabbazzar/code/wabbazzar.github.io/receipts";
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const EVIDENCE_DIR = `${ROOT}/sources/evidence`;
 const CLIPS_DIR = `${ROOT}/sources/clips`;
 

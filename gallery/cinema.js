@@ -33,8 +33,11 @@
     if (!dagReady) btn.classList.add('cinema-btn-loading');
 
     btn.addEventListener('click', async () => {
+        await launchCinema();
+    });
+
+    async function launchCinema(startCaptureId) {
         if (!dagReady) {
-            // wait up to 8s for the DAG to finish loading; if it never does, fall back to ungrouped play.
             btn.classList.add('cinema-btn-loading');
             await Promise.race([
                 new Promise((resolve) => document.addEventListener('receipts:dag-ready', resolve, { once: true })),
@@ -44,8 +47,41 @@
         }
         const order = buildPlayOrder();
         if (!order.length) return;
-        startCinema(order);
-    });
+        let startIdx = 0;
+        if (startCaptureId) {
+            const found = order.findIndex((e) => e.id === startCaptureId);
+            if (found >= 0) startIdx = found;
+        }
+        startCinema(order, startIdx);
+    }
+
+    // ---- deep-link auto-launch: ?cinema=1 starts at the first item,
+    //                             ?cinema=<capture-id> starts at that capture.
+    //
+    // Waits for BOTH the DAG (themes) and the gallery DOM to be fully populated
+    // — the gallery renders items one-by-one with intermediate fetches, so we
+    // poll until the item count stops growing for 600ms before launching.
+    // Otherwise we'd build a play order from a partial DOM and miss recent reels.
+    const cinemaParam = new URLSearchParams(window.location.search).get('cinema');
+    if (cinemaParam) {
+        let lastCount = -1, stableSince = performance.now();
+        const STABLE_MS = 600;
+        const TIMEOUT_MS = 15000;
+        const startedAt = performance.now();
+        const startWhenReady = () => {
+            const now = performance.now();
+            const count = document.querySelectorAll('.gallery-item').length;
+            if (count !== lastCount) { lastCount = count; stableSince = now; }
+            const stable = count > 0 && (now - stableSince) >= STABLE_MS;
+            const timedOut = (now - startedAt) >= TIMEOUT_MS;
+            if (stable || (timedOut && count > 0)) {
+                launchCinema(cinemaParam !== '1' ? cinemaParam : null);
+            } else {
+                setTimeout(startWhenReady, 150);
+            }
+        };
+        setTimeout(startWhenReady, 100);
+    }
 
     // ---- build play order from live data ----
     // Source of truth: the rendered gallery items (so we play what the reader can see).
@@ -151,9 +187,16 @@
     let audioCompressor = null;
     let audioGain = null;
 
-    // Web Audio chain: video -> DynamicsCompressor -> Gain -> destination.
-    // Tames the harsh peaks the user reported (the Instagram captures' opus track
-    // is hot enough that loud moments clip on consumer speakers).
+    // Web Audio chain: src -> Compressor -> HighShelf cut -> WaveShaper soft-clip -> Gain -> destination.
+    //
+    // The Instagram opus captures are not only hot — many were already digitally clipped at the
+    // source (square-wave tops baked into the waveform). EBU R128 loudnorm at ingest reduces the
+    // level so the speaker doesn't drive into its own clipping, but cannot reconstruct the lost
+    // peaks. This heavier playback chain (1) ratio-16 compression with very fast attack to ride
+    // peaks down hard, (2) a small high-shelf cut at 4.5kHz to soften the high-frequency
+    // distortion that baked-in clipping radiates, (3) a tanh soft-clipper with 4x oversampling
+    // to round any remaining sharp transients, and (4) ~0.72 output gain so the whole chain
+    // sits below 0dBFS even after make-up.
     function ensureAudioChain() {
         if (audioCtx) return;
         try {
@@ -161,30 +204,48 @@
             if (!AC) return;
             audioCtx = new AC();
             audioSourceNode = audioCtx.createMediaElementSource(video);
+
             audioCompressor = audioCtx.createDynamicsCompressor();
-            // Aggressive but musical: knee at -22dB, fast attack, slow release.
-            audioCompressor.threshold.setValueAtTime(-22, audioCtx.currentTime);
-            audioCompressor.knee.setValueAtTime(24, audioCtx.currentTime);
-            audioCompressor.ratio.setValueAtTime(8, audioCtx.currentTime);
-            audioCompressor.attack.setValueAtTime(0.003, audioCtx.currentTime);
-            audioCompressor.release.setValueAtTime(0.25, audioCtx.currentTime);
+            audioCompressor.threshold.setValueAtTime(-30, audioCtx.currentTime);
+            audioCompressor.knee.setValueAtTime(30, audioCtx.currentTime);
+            audioCompressor.ratio.setValueAtTime(16, audioCtx.currentTime);
+            audioCompressor.attack.setValueAtTime(0.001, audioCtx.currentTime);
+            audioCompressor.release.setValueAtTime(0.2, audioCtx.currentTime);
+
+            const shelf = audioCtx.createBiquadFilter();
+            shelf.type = 'highshelf';
+            shelf.frequency.setValueAtTime(4500, audioCtx.currentTime);
+            shelf.gain.setValueAtTime(-3, audioCtx.currentTime);
+
+            const shaper = audioCtx.createWaveShaper();
+            const curve = new Float32Array(2048);
+            for (let i = 0; i < 2048; i++) {
+                const x = (i / 1024) - 1;
+                curve[i] = Math.tanh(x * 2.5) / Math.tanh(2.5);
+            }
+            shaper.curve = curve;
+            shaper.oversample = '4x';
+
             audioGain = audioCtx.createGain();
-            audioGain.gain.setValueAtTime(0.85, audioCtx.currentTime);
+            audioGain.gain.setValueAtTime(0.72, audioCtx.currentTime);
+
             audioSourceNode.connect(audioCompressor);
-            audioCompressor.connect(audioGain);
+            audioCompressor.connect(shelf);
+            shelf.connect(shaper);
+            shaper.connect(audioGain);
             audioGain.connect(audioCtx.destination);
         } catch (_) { /* if Web Audio is unavailable, fall back to default playback */ }
     }
 
-    function startCinema(playOrder) {
+    function startCinema(playOrder, startIdx) {
         order = playOrder;
-        idx = 0;
+        idx = startIdx || 0;
         buildOverlay();
         // try real Fullscreen API; if it fails (some browsers block on autoplay), fall back to fixed overlay only
         const target = document.documentElement;
         if (target.requestFullscreen) target.requestFullscreen().catch(() => {});
         document.body.classList.add('cinema-on');
-        playAt(0);
+        playAt(idx);
     }
 
     function buildOverlay() {
@@ -193,8 +254,10 @@
         overlay.className = 'cinema-overlay';
         overlay.innerHTML = `
             <video class="cinema-video" playsinline autoplay></video>
+            <div class="cinema-speed-indicator" aria-hidden="true"></div>
             <div class="cinema-chrome">
                 <button class="cinema-exit" type="button" aria-label="Exit cinema">✕</button>
+                <button class="cinema-share" type="button" aria-label="Copy a direct link to this cinema clip">🔗 share</button>
                 <div class="cinema-meta">
                     <span class="cinema-handle"></span>
                     <span class="cinema-theme"></span>
@@ -214,10 +277,143 @@
         overlay.querySelector('.cinema-exit').addEventListener('click', exitCinema);
         overlay.querySelector('.cinema-prev').addEventListener('click', () => playAt(idx - 1));
         overlay.querySelector('.cinema-next').addEventListener('click', () => playAt(idx + 1));
+        overlay.querySelector('.cinema-share').addEventListener('click', shareCurrent);
         document.addEventListener('keydown', cinemaKey);
         document.addEventListener('fullscreenchange', () => {
             if (!document.fullscreenElement && overlay) exitCinema();
         });
+        wireGestures();
+    }
+
+    // ---- gestures: tap = toggle chrome, press-hold = 2x FF, hold+swipe-down = lock FF ----
+    const FF_SPEED = 2;
+    const HOLD_MS = 220;      // ms before hold-FF kicks in (separates tap from hold)
+    const LOCK_SWIPE_PX = 35; // swipe-down distance to lock FF
+    let chromeHidden = false;
+    let ffActive = false;     // currently fast-forwarding via active press
+    let ffLocked = false;     // FF locked-on by swipe-down
+    let holdTimer = null;
+    let holdStartY = 0;
+    let pointerDownAt = 0;
+    let pointerDownPos = { x: 0, y: 0 };
+
+    function wireGestures() {
+        // Only attach to the video. Controls (.cinema-chrome > *) sit above and handle their own clicks.
+        video.addEventListener('pointerdown', onPointerDown);
+        video.addEventListener('pointermove', onPointerMove);
+        video.addEventListener('pointerup', onPointerUp);
+        video.addEventListener('pointercancel', cancelHold);
+        // Prevent the native double-tap-to-zoom + context menu so gestures stay clean
+        video.addEventListener('contextmenu', (e) => e.preventDefault());
+    }
+
+    function onPointerDown(e) {
+        if (e.button !== undefined && e.button !== 0) return;
+        pointerDownAt = performance.now();
+        pointerDownPos = { x: e.clientX, y: e.clientY };
+        holdStartY = e.clientY;
+        try { video.setPointerCapture(e.pointerId); } catch (_) {}
+        holdTimer = setTimeout(() => {
+            // long-hold reached: start FF (unless already locked)
+            if (!ffLocked) {
+                ffActive = true;
+                video.playbackRate = FF_SPEED;
+                showSpeedIndicator(`${FF_SPEED}x`, 'hold');
+            }
+        }, HOLD_MS);
+    }
+
+    function onPointerMove(e) {
+        if (!ffActive || ffLocked) return;
+        const dy = e.clientY - holdStartY;
+        if (dy >= LOCK_SWIPE_PX) {
+            ffLocked = true;
+            // lock takes over from active-press; clear ffActive so a subsequent tap
+            // hits the unlock branch instead of the "release-ends-FF" branch.
+            ffActive = false;
+            showSpeedIndicator(`${FF_SPEED}x · locked`, 'lock');
+        }
+    }
+
+    function onPointerUp(e) {
+        const dt = performance.now() - pointerDownAt;
+        const moved = Math.hypot(e.clientX - pointerDownPos.x, e.clientY - pointerDownPos.y);
+        clearTimeout(holdTimer); holdTimer = null;
+        try { video.releasePointerCapture(e.pointerId); } catch (_) {}
+
+        const wasFF = ffActive;
+        // If FF was active (long hold) and we're NOT locked, releasing ends FF.
+        if (wasFF && !ffLocked) {
+            ffActive = false;
+            video.playbackRate = 1;
+            hideSpeedIndicator();
+        }
+
+        // A "tap" is a short release that didn't drag much and didn't trigger long-hold FF.
+        if (!wasFF && dt < HOLD_MS && moved < 12) {
+            if (ffLocked) {
+                // tap while FF-locked = unlock + reset speed
+                ffLocked = false;
+                video.playbackRate = 1;
+                hideSpeedIndicator();
+            } else {
+                // plain tap: toggle chrome visibility
+                toggleChrome();
+            }
+        }
+    }
+
+    function cancelHold() {
+        clearTimeout(holdTimer); holdTimer = null;
+        if (ffActive && !ffLocked) {
+            ffActive = false;
+            video.playbackRate = 1;
+            hideSpeedIndicator();
+        }
+    }
+
+    function toggleChrome() {
+        chromeHidden = !chromeHidden;
+        overlay.classList.toggle('chrome-hidden', chromeHidden);
+    }
+
+    function showSpeedIndicator(text, variant) {
+        const el = overlay.querySelector('.cinema-speed-indicator');
+        if (!el) return;
+        el.textContent = text;
+        el.dataset.variant = variant;
+        el.classList.add('on');
+    }
+    function hideSpeedIndicator() {
+        const el = overlay.querySelector('.cinema-speed-indicator');
+        if (!el) return;
+        el.classList.remove('on');
+    }
+
+    // ---- shareable deep link ----
+    function shareCurrent() {
+        const cur = order[idx];
+        if (!cur) return;
+        const url = new URL(window.location.href);
+        url.search = ''; url.hash = '';
+        url.searchParams.set('cinema', cur.id);
+        const link = url.toString();
+        const finish = (msg) => {
+            const btn = overlay.querySelector('.cinema-share');
+            if (!btn) return;
+            const orig = btn.textContent;
+            btn.textContent = msg;
+            setTimeout(() => { btn.textContent = orig; }, 1400);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(link).then(() => finish('✓ link copied'), () => finish('copy failed'));
+        } else {
+            // fallback: legacy execCommand path
+            const ta = document.createElement('textarea');
+            ta.value = link; document.body.appendChild(ta); ta.select();
+            try { document.execCommand('copy'); finish('✓ link copied'); } catch (_) { finish('copy failed'); }
+            ta.remove();
+        }
     }
 
     function playAt(i) {
@@ -231,6 +427,8 @@
         overlay.querySelector('.cinema-theme').textContent = cur.primary;
         overlay.querySelector('.cinema-counter').textContent = `${idx + 1} / ${order.length}`;
         video.src = cur.video;
+        // honor an FF-lock across reel transitions; otherwise normal speed
+        video.playbackRate = ffLocked ? FF_SPEED : 1;
         if (audioCtx && audioCtx.state === 'suspended') audioCtx.resume().catch(() => {});
         const p = video.play();
         if (p && p.catch) p.catch(() => {/* autoplay blocked; user can hit play */});
@@ -238,7 +436,9 @@
 
     function exitCinema() {
         document.removeEventListener('keydown', cinemaKey);
-        if (video) { try { video.pause(); video.removeAttribute('src'); video.load(); } catch (e) {} }
+        clearTimeout(holdTimer); holdTimer = null;
+        ffActive = false; ffLocked = false; chromeHidden = false;
+        if (video) { try { video.pause(); video.playbackRate = 1; video.removeAttribute('src'); video.load(); } catch (e) {} }
         if (overlay) { overlay.remove(); overlay = null; video = null; }
         document.body.classList.remove('cinema-on');
         if (document.fullscreenElement && document.exitFullscreen) document.exitFullscreen().catch(() => {});

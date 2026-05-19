@@ -424,3 +424,55 @@ body.cinema-on { overflow: hidden; }
     background: var(--bus-yellow);
     color: var(--ink);
 }
+.cinema-share {
+    position: absolute;
+    top: max(1rem, env(safe-area-inset-top));
+    left: max(1rem, env(safe-area-inset-left));
+    background: rgba(0,0,0,0.6);
+    color: var(--bus-yellow);
+    border: 2px solid var(--bus-yellow);
+    padding: 0.45rem 0.85rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    min-width: 8.5rem;
+    text-align: center;
+}
+.cinema-share:hover { background: var(--bus-yellow); color: var(--ink); }
+/* tap-to-hide-chrome: every chrome surface fades out together, but tap-target stays clickable */
+.cinema-overlay.chrome-hidden .cinema-chrome > * {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+}
+.cinema-chrome > * { transition: opacity 0.18s ease; }
+/* hold-to-FF speed indicator */
+.cinema-speed-indicator {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%) scale(0.85);
+    padding: 0.6rem 1.4rem;
+    background: rgba(0,0,0,0.75);
+    color: var(--bus-yellow);
+    border: 2px solid var(--bus-yellow);
+    border-radius: 12px;
+    font-family: var(--display);
+    font-size: 2rem;
+    letter-spacing: 0.05em;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    z-index: 110;
+}
+.cinema-speed-indicator.on {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+.cinema-speed-indicator[data-variant="lock"] {
+    background: var(--accent);
+    color: var(--bus-yellow);
+}
+/* video itself needs to receive pointer events for gestures */
+.cinema-video { touch-action: manipulation; }

@@ -39,6 +39,7 @@ import { spawnSync } from "node:child_process";
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
+import { normalizeAudio } from "./normalize-audio.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CAPS_DIR = `${ROOT}/sources/captures`;
@@ -161,6 +162,7 @@ function extractAudio(webmPath, wavPath) {
 function extractFrames(webmPath, framesDir) {
     runOrThrow("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-i", webmPath, "-vf", "fps=0.5", `${framesDir}/f%03d.png`]);
 }
+
 
 // ---------- step 5: whisper transcribe ----------
 function transcribe(wavPath, outDir, model) {
@@ -286,7 +288,12 @@ async function main() {
         console.log("[1/6] capture skipped (using existing reel.webm)");
     }
 
-    console.log("[2/6] extract audio (ffmpeg)…");
+    console.log("[2a/6] normalize audio (ffmpeg loudnorm 2-pass)…");
+    const norm = normalizeAudio(webmPath);
+    console.log(`     in: I=${norm.input.I} LUFS, TP=${norm.input.TP} dBTP`);
+    console.log(`     out: I=${norm.output.I} LUFS, TP=${norm.output.TP} dBTP`);
+
+    console.log("[2b/6] extract audio (ffmpeg)…");
     extractAudio(webmPath, wavPath);
 
     console.log("[3/6] extract frames (ffmpeg @ 0.5fps)…");

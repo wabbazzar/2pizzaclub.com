@@ -40,6 +40,8 @@ A sourced editorial timeline. Static site: plain HTML + CSS + ES modules. No bui
 │   └── clips/<id>-NN.png         # inline-evidence highlight clips for source quotes
 └── tools/
     ├── ingest-reel.mjs           # full reel-to-disk ingest pipeline
+    ├── normalize-audio.mjs       # ffmpeg loudnorm helper (one webm in place)
+    ├── normalize-captures.mjs    # batch-normalize every capture; --dry-run for measurement only
     ├── clip-evidence.mjs         # renders highlighted-quote screenshots for sources[].quote
     ├── INGEST-SOP.md             # operational doc — read before running ingest
     └── CAPTURE-PROCEDURE.md
@@ -81,7 +83,8 @@ node /home/wabbazzar/code/2pizzaclub/tools/ingest-reel.mjs "<URL or SHORTCODE>"
 This runs ~1–4 minutes per reel:
 1. Headless Chromium captures the in-page `<video>` element via `MediaRecorder` over `captureStream()` (bypasses IG's auth wall, which only blocks the poster image)
 2. Scrapes `og:*` metadata (caption, handle, posted date, engagement)
-3. `ffmpeg` → WAV (16 kHz mono) for whisper
+3a. `ffmpeg loudnorm` (two-pass, target −16 LUFS / −1.5 dBTP / LRA 11) rewrites `reel.webm` in place — Instagram audio often arrives over digital max and would clip on playback. Video stream is copied; only audio is re-encoded (libopus 96k). The cinema-mode Web Audio compressor in `gallery/cinema.js` is a redundant backup; the inline `<video>` player has no compressor, so this ingest pass is what keeps it clean.
+3b. `ffmpeg` → WAV (16 kHz mono) for whisper
 4. `ffmpeg` → frames at 0.5 fps under `frames/` (only `f001.png` survives; the rest are `.gitignore`d)
 5. `whisper base.en` → `transcript.{txt,srt,vtt,json}`
 6. Writes `meta.json` skeleton with editorial fields empty (`audio_track_actual`, `video_overlay_text_observed`, `audio_content_summary`, `implied_frame`, `evidence_records`, `supporting_research_links`)

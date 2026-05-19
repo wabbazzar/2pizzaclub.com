@@ -1,0 +1,48 @@
+{
+    "id": "1843-bnai-brith-founding-001",
+    "anchor": "y1843-bnai-brith",
+    "year": 1843,
+    "era": "i",
+    "themes": [
+        "adl",
+        "journalism"
+    ],
+    "claim": "On October 13, 1843, twelve recent German Jewish immigrants — led by Henry Jones (born Heinrich Jonas) and including Isaac Rosenbourg — met at Aaron Sinsheimer's café on New York City's Lower East Side and founded what is today the world's oldest continuously operating Jewish service organization. They originally named it Bundes-Brüder (German for \"Brothers of the Covenant\"); the Hebrew rendering Bnai Brith / B'nai B'rith (Sons of the Covenant) followed. The founders explicitly modeled the organization on the European fraternal-lodge form, adopted a constitution whose purpose tracked the traditional functions of Jewish societies in Europe — \"visiting and attending the sick\" and \"protecting and assisting the widow and the orphan\" — and chose Benevolence, Brotherly Love, and Harmony as the order's motto. Isaac Rosenbourg described the founding motivation as a response to \"the deplorable condition of Jews in this, our newly adopted country.\" From this 1843 nucleus the order grew into a national, then international, network with lodges across the U.S. and Europe; began publishing The Menorah as its official monthly organ in 1886 (Benjamin Franklin Peixotto, editor); produced a sequence of nationally visible Jewish-American advocates, including Simon Wolf (longtime B'nai B'rith president and emissary to multiple U.S. presidents — see [[1888-wolf-influence-speech-001]]); and in 1913 founded the Anti-Defamation League in Chicago in response to the Leo Frank case (see [[y1913-frank-adl]]). B'nai B'rith is the parent organization for every later episode that names \"the ADL\" or \"B'nai B'rith\" on this timeline.",
+    "sources": [
+        {
+            "label": "B'nai B'rith International — \"History of Service\" (the organization's own institutional history page). States the founding date, place, and Henry Jones as leader of twelve German Jewish immigrants.",
+            "type": "primary",
+            "url": "https://www.bnaibrith.org/about-us/history-of-service/",
+            "quote": "The first meeting of B'nai B'rith took place on Oct. 13, 1843, at Sinsheimer's Café on New York City's Lower East Side."
+        },
+        {
+            "label": "The Menorah: A Monthly Magazine. Official organ of the B'ne B'rith — vol. 1 (1886), edited by Benjamin Franklin Peixotto. Primary period publication; demonstrates that the order was producing its own press by the mid-1880s and provides contemporaneous self-description.",
+            "type": "primary",
+            "url": "https://archive.org/details/menorahamonthly00brigoog"
+        },
+        {
+            "label": "Encyclopedia of Judaism — \"B'nai B'rith\" (Encyclopedia.com). Secondary reference with the founding date, place, Sinsheimer's café, Henry Jones, Isaac Rosenbourg, and the original German name.",
+            "type": "secondary",
+            "url": "https://www.encyclopedia.com/philosophy-and-religion/judaism/judaism/bnai-brith",
+            "quote": "True to their German heritage, the founders originally named the organization Bundes Bruder (Sons of the Covenant)"
+        },
+        {
+            "label": "Wikipedia — \"B'nai B'rith.\" Compiles the founding facts (date, place, twelve founders, Henry Jones, Bundes-Brüder, motto, founding-constitution language) with footnoted citations to Deborah Dash Moore's B'nai B'rith and the Challenge of Ethnic Leadership (SUNY, 1981) and the Shengold Jewish Encyclopedia.",
+            "type": "secondary",
+            "url": "https://en.wikipedia.org/wiki/B%27nai_B%27rith",
+            "quote": "B'nai B'rith was founded in Aaron Sinsheimer's café in New York City's Lower East Side on 13 October 1843, by 12 recent German Jewish immigrants led by Henry Jones."
+        },
+        {
+            "label": "Deborah Dash Moore, B'nai B'rith and the Challenge of Ethnic Leadership (State University of New York Press, Albany, 1981) — the canonical academic-history monograph for the order's founding and 19th–20th-century institutional trajectory. Cited by Wikipedia footnote [6] for the founding facts above.",
+            "type": "secondary",
+            "url": null
+        },
+        {
+            "label": "Edward E. Grusd, B'nai B'rith: The Story of a Covenant (Appleton-Century, New York, 1966) — institutional history written for the order's 125th anniversary; standard biographical source for the founders and the early lodge structure.",
+            "type": "secondary",
+            "url": null
+        }
+    ],
+    "status": "verified",
+    "notes": "The cleanest primary source for the very first 1843 meeting is the order's own self-narration, which has been institutionally maintained without contradiction for 180 years and is corroborated by the academic monograph (Moore 1981) and the institutional history (Grusd 1966). No surviving 1843 minute-book has been digitized publicly; The Menorah (1886+) is the earliest digitized in-house publication on archive.org. This record exists primarily as the parent-organization anchor for the existing 1913 ADL record and the 1888 Wolf record, so that downstream entries that name 'B'nai B'rith' or 'the ADL' have an explicit 1843-founding receipt at the head of the timeline rather than a reference to an unanchored organization. Themes are deliberately restricted to the existing taxonomy (adl, journalism); the order's later financial / international / political activities should ride on the records that document them, not on this founding-pure record."
+}

@@ -316,6 +316,15 @@
 @media (prefers-reduced-motion: reduce) {
     .cinema-btn-bulbs { animation: none; }
 }
+.cinema-btn-loading { opacity: 0.9; cursor: progress; }
+.cinema-btn-loading .cinema-btn-sub::after {
+    content: ' · loading themes…';
+    animation: cinema-pulse 1.2s ease-in-out infinite;
+}
+@keyframes cinema-pulse {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 1; }
+}
 
 /* ---------------- cinema overlay ---------------- */
 

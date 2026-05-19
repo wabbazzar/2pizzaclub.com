@@ -1,0 +1,46 @@
+{
+    "id": "1888-wolf-influence-speech-001",
+    "anchor": "y1888-wolf",
+    "year": 1888,
+    "era": "i",
+    "themes": [
+        "finance",
+        "israel",
+        "palestine",
+        "journalism"
+    ],
+    "claim": "On April 1, 1888, Washington lawyer Simon Wolf — president of the Independent Order B'nai B'rith and an emissary on European Jewish-rights questions to multiple U.S. presidents — published in Washington, D.C. a revised version of a lecture, first delivered to the Schiller Bund and then in many U.S. cities, titled The Influence of the Jews on the Progress of the World (T. McGill & Co., 1888). Wolf framed the lecture explicitly as an answer to \"recent scurrilous anti-Semitic speeches and publications.\" The text makes four claims that recur, almost verbatim, in modern conspiratorial narratives about Jewish influence — but stated by Wolf affirmatively, from inside the community, in print, for public sale, in 1888. (1) Banking: \"We all know that the first bankers of the world — Rothschilds — are Jews; we know they control not only the money market, but also the political destiny of the European world; and one thing can be truthfully said — they never mix their religion with other people's money.\" (2) Press: \"The Press of Europe is mostly controlled by Jews; the leading editors are Jews. The different universities of Europe contain dozens of professors in every walk of science who are devout believers in Judaism, and the leading newspaper in the United States is owned by a Jew.\" (3) Revolution: \"The revolutionary feeling in Europe owed its life and stimulus to Jews; the German Government called every patriot a Jew; and the liberal ideas slowly dawning in Europe are mainly due to Jewish brains and money.\" (4) Anti-restoration: nine years before Theodor Herzl's Der Judenstaat (1896) and twenty-nine before the Balfour Declaration, Wolf rejected the program that would become political Zionism — \"This is our home, our Palestine; we have no other ambition than to prosper in this land of our adoption... No! Jerusalem is an honorable past; it is the cradle of Religion; it is no hope for the future, not the place from which will spring a new, active life... Honor to Jerusalem and its memories, as to any of our great dead, but we have no desire to disturb its repose.\" The pamphlet is digitized and full-text searchable; every quote above appears verbatim in the OCR.",
+    "sources": [
+        {
+            "label": "Simon Wolf, The Influence of the Jews on the Progress of the World (T. McGill & Co., Washington, D.C., April 1, 1888) — full scan at the Internet Archive.",
+            "type": "primary",
+            "url": "https://archive.org/details/influenceofjewso00wolf",
+            "quote": "We all know that the first bankers of the world — Rothschilds — are Jews; we know they control not only the money market, but also the political destiny of the European world"
+        },
+        {
+            "label": "Simon Wolf, The Influence of the Jews on the Progress of the World (1888) — OCR plain-text, on press and academic prominence.",
+            "type": "primary",
+            "url": "https://archive.org/download/influenceofjewso00wolf/influenceofjewso00wolf_djvu.txt",
+            "quote": "The Press of Europe is mostly controlled by Jews; the leading editors are Jews."
+        },
+        {
+            "label": "Simon Wolf, The Influence of the Jews on the Progress of the World (1888) — OCR plain-text, on Jewish authorship of European revolutionary and liberal movements.",
+            "type": "primary",
+            "url": "https://archive.org/download/influenceofjewso00wolf/influenceofjewso00wolf_djvu.txt",
+            "quote": "The revolutionary feeling in Europe owed its life and stimulus to Jews"
+        },
+        {
+            "label": "Simon Wolf, The Influence of the Jews on the Progress of the World (1888) — OCR plain-text, on the rejection of a Jewish national restoration in Palestine.",
+            "type": "primary",
+            "url": "https://archive.org/download/influenceofjewso00wolf/influenceofjewso00wolf_djvu.txt",
+            "quote": "This is our home, our Palestine; we have no other ambition than to prosper in this land of our adoption"
+        },
+        {
+            "label": "HathiTrust Digital Library catalog record for the 1888 pamphlet (alternate digitized copy).",
+            "type": "primary",
+            "url": "https://catalog.hathitrust.org/Record/100192105"
+        }
+    ],
+    "status": "verified",
+    "notes": "Every quote was checked against the archive.org DJVU OCR of the 1888 pamphlet (item ID influenceofjewso00wolf). The four quotes are not chosen to make Wolf look bad — they're chosen because the same four sentences (banking, press, revolution, anti/pro-restoration) form the core of nearly every modern Instagram-reel narrative about 'Jewish influence,' and the 1888 pamphlet is among the cleanest primary sources where they appear in plain language, affirmatively, from inside the community. Wolf was simultaneously a confidant of Lincoln (see 1865-lincoln-assassination-001 for the Booth-resemblance episode from his 1918 memoir) and the longtime president of B'nai B'rith — i.e., one of the most visible Jewish-American public figures of his era. The anti-Zionist passage is also genuine: 1888 predates Herzl's Der Judenstaat by nine years and the Balfour Declaration by twenty-nine, and is a direct datum that the U.S. Reform leadership of the period actively opposed the program that would later become Israel — useful when a downstream reel frames political Zionism as continuous since antiquity."
+}
